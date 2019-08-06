@@ -133,7 +133,7 @@ En esta lección aprenderás los principales bloques del lenguaje de programaci�
 
 En esta lección vamos a realizar un ejemplo básico del juego de persigue para que el alumno empiece a entender el concepto de la programación por bloques paso a paso. Este sencillo videojuego es el primero que recomendamos para entender el funcionamiento del lenguaje de programación por bloques de Scratch.
 
-![](img/juego-de-persigue-con-scratch.gif)
+![](img/preview.gif)
 
 Para ello vamos a utilizar los bloques de movimiento para interactuar con el personaje principal del videojuego. Por otro lado, crearemos un algoritmo para que el segundo personaje se mueva siguiendo a nuestro personaje.
 

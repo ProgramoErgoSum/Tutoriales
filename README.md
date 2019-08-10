@@ -1,4 +1,4 @@
-# Tutoriales de Programo ergo Sum
+# Tutoriales de Programo Ergo Sum
 
 > Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo de código abierto [Programo Ergo Sum][PES-COM].
 

@@ -2,6 +2,31 @@
 
 > Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo de código abierto [Programo Ergo Sum][PES-COM].
 
+## Scratch
+
+1. Curso de iniciación a la programación con Scratch 3.0
+2. Curso de iniciación a la programación con Scratch 2.0
+3. Videojuego del laberinto programado con Scratch 2.0
+4. Videojuego de Pong programado con Scratch 2.0
+5. Videojuego de pájaros programado con Scratch 2.0
+6. Videojuego de Fútbol programado con Scratch 2.0
+7. Videojuego de Arkanoid programado con Scratch 2.0
+8. Videojuego de Duck Hunt programado con Scratch 2.0
+9. Videojuego de Flappy Bird programado con Scratch 2.0
+10. Videojuego de Space Invaders programado con Scratch 2.0
+11. Videojuego de Frogger programado con Scratch 2.0
+12. Videojuego de Battle City programado con Scratch 2.0
+13. Videojuego de Pac Man programado con Scratch 2.0
+14. Videojuego de Berzerk programado con Scratch 2.0
+15. Aprende las vocales con Scratch 2.0
+16. Pokemon Go con Scratch 2.0
+17. Efecto nieve con Scratch 2.0
+18. Efecto altavoz con Scratch 2.0
+19. Control de volumen con Scratch 2.0
+20. Gráficas de audio con Scratch 2.0
+
+---
+
 ### Licencia
 
 Esta obra está bajo una licencia de [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional][CC-BY-SA].

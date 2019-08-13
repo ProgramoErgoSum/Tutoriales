@@ -25,8 +25,6 @@
 19. Control de volumen con Scratch 2.0
 20. Gráficas de audio con Scratch 2.0
 
----
-
 ## Robótica educativa
 
 1. Introducción a la robótica educativa con Bee-Bot
@@ -45,6 +43,21 @@
 14. Botones en Microbit con Python
 15. Pines GPIO en Microbit con Python
 16. Acelerómetro en Microbit con Python
+
+## Arduino
+
+1. Curso de primeros pasos con Arduino
+2. Salidas digitales con Arduino
+3. Salidas analĺogicas con Arduino
+4. Entradas digitales con Arduino
+5. Entradas analógicas con Arduino
+6. Programación de un semáforo con Arduino
+7. Efecto de luces del coche fantástico con Arduino
+8. Cubo de LEDs ( 2 x 2 x 2 ) con Arduino
+9. Introducción a la placa de desarrollo NodeMCU ESP8266
+10. Configuración de ESP8266 con el IDE de Arduino
+11. Conectar a la WiFi con ESP8266
+12. Servidor Web con ESP8266
 
 
 

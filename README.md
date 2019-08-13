@@ -27,6 +27,27 @@
 
 ---
 
+## Robótica educativa
+
+1. Introducción a la robótica educativa con Bee-Bot
+2. Introducción a la robótica educativa con Makey-Makey
+3. El cuerpo humano con Makey-Makey y Scratch
+4. Juego de operación con Makey-Makey y Scratch
+5. Introducción a la robótica educativa con Echidna Shield
+6. Introducción a la robótica educativa con mBot
+7. Led RGB del robot mBot con mBlock
+8. Sensor ultrasonidos del robot mBot con mBlock
+9. Sensor sigue-líneas del robot mBot con mBlock
+10. Mando IR del robot mBot con mBlock
+11. Videojuego de tocado con mBlock y Arduino
+12. Videojuego de Arkanoid con mBlock y Arduino
+13. Matriz de LEDs en Microbit con Python
+14. Botones en Microbit con Python
+15. Pines GPIO en Microbit con Python
+16. Acelerómetro en Microbit con Python
+
+
+
 ### Licencia
 
 Esta obra está bajo una licencia de [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional][CC-BY-SA].

@@ -187,4 +187,4 @@ Un bucle while permite repetir la ejecución de un grupo de instrucciones mientr
 
 ## Proyecto Aprende Programando
 
-Puedes acceder a la plataforma <a target="_blank" href="https://https://www.aprendeprogramando.es/cursos-online/python">AprendeProgramando</a> para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.
+Puedes acceder a la plataforma <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">AprendeProgramando</a> para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.

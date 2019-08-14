@@ -59,6 +59,16 @@
 11. Conectar a la WiFi con ESP8266
 12. Servidor Web con ESP8266
 
+## AppInventor
+
+1. Introducción a la programación con AppInventor
+2. Programar Eventos y Condiciones con AppInventor
+3. Programación de un cronómetro en AppInventor
+4. Procedimientos y Funciones con AppInventor
+5. Videojuego de persigue con AppInventor
+6. Listas y Funciones con AppInventor
+7. Algoritmo de ordenación con AppInventor
+
 
 
 ### Licencia

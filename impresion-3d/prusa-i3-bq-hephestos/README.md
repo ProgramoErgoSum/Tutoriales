@@ -140,7 +140,7 @@ La base de impresión se nivela en cuatro puntos mediante cuatro tornillos, es r
 
 Este tipo de impresoras necesitan sesiones de mantenimiento para poder seguir imprimiendo sin problemas y para no estropear los componentes que la forman. Lo recomendado es realizar una sesión de mantenimiento cada mes aproximadamente. Si haces un uso intensivo de la impresora es posible que tengas que realizar sesiones de mantenimiento con más frecuencia.
 
-### 1. Revisión de tuercas y tornillos
+1. Revisión de tuercas y tornillos
 
 Las vibraciones que provocan el hecho de imprimir pueden aflojar las tuercas y los tornillos de la impresora. Por ello es conveniente hacer una comprobación de que toda la tornillería esté bien apretada para que la impresora siga imprimiendo perfectamente.
 

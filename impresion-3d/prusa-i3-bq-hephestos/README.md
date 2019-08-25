@@ -140,34 +140,34 @@ La base de impresión se nivela en cuatro puntos mediante cuatro tornillos, es r
 
 Este tipo de impresoras necesitan sesiones de mantenimiento para poder seguir imprimiendo sin problemas y para no estropear los componentes que la forman. Lo recomendado es realizar una sesión de mantenimiento cada mes aproximadamente. Si haces un uso intensivo de la impresora es posible que tengas que realizar sesiones de mantenimiento con más frecuencia.
 
-1. Revisión de tuercas y tornillos
+**1.- Revisión de tuercas y tornillos**
 
 Las vibraciones que provocan el hecho de imprimir pueden aflojar las tuercas y los tornillos de la impresora. Por ello es conveniente hacer una comprobación de que toda la tornillería esté bien apretada para que la impresora siga imprimiendo perfectamente.
 
-### 2. Limpieza de ventiladores y electrónica
+**2.- Limpieza de ventiladores y electrónica**
 
 Las aspas de los ventiladores y la electrónica acumulan polvo. Esta acumulación puede provocar una mala refrigeración o fallos en la electrónica. Comienza desatornillando el ventilador de la electrónica y limpia las aspas por ambos lados con la brocha. Realiza lo mismo con la electrónica.
 
 El extrusor tiene dos ventiladores, comienza limpiando el lateral. Separa el disipador del ventilador y límpialos por separado. Limpia el ventilador de la misma forma que hiciste con el de la electrónica y el disipador límpialo pasando la brocha por su superficie.
 
-### 3. Comprueba las correas
+**3.- Comprueba las correas**
 
 Las correas se pueden destensar con el uso y con el tiempo, por lo que periódicamente debe comprobarse su tensión. Comprueba la tensión de las corres y en caso de que no estén lo suficientemente tensas, ayúdate de la pieza del tensor para ajustarlas.
 
-### 4. Limpieza de las varillas
+**4.- Limpieza de las varillas**
 
 Tanto las varillas lisas como las roscadas han de estar bien limpias y engrasadas para que deslice correctamente y no se produzcan ruidos ni vibraciones molestas. Limpia las varillas y una vez limpias, echa unas gotas de lubricante en otro trozo de papel.
 
-### 5. Limpieza del cristal
+**5.- Limpieza del cristal**
 
 Si imprimes pulverizando laca sobre la superficie de cristal, notarás que se forma una capa sobre ésta, que aumenta su grosor cuantas más veces se utilice laca. Esta capa también puede estar formada por restos de plástico de impresiones anteriores. El aumento de grosor de dicha capa puede provocar malas impresiones de las primeras capas de la pieza, por lo que es conveniente limpiar el cristal cada cierto tiempo. Para limpiar el cristal simplemente lávalo con agua caliente para que se despege con facilidad el plástico y la laca.
 
-### 6. Limpieza del Hotend
+**6.- Limpieza del Hotend**
 
 El hotend es la pieza que se calienta y por la que sale el filamento de plástico caliente y en ocasiones se pueden dar atascos en el interior de esta pieza que provocan que el plástico no fluya y que la impresora no funcione correctamente.
 
 Para limpiar el hotend lo primero que hay que hacer es quitar la pieza protectora que rodea la punta del hotend y quitar el filamento. Una vez extraído el filamento, introduce la punta de la aguja de acupuntura por la boquilla del hotend (por la parte inferior) teniendo cuidado de no acercar los dedos al hotend. Sube y baja la aguja por el interior de éste durante unos segundos. Este movimiento desplazará el plástico que pueda haber dentro del hotend, desatascándolo en caso de que se hubiese producido un atasco. Una vez realizado este paso, lo siguiente será limpiar externamente la punta del hotend. Teniendo mucho cuidado de no dañar los cables del cartucho cerámico y del termistor pasaremos el cepillo de púas por la parte exterior de la punta del hotend.
 
-### 7. Nivelación de la base
+**7.- Nivelación de la base**
 
 Repite este proceso tal y como se explica en la lección anterior.

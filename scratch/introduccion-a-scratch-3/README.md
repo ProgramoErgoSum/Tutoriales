@@ -1,6 +1,6 @@
 ## Introducción
 
-En este curso online de iniciación a la programación aprenderás a utilizar la herramienta de Scratch 3.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
+En este **tutorial de iniciación a la programación con Scratch 3.0** te enseñamos las principales diferencias sobre la anterior versión de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/6ofHiea__hU" allowfullscreen></iframe>

@@ -25,8 +25,6 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
   <iframe src="//www.youtube.com/embed/Xp1iSsKxop4" allowfullscreen></iframe>
 </div>
 
-<iframe src="//www.youtube.com/embed/Xp1iSsKxop4" allowfullscreen></iframe>
-
 ### Escenario del laberinto
 
 En primer lugar añadimos el laberinto en el escenario con su respectiva marca de salida. Dicha marca la vamos a realizar con el editor de dibujo de Scratch. Recuerda que debes elegir un color único ya que lo utilizaremos como sensor para detectar que hemos llegado a la meta.

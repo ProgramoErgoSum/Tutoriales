@@ -1,4 +1,4 @@
-# Curso de iniciación a la programación con Scratch 3.0
+## Introducción
 
 En este curso online de iniciación a la programación aprenderás a utilizar la herramienta de Scratch 3.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
 
@@ -6,7 +6,7 @@ En este curso online de iniciación a la programación aprenderás a utilizar la
   <iframe src="//www.youtube.com/embed/6ofHiea__hU" allowfullscreen></iframe>
 </div>
 
-## Haciendo un poco de historia...
+### Haciendo un poco de historia...
 
 Haciendo un poco de historia, recordarás la primera versión de Scratch 1.4 creada sobre el año 2009. Actualmente todavía existen usuarios que siguen utilizando dicha versión en sistemas operativos Linux.
 
@@ -32,7 +32,7 @@ No te preocupes si tienes proyectos en versiones anteriores ya que podrás segui
 
 
 
-## Nuevo diseño del editor
+## Diseño del editor
 
 El primer cambio que encontramos al acceder a la nueva versión de Scratch 3.0 es la disposición de los móodulos sobre el editor. Si anteriormente teníamos el escenario en la parte izquierda, en la nueva versión el escenario está situado en la derecha. Este cambio viene para quedarse, ya que en la primera versión de Scratch 1.4 estaba situada en la misma posición.
 
@@ -58,7 +58,7 @@ En cuanto a la cantidad de bloques de programación, además de agrandarlos para
 
 
 
-## Nuevo editor de dibujo
+## Editor de dibujo
 
 El editor de dibujo ha sido diseñado por completo para ofrecer nuevas funciones. Algunas de las más necesitadas en versiones anteriores era la función de seleccionar y ajustar color, la cual se ha incluido, así como controles para ordenar las capas hacia adelante o hacia atrás, etc.
 
@@ -76,7 +76,7 @@ La principal ventaja de utilizar un disfraz en modo vectorial es que podemos mod
 
 
 
-### Nuevo editor de sonido
+## Editor de sonido
 
 Desde ahora podrás manipular las grabaciones de una forma más sencilla e intuitiva. Podrás añadir efectos para acelerar o relentizar tus grabaciones, como reproducir un pequeño retardo o eco, etc. Además, en cuanto a los bloques de sonido, podemos cambiar el sonido de forma dinámica así como detenerlos todos de golpe.
 
@@ -92,7 +92,7 @@ Por último, otra novedad interesante es la reproducción automática de los son
 
 
 
-### Nuevo apartado para las extensiones
+## Extensiones
 
 Si recordamos la versión anterior de Scratch 2.0, aparecían 3 categorías que hacían referencia a los bloques de lápiz, música o sensor de vídeo. Sin embargo, a simple vista, no encontramos dichas categorías en la nueva versión de Scratch 3.0.
 
@@ -108,7 +108,7 @@ Para activar estas categorías debemos incluir las extensiones en la parte infer
 
 
 
-### Activar WebGL para Scratch 3.0 en Firefox
+### Activar WebGL en Scratch 3
 
 Si eres usuario de Linux, probablemente te haya aparecido un error al acceder a Scratch 3.0 (Your Browser Does Not Support WebGL), que indica que tu navegador debe soportar WebGL para poder acceder.
 

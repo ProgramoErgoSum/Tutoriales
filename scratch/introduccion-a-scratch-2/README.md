@@ -167,12 +167,6 @@ En este videojuego vamos a crear la variable "Velocidad" encargada de almacenar 
 
 ToDo
 
-
-
-<br />
-
-
-
 ## Materiales
 
 ToDo

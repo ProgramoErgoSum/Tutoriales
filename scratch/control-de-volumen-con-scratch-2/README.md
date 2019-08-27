@@ -1,6 +1,6 @@
-# Control de volumen con Scratch 2.0
+## Introducción
 
-En este curso aprenderás a utilizar la Realidad Aumentada con Scratch para crear aplicaciones y usarlas en el aula con tus alumnos. La aplicación consiste en medir el volumen de tus alumnos con ayuda de un micrófono y mostrar diferentes imágenes por la pantalla. Si el volumen es adecuado se mostrará un fondo de color verde con una cara sonriente, si aumenta cambiará a amarillo y en caso de estar gritando pasará al color rojo.
+En este **tutorial de realidad aumentada con Scratch 2.0** aprenderás a **programar aplicaciones** y usarlas en el aula con tus alumnos. La aplicación consiste en medir el volumen de tus alumnos con ayuda de un micrófono y mostrar diferentes imágenes por la pantalla. Si el volumen es adecuado se mostrará un fondo de color verde con una cara sonriente, si aumenta cambiará a amarillo y en caso de estar gritando pasará al color rojo.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Programación
+## Realidad aumentada
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/OWlknXdxZHo" allowfullscreen></iframe>
@@ -43,7 +43,7 @@ Por último añadimos los puntos de cortes para cambiar a los 3 disfraces. Por e
 
 
 
-## Cambiar imágenes
+## Imágenes
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/UtP-yvxfEO0" allowfullscreen></iframe>
@@ -74,3 +74,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos que añadas un nuevo punto de corte para que se muestren 4 estados. Para ello deberás modificar la programación creando nuevos cortes que cambien al nuevo estado. Recuerda utilizar los bloques lógicos para que funcione correctamente.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

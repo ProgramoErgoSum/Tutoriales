@@ -1,6 +1,6 @@
-# Pokemon Go con Scratch 2.0
+## Introducción
 
-En este curso aprenderás a programar un sencillo videojuego de Realidad Aumentada con Scratch. El juego consiste en capturar solamente a los Pikachu y en caso de capturar a otros personajes se pierde una vida, así hasta que se pierdan todas las vidas y termine la partida.
+En este **tutorial de realidad aumentada con Scratch 2.0** aprenderás a **programar un sencillo videojuego**. El juego consiste en capturar solamente a los Pikachu y en caso de capturar a otros personajes se pierde una vida, así hasta que se pierdan todas las vidas y termine la partida.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Programación
+## Clones con scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/RIGKRIjiWPs" allowfullscreen></iframe>
@@ -74,3 +74,17 @@ Por último, se programa sobre el objeto principal del juego la condición de bo
 En esta última parte del tutorial añadimos unas cuantas mejoras al videojuego. Estas mejoras corresponden a los puntos y vidas que se incrementarán respectivamente en cada personaje.
 
 ![](img/variables.png)
+
+
+
+<br />
+
+
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

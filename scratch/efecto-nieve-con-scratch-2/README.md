@@ -1,6 +1,6 @@
-# Efecto nieve con Scratch 2.0
+## Introducción
 
-En este curso aprenderás a programar Realidad Aumentada con Scratch. La aplicación que se va a programar consiste en el efecto de nieve. Para ello se creará un copo de nieve y con ayuda de los clones de Scratch parecerá que está nevando en nuestra habitación. Además, se podrá interactuar con los copos de nieve para que desaparezcan una vez los toquemos.
+En este **tutorial de realidad aumentada con Scratch 2.0** aprenderás a **programar una sencilla aplicación**. La aplicación que se va a programar consiste en el efecto de nieve. Para ello se creará un copo de nieve y con ayuda de los clones de Scratch parecerá que está nevando en nuestra habitación. Además, se podrá interactuar con los copos de nieve para que desaparezcan una vez los toquemos.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Programación
+## Clones con scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/oGvV2ThljMI" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ Para detectar colores utilizaremos una condición y el sensor correspondiente. L
 
 
 
-## Movimientos
+## Movimientos aleatorios
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/4OaPj4ObhSE" allowfullscreen></iframe>
@@ -94,3 +94,17 @@ En ingeniería del software, el término refactorización se usa a menudo para d
 > La refactorización es la parte del mantenimiento del código que no arregla errores ni añade funcionalidad, símplemente limpia el código dejándolo más ordenado.
 
 Probablemente hayas visto códigos de programación con Scratch que ocupan muchísimos bloques y has intentado modificar algo y lo has visto casi imposible. Sin embargo, si tenemos el código mejor programado utilizando buenas prácticas de programación, los cambios o mejoras futuras son más fáciles de programar. Por eso, en todos nuestros tutoriales de programación con Scratch y otros lenguajes de programación explicamos siempre estas buenas prácticas.
+
+
+
+<br />
+
+
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

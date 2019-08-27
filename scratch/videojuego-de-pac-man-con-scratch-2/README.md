@@ -1,6 +1,6 @@
-# Videojuego de Pac Man programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Pac-Man. El videojuego consiste en mover al personaje principal Pac-Man para coger la comida esquivando a los fantasmas. Los fantasmas se mueven de forma aleatoria ya que están programados mediante un algoritmo que busca a Pac-Man. El juego termina cuando obtenemos toda la comida.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Pac-Man**. El videojuego consiste en mover al personaje principal Pac-Man para coger la comida esquivando a los fantasmas. Los fantasmas se mueven de forma aleatoria ya que están programados mediante un algoritmo que busca a Pac-Man. El juego termina cuando obtenemos toda la comida.
 
 ![](img/preview.gif)
 
@@ -67,7 +67,7 @@ Se puede observar que utilizamos bucles anidados (un bucle dentro de otro) y por
 
 
 
-## Personaje
+## Pac-man
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/SPVBB_AlRQw" allowfullscreen></iframe>
@@ -120,3 +120,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 Cuando empieza la partida, verás que aparece la comida. En este reto tendrás que modificar ciertas partes de la programación y del diseño para crear diferentes tipos de comida, es decir, puedes crear comida con forma de fruta, galletas, etc.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

@@ -1,6 +1,6 @@
-# Videojuego de Arkanoid programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Arkanoid. El videojuego consiste en romper unos ladrillos con una pelota. La pelota rebota en las paredes y no debe tocar el borde inferior de la pantalla en cuyo caso terminará la partida. Para que no toque el borde inferior debemos desplazar una nave en movimiento horizontal donde la pelota rebotará.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Arkanoid**. El videojuego consiste en romper unos ladrillos con una pelota. La pelota rebota en las paredes y no debe tocar el borde inferior de la pantalla en cuyo caso terminará la partida. Para que no toque el borde inferior debemos desplazar una nave en movimiento horizontal donde la pelota rebotará.
 
 ![](img/preview.gif)
 
@@ -119,6 +119,20 @@ Para solucionarlo basta con añadir un bloque para que la pelota se desplace obl
 
 
 
+## Mejoras del juego
+
+En esta lección te adjuntamos un enlace hacia la web de José Pujol el cual cuenta la experiencia que tuvo al introducir la programación con Scratch como desarrollo del pensamiento computacional en un curso de programación destinado a profesores.
+
+Basándose en este mismo videojuego de Arkanoid con Scratch, propuso a los docentes que reinventasen el proyecto a modo de colaboración para añadirle diferentes mejoras. Puedes ver las mejoras desde la web del autor haciendo clic <a target="_blank" href="https://tecnopujol.wordpress.com/2017/02/11/pong-colaborativo-con-scratch">aquí</a>.
+
+![](img/tecnopujol.png)
+
+
+
+<br />
+
+
+
 ## Retos propuestos
 
 Si ya has completado todas las lecciones del tutorial te proponemos resolver los siguientes retos de programación con Scratch.
@@ -140,3 +154,21 @@ Para personalizar el videojuego a tu gusto y ser el más original de tus amigos 
 Siempre que la pelota toca un bloque de programación este se borra, sin embargo quedaría más chulo si al desaparecer gira desvaneciéndose al mismo tiempo como se muestra en la siguiente imagen. La programación es muy sencilla.
 
 ![](img/reto-3.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

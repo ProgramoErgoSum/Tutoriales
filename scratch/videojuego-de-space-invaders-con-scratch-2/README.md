@@ -1,6 +1,6 @@
-# Videojuego de Space Invaders programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Space Invaders utilizando conceptos avanzados del paradigma de la programación informática, así como conceptos de programación orientada a objetos con Scratch. Su objetivo es eliminar a los alienígenas con un cañón láser y obtener la mayor cantidad de puntos posible.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Space Invaders** utilizando conceptos avanzados del paradigma de la programación informática, así como conceptos de programación orientada a objetos con Scratch. Su objetivo es eliminar a los alienígenas con un cañón láser y obtener la mayor cantidad de puntos posible.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Escenario
+## Space Invaders
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/7heq5xo6prE" allowfullscreen></iframe>
@@ -103,7 +103,7 @@ Destacar los parámetros de la función los cuales corresponden al disfraz del m
 
 
 
-## Movimientos
+## Movimiento de clones
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/s-T7SaqMfPo" allowfullscreen></iframe>
@@ -123,7 +123,7 @@ El movimiento de los marcianos es simple, es decir, se moverá hacia la derecha 
 
 
 
-## Mejoras
+## Mejoras y puntos
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/Dsim_9Ia9DU" allowfullscreen></iframe>
@@ -152,3 +152,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos que añadas una nueva funcionalidad al videojuego para que se puedan disparar ráfagas de balas a modo metralleta. Para ello deberás añadir una nueva funcionalidad en la función seleccionada.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

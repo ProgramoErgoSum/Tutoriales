@@ -1,6 +1,6 @@
-# Gráficas de audio con Scratch 2.0
+## Introducción
 
-En este curso aprenderás a utilizar la Realidad Aumentada con Scratch para crear aplicaciones y usarlas en el aula con tus alumnos. La aplicación consiste en pogramar con Scratch un detector de audio, con ayuda de un micrófono y mostrar una gráfica en tiempo real.
+En este **tutorial de realidad aumentada con Scratch 2.0** aprenderás a **programar aplicaciones** y usarlas en el aula con tus alumnos. La aplicación consiste en pogramar con Scratch un detector de audio, con ayuda de un micrófono y mostrar una gráfica en tiempo real.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Programación
+## Realidad aumentada
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/XolwnwSMFIU" allowfullscreen></iframe>
@@ -76,3 +76,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos que modifiques la programación para que aumente la altura de la gráfica sin llegar a tocar los bordes en el peor de los casos (volúmen máximo). Recuerda que las medidas del escenario son de 480px de ancho y 360px de alto. Como pista, puedes ayudarte del concepto matemático de interpolación.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

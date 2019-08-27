@@ -1,6 +1,6 @@
-# Efecto altavoz y audio aumentado con Scratch 2.0
+## Introducción
 
-En este curso aprenderás a programar Realidad Aumentada con Scratch. Para ello vamos a utilizar el micrófono para detectar el volúmen y cambiar de imagen representando las ondas de un altavoz. También se modificará el fondo añadiéndole un efecto de colores.
+En este **tutorial de realidad aumentada con Scratch 2.0** aprenderás a **programar una sencilla aplicación**. Para ello vamos a utilizar el micrófono para detectar el volúmen y cambiar de imagen representando las ondas de un altavoz. También se modificará el fondo añadiéndole un efecto de colores.
 
 ![](img/preview.gif)
 
@@ -39,7 +39,7 @@ En cuanto a la programación de la aplicación establecemos unos límites para c
 
 
 
-## Clones
+## Clones con scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/AdVlyWYgPvU" allowfullscreen></iframe>
@@ -70,3 +70,17 @@ Utilizando clones con Scratch evitamos duplicar código siendo la programación 
 Un efecto que programamos en el video es el efecto de cambiar colores a través de la gama de colores que trae por defecto Scratch, pero también podéis utilizar otros efectos que le darán un efecto diferente como por ejemplo el ojo de pez, etc.
 
 ![](img/efectos.png)
+
+
+
+<br />
+
+
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

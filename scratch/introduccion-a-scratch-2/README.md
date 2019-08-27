@@ -1,6 +1,6 @@
 ## Introducción
 
-En este curso online de iniciación a la programación aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
+En este **tutorial de iniciación a la programación con Scratch 2.0** aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
 
 ![](img/preview.gif)
 

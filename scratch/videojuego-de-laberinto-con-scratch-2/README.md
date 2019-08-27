@@ -1,6 +1,6 @@
 ## Introducción
 
-En este curso de Scratch aprenderás a programar el sencillo videojuego del laberinto. El videojuego consiste en mover a nuestro personaje por un laberinto con obstáculos, los cuales se moverán siguiendo un patrón. El objetivo consiste en esquivarlos y llegar a la salida marcada en color rojo. Si en algún momento tocamos un obstáculo volveremos al principio del videojuego. 
+En este **tutorial con Scratch 2.0** aprenderás a **programar el videojuego del laberinto**. El videojuego consiste en mover a nuestro personaje por un laberinto con obstáculos, los cuales se moverán siguiendo un patrón. El objetivo consiste en esquivarlos y llegar a la salida marcada en color rojo. Si en algún momento tocamos un obstáculo volveremos al principio del videojuego. 
 
 ![](img/preview.gif)
 

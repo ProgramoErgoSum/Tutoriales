@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **montar un servidor web para Python con Flask** en nuestra Raspberry Pi.
 
-# Antes de empezar
+### Antes de empezar
 
 Para este tutorial vas a necesitar los siguientes componentes:
 
@@ -8,23 +10,35 @@ Para este tutorial vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Aprender a programar en Python](https://www.aprendeprogramando.es/cursos-online/python)
+- Aprender a programar en Python en <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende Programando</a>
 
-# Servidor Web con Flask
+### Servidor Web con Flask
 
 Flask es un microframework creado para facilitar el desarrollo de aplicaciones web en Python. Es utilizado normalmente para construir servicios web como APIs REST o aplicaciones de contenido estático.
 
 ![](img/flask.png)
 
+
+
+<br />
+
+
+
 ## Instalar Flask
 
-> Antes de instalar cualquier software es conveniente actualizar la Raspberry Pi como se explica en el tutorial [Raspberry Pi - Raspbian - Update](raspberry_pi-raspbian-update)
+> Antes de instalar cualquier software es conveniente actualizar la Raspberry Pi como se explica en el tutorial **Raspberry Pi - Raspbian - Update**
 
 Una vez actualizada instalamos el servidor de Flask para Python 3.
 
 ```sh
 pi@raspberrypi:~ $ sudo apt install python3-flask
 ```
+
+
+
+<br />
+
+
 
 ## Hola Mundo
 
@@ -49,6 +63,12 @@ URL: localhost:8080
 ```
 
 ![](img/hola-mundo.png)
+
+
+
+<br />
+
+
 
 ## Añadir un template HTML
 
@@ -82,6 +102,12 @@ URL: localhost:8080
 ```
 
 ![](img/template.png)
+
+
+
+<br />
+
+
 
 ## Añadir otra ruta
 
@@ -121,6 +147,12 @@ URL: localhost:8080/quien-soy
 ```
 
 ![](img/rutas.png)
+
+
+
+<br />
+
+
 
 ## Pasar parámetros al template
 
@@ -165,12 +197,24 @@ URL: localhost:8080
 
 ![](img/parametros.png)
 
-# Resumen
 
-Con este sencillo ejemplo hemos visto como crear un sencillo servidor web en Python para crear una web utilizando HTML en nuestra Raspberry Pi.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Crea una sencilla página web con 2 enlaces como se explica en el tutorial.
 
 2.- Añade código CSS para pintar de colores el fondo, el texto, cambia el tamaño de la fuente, etc.
+
+
+
+<br />
+
+
+
+## Ejercicios resueltos
+
+ToDo

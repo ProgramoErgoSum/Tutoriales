@@ -1,6 +1,6 @@
-# Videojuego de Frogger programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Frogger. El objetivo del juego es guiar a la rana hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Frogger**. El objetivo del juego es guiar a la rana hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Escenario
+## Frogger
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/KLhpbuDlxaA" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ En el vídeo se explica la técnica de paralelismo. Como se puede ver en la sigu
 
 
 
-## Mejoras
+## Mejoras del juego
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/2SpP7cbqJSk" allowfullscreen></iframe>
@@ -151,3 +151,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos implementar una nueva funcionalidad al videojuego para acumular puntos cada vez que se toca la hoja de lirio. Para ello deberás modificar la condición seleccionada (además de crear la variable correspondiente).
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

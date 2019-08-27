@@ -1,6 +1,6 @@
-# Videojuego de Flappy Bird programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Flappy Bird. Flappy Bird es un juego para móviles de 2013 desarrollado en Hanói por el desarrollador Dong Nguyen. El juego fue eliminado de App Store y Google Play por su creador un año más tarde. El videojuego consiste en hacer volar a un pájaro haciendo click sobre él de manera que pase entre sendas tuberías. En caso de tocarlas terminará la partida.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Flappy Bird**. Flappy Bird es un juego para móviles de 2013 desarrollado en Hanói por el desarrollador Dong Nguyen. El juego fue eliminado de App Store y Google Play por su creador un año más tarde. El videojuego consiste en hacer volar a un pájaro haciendo click sobre él de manera que pase entre sendas tuberías. En caso de tocarlas terminará la partida.
 
 ![](img/preview.gif)
 
@@ -19,7 +19,7 @@ Antes de continuar con las lecciones de este curso de programación con Scratch 
 
 
 
-## Escenario
+## Flappy Bird
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/LSMPzJ8x_GY" allowfullscreen></iframe>
@@ -81,13 +81,13 @@ Para reutilizar código, se ha creado una función llamada "Crear tubería" la c
 
 
 
-## Mejoras
+## Mejoras del juego
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/PHadoJxg3Uo" allowfullscreen></iframe>
 </div>
 
-### Mejoras del juego
+### Mejoras propuestas
 
 Una de las mejoras que se pueden crear en el videojuego consiste en crear diferentes niveles. Para ello creamos 2 botones en el escenario para ajustar la velocidad con la que se moverán las tuberías. De esta forma debemos crear una variable para almacenar la velocidad seleccionada y a continuación comenzar la partida.
 
@@ -133,3 +133,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos que modifiques la programación del videojuego para que el movimiento en la subida de Flappy aumente o disminuye dependiendo del nivel elegido en la partida. Para ello debemos modificar la programación tanto en la condición como en los eventos del nivel de partida.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

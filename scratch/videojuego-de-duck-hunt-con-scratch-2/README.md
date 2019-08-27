@@ -1,6 +1,6 @@
-# Videojuego de Duck Hunt programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Duck Hunt. Duck Hunt es un videojuego creado y desarrollado por Nintendo para la Nintendo Entertainment System (NES). El videojuego consiste en disparar a los patos que van apareciendo en la pantalla sin dejar escapar ninguno. Algunos pájaros van más deprisa que otros. En caso de que un pájaro llegue al final de la pantalla se acabará la partida.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Duck Hunt**. Duck Hunt es un videojuego creado y desarrollado por Nintendo para la Nintendo Entertainment System (NES). El videojuego consiste en disparar a los patos que van apareciendo en la pantalla sin dejar escapar ninguno. Algunos pájaros van más deprisa que otros. En caso de que un pájaro llegue al final de la pantalla se acabará la partida.
 
 ![](img/preview.gif)
 
@@ -96,3 +96,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos cambiar la programación para que el punto de mira tenga que disparar además de pasar por encima del objeto. Es decir, habrá que pulsar la tecla espacio para efectuar el disparo. Para ello debemos modificar la programación solamente en la condición.
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

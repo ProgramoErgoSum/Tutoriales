@@ -1,4 +1,4 @@
-# Curso de iniciación a Scratch 2.0
+## Introducción
 
 En este curso online de iniciación a la programación aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
 
@@ -33,13 +33,13 @@ Un estudio realizado a niños de infantil programando con Logo, demostró que ob
 
 
 
-## Acceder a Scratch 2.0
+## Acceder a Scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/BMU-UlPf_0A" allowfullscreen></iframe>
 </div>
 
-### ¿Cómo empiezo a utilizar Scratch?
+### ¿Cómo empiezo a utilizar Scratch 2.0?
 
 Para empezar a utilizar Scratch tan sólo tendrás que elegir entre una de las dos modalidades del programa:
 
@@ -64,7 +64,7 @@ Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a 
 
 
 
-## Pantalla de Scratch 2.0
+## Pantalla de Scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/7P8q1ltd44Y" allowfullscreen></iframe>
@@ -123,13 +123,13 @@ En esta lección aprenderás los principales bloques del lenguaje de programaci�
 
 
 
-## Mi primero juego
+## Juego de persigue
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/XQMv802TZQQ" allowfullscreen></iframe>
 </div>
 
-### Juego de persigue
+### Mi primero juego
 
 En esta lección vamos a realizar un ejemplo básico del juego de persigue para que el alumno empiece a entender el concepto de la programación por bloques paso a paso. Este sencillo videojuego es el primero que recomendamos para entender el funcionamiento del lenguaje de programación por bloques de Scratch.
 
@@ -145,7 +145,7 @@ Recuerda que estamos utilizando los bloques de movimiento que permiten mover al 
 
 
 
-## Datos y variables
+## Datos en Scratch
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/anzXUgb6rkU" allowfullscreen></iframe>
@@ -156,3 +156,23 @@ En esta lección vamos a aprender a utilizar las variables. Las variables son un
 En este videojuego vamos a crear la variable "Velocidad" encargada de almacenar la velocidad de uno de nuestros personajes. Sin embargo, podríamos crear varios tipos de variables para almacenar otros datos.
 
 > ¿Te atreves a crear una variable para contar el número de veces que capturamos al pez pequeño?
+
+
+
+<br />
+
+
+
+## Tipo test
+
+ToDo
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

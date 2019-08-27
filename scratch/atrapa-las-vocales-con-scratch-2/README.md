@@ -1,6 +1,6 @@
-# Atrapa las vocales con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar un sencillo videojuego educativo. En el videojuego aparecerán diferentes objetos en posiciones aleatorias y tendremos que atraparlos. Modificando los objetos podemos crear una infinidad de videojuegos educativos.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar un sencillo videojuego educativo**. En el videojuego aparecerán diferentes objetos en posiciones aleatorias y tendremos que atraparlos. Modificando los objetos podemos crear una infinidad de videojuegos educativos.
 
 ![](img/preview.gif)
 
@@ -90,3 +90,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos que cambies el sonido que aparece cuando se acierta la vocal, por tu propia voz, indicándole así al alumno que ha acertado. ¿Qué tendrías que modificar para realizar esta mejora?
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

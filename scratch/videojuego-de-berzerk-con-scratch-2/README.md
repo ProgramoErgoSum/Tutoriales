@@ -1,6 +1,6 @@
-# Videojuego de Berzerk programado con Scratch 2.0
+## Introducción
 
-En este curso de Scratch te explicamos cómo programar el videojuego de Berzerk. El videojuego consiste en desplazar por el escenario al personaje principal y disparar a todos los robots que aparecen en la partida. Ganarás cuando consigas eliminar a todos los robots.
+En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Berzerk**. El videojuego consiste en desplazar por el escenario al personaje principal y disparar a todos los robots que aparecen en la partida. Ganarás cuando consigas eliminar a todos los robots.
 
 ![](img/preview.gif)
 
@@ -96,7 +96,7 @@ Como hemos comentado en la lección anterior, al programar el efecto de disparo 
 
 
 
-## Enemigos
+## Creando enemigos
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/0ngFdOT4MWM" allowfullscreen></iframe>
@@ -149,3 +149,21 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te proponemos crear los movimientos del robot para que parezca que se está moviendo. Para ello deberás descargar los sprites que te adjuntamos en los materiales y programar el movimiento
 
 ![](img/reto-1.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

@@ -1,4 +1,4 @@
-# Introducción al diseño 3D con TinkerCAD
+## Introducción
 
 En este tutorial aprenderás a utilizar la herramienta gratuita online TinkerCAD para crear diseños en 3D imprimibles con una impresora 3D. A lo largo del tutorial aprenderás a diseñar diferentes tipos de objetos además de importar y exportarlos.
 
@@ -10,13 +10,11 @@ En este tutorial aprenderás a utilizar la herramienta gratuita online TinkerCAD
 
 
 
-## ¿Qué es TinkerCAD?
+## Registro en TinkerCAD
 
 TinkerCAD es un programa o software gratuito y online creado para el desarrollo y modelado de objetos en 3D de una manera sencilla, al disponer de una interfaz de trabajo simple y atractiva. TinkerCAD ha sido creado por la empresa AutoDesk.
 
 Como ventajas se podría destacar que es sencillo de usar, tiene un aspecto atractivo y con unas pocas horas de uso podemos adquirir mucha destreza. Por otro lado, como desventaja podríamos señalar que es necesario tener una cuenta de correo para darse de alta como usuario y que sólo posee una versión online. En el siguiente vídeo puedes ver un reccorrido rápido de las funciones básicas de TinkerCAD, antes de empezar a construir el llavero.
-
-### Registro en TinkerCAD
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/pfBvGZYU1JI" allowfullscreen></iframe>
@@ -106,7 +104,7 @@ Como puedes observar es muy sencillo crear un objeto en 3D utilizando la herrami
 
 
 
-## Importar diseños en SVG
+## Importar diseños
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/8WQZNA5se_0" allowfullscreen></iframe>
@@ -159,3 +157,17 @@ En este reto te propongo que diseñes un colgante utilizando lo aprendido en las
 En este reto te propongo que busques por internet el logotipo en formato SVG y lo importes con la herramienta TinkerCAD. A continuación modifícalo para personalizarlo a tu gusto y crear el objeto en 3D.
 
 ![](img/reto-2.png)
+
+
+
+<br />
+
+
+
+## Mejores diseños
+
+ToDo
+
+## Materiales
+
+ToDo

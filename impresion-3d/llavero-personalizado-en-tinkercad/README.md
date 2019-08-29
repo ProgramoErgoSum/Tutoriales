@@ -1,4 +1,4 @@
-# Llavero personalizado en TinkerCAD
+## Introducción
 
 En este curso aprenderás a construir un llavero en 3D personalizado utilizando la herramienta gratuita online TinkerCAD. Una vez construido aprenderás cómo exportarlo para imprimirlo con una impresora 3D.
 
@@ -36,7 +36,7 @@ Para finalizar agrupamos todos los objetos del llavero para poder redimensionarl
 
 
 
-## Impresión con Ultimaker Cura
+## Impresión 3D
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/7VlY6xDFdeA" allowfullscreen></iframe>
@@ -47,3 +47,17 @@ Antes de imprimir el llavero con el software de impresión Ultimaker Cura, deber
 ![](img/configuracion-cura.png)
 
 Con los anteriores parámetros, la pieza se ha impreso en 12 minutos aproximadamente utilizando una impresora 3D Prusa BQ Hephestos.
+
+
+
+<br />
+
+
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

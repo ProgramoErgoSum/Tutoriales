@@ -1,4 +1,4 @@
-# Impresora 3D Prusa i3 BQ Hephestos
+## Introducción
 
 En este tutorial aprenderás los primeros pasos que tienes que seguir antes de imprimir una pieza con una impresora 3D. Para ello utilizaremos una Prusa i3 BQ Hephestos. Además, podrás observar el vídeo de BQ donde graba todo el proceso de montaje para que no tengas dudas a la hora de adquirir una impresora 3D desmontada.
 
@@ -70,7 +70,7 @@ El diseño de la Prusa i3 es completamente de código abierto por lo que las opc
 
 
 
-## Unboxing BQ Hephestos
+## Unboxing
 
 En esta lección se explica cuál ha sido nuestra experiencia montando la impresora 3D Prusa i3 BQ Hephestos, impresora inspirada en un modelo de la comunidad RepRap que incluye la electrónica y diseño fabricado por la empresa BQ.
 

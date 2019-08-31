@@ -1,4 +1,4 @@
-# Curso de primeros pasos con Arduino
+## Introducción
 
 En este curso online de Arduino se explica cómo configurar la placa de arduino en nuestro ordenador y cómo instalar los diferentes programas de código abierto que se utilizarán en las prácticas. Para ello aprenderás a instalar y configurar los siguientes programas:
 
@@ -45,7 +45,7 @@ Tanto las entradas como las salidas dotan al sistema de información y realizan 
 
 ![](img/pines-arduino-uno.png)
 
-### Software de Arduino
+### Software Arduino
 
 Para programar una tarjeta de Arduino, podemos utilizar diferentes lenguajes y entornos de programación. En este caso vamos a introducir la programación y electrónica con Arduino utilizando los lenguajes de programación por bloques y lenguajes de programación en modo texto.
 
@@ -65,7 +65,7 @@ Para programar una tarjeta de Arduino, podemos utilizar diferentes lenguajes y e
 
 
 
-## Software de Arduino IDE
+## Software Arduino IDE
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/7F9hH7SGfyk" allowfullscreen></iframe>
@@ -158,7 +158,7 @@ Unos errores detectados a la hora de cargar el firmware de S4A en la placa de Ar
 
 
 
-## Software Snap for Arduino
+## Software Snap y Arduino
 
 ### ¿Qué es Snap 4 Arduino?
 
@@ -326,3 +326,13 @@ void loop() {
   delay(1000);
 }
 ```
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

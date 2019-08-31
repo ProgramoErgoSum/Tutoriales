@@ -1,4 +1,4 @@
-# Salidas digitales con Arduino
+## Introducción
 
 En este curso aprenderás a programar diferentes prácticas utilizando las salidas digitales de la placa de arduino. Para cada una se explica la parte de electrónica que deberás conocer antes de programarlas. Observarás además que puedes programarlas utilizando los lenguajes de programación por bloques o textual de Arduino.
 
@@ -393,3 +393,13 @@ void loop() {
   digitalWrite(12, LOW);
 }
 ```
+
+
+
+<br />
+
+
+
+## Materiales 
+
+ToDo

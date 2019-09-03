@@ -1,4 +1,4 @@
-# El cuerpo humano con Makey-Makey y Scratch
+## Introducción
 
 En este curso aprenderás a utilizar la placa de electrónica Makey-Makey para usarla en el aula con niños desde educación infantil. Para ello, utilizando la Makey-Makey junto con el lenguaje de programación por bloques de Scratch, se va a crear una aplicación educativa para detectar las diferentes partes del cuerpo humano al mismo tiempo que se muestra un mensaje por la pantalla del ordenador. De esta forma estaremos conectando el mundo físico con el mundo digital.
 
@@ -12,7 +12,7 @@ Además de aprender a construir la plantilla del cuerpo humano, te enseñamos c�
 
 
 
-## Construcción de la plantilla
+## Construcción
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/MD-aHaoXMow" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ Por último hemos plastificado la cartulina para que pueda ser reutilizable y du
 
 
 
-## Programación con Scratch
+## Programación
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/m791U-d_qYk" allowfullscreen></iframe>
@@ -43,3 +43,36 @@ En esta lección del tutorial te mostramos la programación utilizando el lengua
 Por ejemplo, si conectamos el contacto de la flecha arriba en el brazo derecho, en la programación con Scratch habrá que indicarle que al presionar dicha tecla cambie el color de la extremidad y muestre el audio grabado.
 
 ![](img/programacion.png)
+
+
+<br />
+
+
+## Dudas
+
+Hola mi nombre es Gustavo y soy profe de una escuela en Perito Moreno - Santa Cruz - Argentina. He comprado el kit de Makey-Makey y no logro entender las conexiones del cuerpo humano ya que solo con los cocodrilo puedes conectar 4 flechas y al final del video se superpone con el siguiente de lo cual no puedo ver.
+
+**Solución**
+
+En este proyecto estamos utilizando una placa Makey-Makey como la que se observa en la siguiente imagen, ya que vamos a necesitar 8 conexiones para conectar las extremidades superiores e inferiores. Las conexiones utilizadas en la placa son:
+
+- Parte delantera: Flechas arriba, derecha, abajo e izquierda. Conectada mediante cocodrilos.
+- Parte trasera: Letras f, a, g y w. Conectada mediante pines.
+
+> En caso de tener otro tipo de placa con menos conexiones, esta aplicación no podrá realizarse.
+
+![](img/conexiones-makey-makey.png)
+
+
+
+<br />
+
+
+
+## Mejores proyectos
+
+ToDo
+
+## Materiales
+
+ToDo

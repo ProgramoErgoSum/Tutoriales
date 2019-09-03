@@ -116,8 +116,6 @@ Cuando se comprueba si un objeto pasa por un determinado punto o coordenada (en 
 
 Para solucionarlo basta con añadir un número múltiplo de la velocidad.
 
-![](img/duda-de-ja-solucion.png)
-
 
 
 <br />

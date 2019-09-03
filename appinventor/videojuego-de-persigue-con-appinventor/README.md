@@ -1,4 +1,4 @@
-# Videojuego de persigue con AppInventor
+## Introducción
 
 En este curso de programación de dispositivos móviles con AppInventor aprenderás a programar el juego de persigue. Para ello vamos a contar con 3 objetos los cuales programaremos. Una vez programado recuerda que podrás modificar las imágenes para crear otro juego totalmente diferente.
 
@@ -74,3 +74,13 @@ Por último, añadimos las mejoras y funcionalidad principal del juego.
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/F269WsPhtJE" allowfullscreen></iframe>
 </div>
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

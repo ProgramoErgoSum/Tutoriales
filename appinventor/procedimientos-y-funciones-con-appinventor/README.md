@@ -1,4 +1,4 @@
-# Procedimientos y Funciones con AppInventor
+## Introducción
 
 En este curso de programación de dispositivos móviles con AppInventor aprenderás a utilizar los procedimientos y funciones al mismo tiempo que programas una pequeña aplicación para buscar en google según los criterios utilizados de video, imágenes, etc.
 
@@ -35,3 +35,13 @@ En el video aparece el enlace que hay que añadir en la URL para buscar en googl
 En este video programamos los eventos del buscador.
 
 Por último, te explicamos como optimizar el código mediante funciones para simplificar el código.
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

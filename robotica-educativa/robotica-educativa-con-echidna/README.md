@@ -1,4 +1,4 @@
-# Robótica educativa con Echidna Shield
+# Introducción
 
 Echidna Shield es una placa para arduino dirigida a facilitar el aprendizaje de la robótica en los últimos cursos de educación primaria y secundaria, como indican en la propia web del proyecto. Surge ante la necesidad de dotar a los centros educativos con herramientas que les permitan conectar el mundo físico con el digital a través de herramientas libres. Es un proyecto OpenSource creado por Jorge Lobo, Xabier Rosas y José Pujol, profesores y entusiastas de la robótica educativa.
 
@@ -34,7 +34,7 @@ Desde la propia web del proyecto encontrarás una guía abierta, que se irá mod
 
 
 
-## Primeros pasos con Echidna Shield
+## Primeros pasos
 
 Como se explica en la lección anterior Echidna Shield es un escudo para Arduino. Esto quiere decir que para utilizar esta placa necesitamos una placa Arduino UNO o compatible.
 

@@ -1,4 +1,4 @@
-# Listas y Funciones con AppInventor
+## Introducción
 
 En este curso de programación de aplicaciones móviles con AppInventor aprenderás a utilizar las listas o colecciones de elementos al mismo tiempo que programas una pequeña aplicación. En esta aplicación se mostrarán diferentes imágenes y debemos contar el número de veces que pulsamos el botón hasta que aparezcan las 3 imágenes iguales.
 
@@ -45,3 +45,13 @@ Por último, te explicamos como optimizar el código mediante funciones para opt
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/uh8J-xkajtg" allowfullscreen></iframe>
 </div>
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

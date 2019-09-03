@@ -1,4 +1,4 @@
-# Introducción a la programación con AppInventor
+## Introducción
 
 En este curso online de iniciación a la programación de dispositivos móviles aprenderás a utilizar la herramienta de AppInventor para programar diferentes tipos de aplicaciones mediante el lenguaje de programación por bloques de Blockly. Si ya conoces la herramienta te recomendamos que accedas al siguiente tutorial de esta misma plataforma. 
 
@@ -87,7 +87,7 @@ En video te explicamos las 3 formas que tienes para probar tus aplicaciones ante
 
 
 
-## Instalar aplicaciones en tu dispositivo android
+## Instalar aplicaciones
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/j_EaVXnKuwo" allowfullscreen></iframe>
@@ -98,3 +98,13 @@ En esta última sesión aprenderás a instalar la aplicación creada en tu móvi
 Otra opción para instalar la aplicación en nuestro terminal consiste en pasar el archivo compilado a través de nuestro cable USB, o mediante enlace de dropbox, etc.
 
 En tutoriales más avanzados explicaremos como crear subir nuestras aplicaciones a Google Play Store.
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

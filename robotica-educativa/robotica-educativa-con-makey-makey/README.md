@@ -1,4 +1,4 @@
-# Robótica educativa con Makey-Makey
+## Introducción
 
 Makey-Makey es una placa similar al mando de una videoconsola que simula ser un teclado o ratón, lo que permite enviar órdenes al ordenador al que se encuentre conectado. En vez de pulsar los botones lo que hacemos es cerrar el circuito mediante contactos o pinzas de cocodrilo y de esta forma se simula haber pulsado un botón. De esta forma, nos permite convertir cualquier objeto de la vida diaria en un teclado, un mando o un ratón.
 
@@ -62,7 +62,7 @@ Otras elaboraciones más sofisticadas consisten en utilizar plastilina conductor
 
 
 
-## Plastilina conductora casera
+## Plastilina conductora
 
 Uno de los usos que se le puede dar a las placas Makey-Makey es mediante proyectos de manualidades. Por ejemplo, sabemos que la placa funciona cerrando los circuitos y en anteriores lecciones del curso vimos cómo utilizar el papel de aluminio u otros componentes conductores.
 

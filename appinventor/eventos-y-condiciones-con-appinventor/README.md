@@ -1,4 +1,4 @@
-# Programar Eventos y Condiciones con AppInventor
+## Introducción
 
 En este curso online de programación de aplicaciones AppInventor aprenderás a utilizar los campos de texto y condiciones para programar un sencillo juego que consiste en adivinar un número aleatorio entre un valor mínimo y máximo.
 
@@ -10,7 +10,7 @@ En este curso online de programación de aplicaciones AppInventor aprenderás a 
 
 
 
-## Diseño de la aplicación
+## Designer de appinventor
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/JGX8VeKZDP0" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ En la siguiente imagen se puede observar la jerarquía que se ha seguido para re
 
 
 
-## Programación de la aplicación
+## Programación principal
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/usvG0JDD_Y0" allowfullscreen></iframe>
@@ -73,3 +73,13 @@ Para resolver la propuesta que se proponía en el video anterior consiste en añ
 En el vídeo anterior se propone añadir un botón a la aplicación para que se pueda iniciar la partida siempre que queramos. Para ello debemos añadir en primer lugar el nuevo botón en la sección de diseño de la aplicación, y a continuación añadir la programación que se encargará de inicializar los datos a sus valores iniciales.
 
 ![](img/mejoras.png)
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

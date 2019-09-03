@@ -119,7 +119,7 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 Cuando empieza la partida, verás que aparece la comida. En este reto tendrás que modificar ciertas partes de la programación y del diseño para crear diferentes tipos de comida, es decir, puedes crear comida con forma de fruta, galletas, etc.
 
-![](img/reto-1.png)
+![](img/reto-1.gif)
 
 
 

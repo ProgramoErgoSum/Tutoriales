@@ -67,7 +67,7 @@ Como buenas prácticas de programación, se optimizan las funciones del juego.
 
 
 
-## MEjoras de la aplicación
+## Mejoras de la aplicación
 
 Por último, añadimos las mejoras y funcionalidad principal del juego.
 

@@ -1,4 +1,4 @@
-# Programación de un cronómetro en AppInventor
+## Introducción
 
 En este curso online de programación de aplicaciones con AppInventor aprenderás a utilizar el componente timer para crear un cronómetro. Este cronómetro tendrá las opciones de iniciar, parar y reiniciar similar a los existentes en nuestros dispositivos.
 
@@ -57,3 +57,13 @@ En esta lección solamente se va a programar el contador del reloj y en la sigui
 En esta última lección programamos los botones del cronómetro utilizando buenas prácticas de programación, es decir, reutilizaremos el código programado en la lección anterior para programar las nuevas funcionalidades. Estas funcionalidades corresponden a los botones de iniciar, parar y reiniciar.
 
 ![](img/aplicacion.png)
+
+
+
+<br />
+
+
+
+## Materiales
+
+ToDo

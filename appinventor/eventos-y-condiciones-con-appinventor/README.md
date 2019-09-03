@@ -10,7 +10,7 @@ En este curso online de programación de aplicaciones AppInventor aprenderás a 
 
 
 
-## Designer de appinventor
+## Diseño de la aplicación
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/JGX8VeKZDP0" allowfullscreen></iframe>

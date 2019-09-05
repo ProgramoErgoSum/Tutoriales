@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar fswebcam** para tomar imágenes de forma automática en Raspberry Pi.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -9,11 +11,23 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Configurar Webcam en Raspberry Pi](raspberry_pi-webcam-luvcview)
+- Configurar Webcam en Raspberry Pi
 
-# Software fswebcam
+
+
+<br />
+
+
+
+## Software fswebcam
 
 Fswebcam es una programa optimizado para la toma de imágenes utilizando una webcam. Se utiliza mediante la línea de comandos con lo que es muy útil para programar scripts automáticos en bash que se ejecuten cada cierto tiempo, o incluso controlando los pines GPIO de nuestra Raspberry Pi.
+
+
+
+<br />
+
+
 
 ## Instalar fswebcam
 
@@ -41,6 +55,12 @@ pi@raspberrypi:~ $
 ```
 
 ![](img/fswebcam.png)
+
+
+
+<br />
+
+
 
 ## Imágenes automáticas
 
@@ -76,6 +96,12 @@ Comprobamos que tenemos permisos para ejecutar el comando y además comprobamos 
 pi@raspberrypi:~/webcam $ ./webcam.sh
 ```
 
+
+
+<br />
+
+
+
 ## Cron que se ejecuta cada minuto
 
 Las tareas cron siguen una determinada sintaxis. Tienen 5 asteriscos seguidos del comando a ejecutar. `* * * * * /bin/ejecutar/script.sh`
@@ -102,11 +128,13 @@ A continuación entramos en modo edición haciendo clic en la letra `i` y nos si
 
 Ahora solo nos queda esperar y ver como en cada cambio de minuto se realiza una fotografía.
 
-# Resumen
 
-Con este sencillo tutorial podemos cerar capturas automáticas para controlar una determinada estancia utilizando una webcam en Raspberry Pi.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Conecta una webcam USB y comprueba el correcto funcionamiento de las capturas de pantalla mediante consola.
 

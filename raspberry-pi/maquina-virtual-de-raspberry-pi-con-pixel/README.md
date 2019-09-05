@@ -1,4 +1,4 @@
-# Máquina virtual de Raspberry Pi con Pixel
+## Introducción
 
 El siguiente curso ha sido solicitado por varios de nuestros docentes con el fin de poder emular en un PC un sistema operativo de Raspberry PI, en este caso el Sistema Operativo Pixel. De esta forma podrás utilizar las ventajas educativas que ofrece una raspberry PI sin necesidad de disponer del hardware. Además te vamos a explicar qué es una máquina virtual para que puedas instalar diferentes sistemas operativos sin miedo a borrar información importante de tu ordenador.
 

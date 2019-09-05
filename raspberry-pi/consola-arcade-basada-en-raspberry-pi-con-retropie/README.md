@@ -1,4 +1,4 @@
-# Consola arcade basada en Raspberry Pi con RetroPie
+## Introducción
 
 En este curso aprenderás a instalar y configurar el Sistema Operativo RetroPie para Raspberry Pi como videoconsola Arcade. También aprenderás cómo conectarte de forma remota para añadir nuevos videojuegos a tu Raspberry Pi.
 
@@ -49,7 +49,7 @@ RetroPie es compatible con un gran número de mandos, como el mando de PS3 y el 
 
 
 
-## ¿Cómo instalar RetroPie en Raspberry Pi?
+## ¿Cómo instalar RetroPie?
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/cJDyyK4xS7I" allowfullscreen></iframe>

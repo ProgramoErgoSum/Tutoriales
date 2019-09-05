@@ -1,14 +1,28 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **crear un arranque automático** de un programa en Raspberry Pi con Raspbian.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 
-# RC.LOCAL
+
+
+<br />
+
+
+
+## RC.LOCAL
 
 Para que un comando o programa se ejecute cuando se inicia tu Raspberry Pi puedes agregar comandos al archivo `/etc/rc.local`. Esto es especialmente útil si quieres hacer que ejecute un programa sin configuración o un inicio manual.
+
+
+
+<br />
+
+
 
 ## Arranque automático
 
@@ -42,10 +56,12 @@ python3 /home/pi/fichero.py
 exit 0
 ```
 
-# Resumen
 
-Con este sencillo tutorial podemos crear programas en Python para que se ejecuten al arrancar nuestra Raspberry Pi.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Crea un sencillo proyecto web en Python con Flask y agrégalo al fichero `rc.local` para que se ejecute al arrancar la Raspberry Pi.

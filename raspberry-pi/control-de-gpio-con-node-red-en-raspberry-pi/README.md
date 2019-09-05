@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **utilizar los pines GPIO a través de Node-RED desde Raspberry Pi** de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -8,13 +10,25 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [GPIO en Raspberry Pi](raspberry_pi-gpio)
+- GPIO en Raspberry Pi
 
-# Pines GPIO en Node-RED
+
+
+<br />
+
+
+
+## Pines GPIO en Node-RED
 
 [Node-RED](https://nodered.org/) es un motor de flujos con enfoque IoT que permite definir gráficamente flujos de servicios a través de protocolos estándares como REST, MQTT, Websocket o AMQP. Se trata de una herramienta visual muy ligera programada en NodeJS y que puede ejecutarse desde en dispositivos ligeros como la Raspberry Pi.
 
 > Para más información sobre Node-RED accede al tutorial [Raspberry Pi - Node-RED](raspberry_pi-node_red).
+
+
+
+<br />
+
+
 
 ## Requisitos
 
@@ -24,6 +38,12 @@ Para este tutorial se van a necesitar los siguientes materiales:
 - 1 Protoboard
 - 1 Diodo LED
 - 1 Resistencia de 330 Ohm
+
+
+
+<br />
+
+
 
 ## Node-RED en Raspberry Pi
 
@@ -43,6 +63,12 @@ En el lado derecho aparecerán los parámetros de configuración de cada nodo se
 
 En el centro es donde podemos arrastrar los nodos para crear el flujo de trabajo.
 
+
+
+<br />
+
+
+
 ## Encendido y apagado de un LED
 
 Vamos a realizar el encendido y apagado de un LED conectado al `Pin 11 - GPIO 17` de nuestra Raspberry Pi.
@@ -61,12 +87,12 @@ Por último solamente nos queda unir los conectores y cargar el código haciendo
 
 ![](img/led-node.png)
 
-# Resumen
 
-ToDo
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Programa el encendido y apagado de múltiples diodos LEDs.
-
-ToDo

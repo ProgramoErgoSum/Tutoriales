@@ -1,4 +1,4 @@
-# Introducción a Minecraft en Raspberry Pi
+## Introducción
 
 En este curso aprenderás a programar en Python utilizando Minecraft Pi para aprender conceptos de programación informática. Si lo que estás buscando son consejos útiles para construir esctructuras o luchar en combates este no es el curso que buscas.
 
@@ -143,3 +143,17 @@ En este reto te proponemos que programes en Python un algoritmo encargado de bor
 En este reto te proponemos que programes en Python un algoritmo que añada bloques debajo del personaje Steve, de tal forma que si te situas en lo alto de una colina, parecerá que estás caminando entre las nubes. Para el correcto funcionamiento deberás colocar los bloques contiguos al personaje conociendo el sistema de corrdenadas
 
 ![](img/reto-3.png)
+
+
+
+<br />
+
+
+
+## Retos resueltos
+
+ToDo
+
+## Materiales
+
+ToDo

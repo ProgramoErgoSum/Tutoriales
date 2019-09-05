@@ -1,20 +1,40 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **utilizar Node-RED desde Raspberry Pi** de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 
-# Node-RED
+
+
+<br />
+
+
+
+## Node-RED
 
 [Node-RED](https://nodered.org/) es un motor de flujos con enfoque IoT que permite definir gráficamente flujos de servicios a través de protocolos estándares como REST, MQTT, Websocket o AMQP. Se trata de una herramienta visual muy ligera programada en NodeJS y que puede ejecutarse en dispositivos ligeros como la Raspberry Pi.
+
+
+
+<br />
+
+
 
 ## Instalación de Node-RED
 
 Esta herramienta viene instalada por defecto en la versión de Raspbian con programas recomendados. En caso de utilizar otra versión y querer instalarla podemos hacerlo desde el menú `Preferences > Recommended Software` e instalarlo desde la pestaña `programming`.
 
 ![](img/software.png)
+
+
+
+<br />
+
+
 
 ## Node-RED en Raspberry Pi
 
@@ -33,6 +53,12 @@ Vamos a echar un vistazo rápido por Node-RED. Los programas en Node-RED se llam
 - En el lado derecho aparecerán los parámetros de configuración de cada nodo seleccionado. Normalmente haciendo doble clic sobre el nodo se desplegarán todas las opciones del nodo.
 - En la parte superior derecha tenemos el botón de desplegar y guardar cambios.
 
+
+
+<br />
+
+
+
 ## Hola Mundo
 
 Vamos a probar un flujo muy simple encargado de mostrar el texto *¡Hola Mundo!* por el panel de debug. Para ello debemos arrastrar un nodo `inject` de la categoría input y un nodo `debug` de la categoría output al flujo del programa. Haciendo doble clic sobre el nodo `inject` establecemos el *Payload* a modo string y añadimos la cadena '¡Hola Mundo!'.
@@ -45,10 +71,12 @@ Para probar este primer flujo tenemos que abrir el panel de debug que está situ
 
 ![](img/debug.png)
 
-# Resumen
 
-En este tutorial hemos podido ver lo fácil que es programar utilizando nodos en vez de un lenguaje de programación. Aunque se puede complicar mucho más ya que tenemos diferentes tipos de nodos para conectarnos a tecnologías el IoT.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- ToDo

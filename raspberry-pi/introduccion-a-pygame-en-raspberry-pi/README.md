@@ -1,4 +1,4 @@
-# Introducción a PyGame en Raspberry Pi
+## Introducción
 
 En este curso aprenderás los conceptos necesarios para empezar a programar videojuegos en Python utilizando el módulo de PyGame. Se recomienda conocer el lenguaje de programación en Python para continuar con las siguientes lecciones. Si todavía no sabes programar en Python, accede al curso de iniciación a la programación en Python de esta misma plataforma.
 

@@ -208,13 +208,3 @@ URL: localhost:8080
 1.- Crea una sencilla página web con 2 enlaces como se explica en el tutorial.
 
 2.- Añade código CSS para pintar de colores el fondo, el texto, cambia el tamaño de la fuente, etc.
-
-
-
-<br />
-
-
-
-## Ejercicios resueltos
-
-ToDo

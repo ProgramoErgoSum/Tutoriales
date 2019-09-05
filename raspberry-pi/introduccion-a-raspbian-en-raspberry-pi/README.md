@@ -1,14 +1,28 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **configurar el sistema operativo Raspbian** para utilizarlo por primera vez y ver todas sus características y programas.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 
-# Primeros pasos
+
+
+<br />
+
+
+
+## Primeros pasos
 
 En el primer arranque de la Raspberry Pi te aparecerá una ventana dándote la bienvenida a Raspberry Pi. Siguiendo el asistente podrás configurar el sistema operativo Raspbian de forma inicial.
+
+
+
+<br />
+
+
 
 ## Fuentes de alimentación
 
@@ -16,13 +30,31 @@ En muchas ocasiones se suele adquirir la fuente de alimentación de la Raspberry
 
 Además, la cantidad de corriente que la fuente de alimentación debe ser capaz de proporcionar depende del modelo y de la cantidad de periféricos conectados a la misma. Como mínimo necesitará 700mA, pero si utilizas teclado y ratón necesitarás una fuente de alimentación de 1.5A o incluso 2A que es lo que recomienda la fundación Raspberry Pi.
 
-## Conectar Raspberry Pi al monitor
+
+
+<br />
+
+
+
+## Conectar monitor
 
 Probablemente no dispongas de un monitor con HDMI al cual quieres conectar la Raspberry Pi. En este caso, una opción económica pasa por adquirir por separado un conversor de VGA-HDMI.
- 
+
+
+
+<br />
+
+
+
 ## Conectar teclado y ratón
 
 Lo ideal sería conectar el teclado y ratón mediante USB aunque también podríamos conectarlos mediante bluetooth para minimizar el uso de puertos. En este último caso debemos instalar los drivers en el sistema operativo si todavía no ha sido instalado.
+
+
+
+<br />
+
+
 
 ## Encender y apagar la Raspberry Pi
 
@@ -44,6 +76,12 @@ En modo consola puedes apagarla mediante el comando `shutdown -h now`.
 pi@raspberrypi: ~ $ sudo shutdown -h now
 ```
 
+
+
+<br />
+
+
+
 ## Hora del sistema
 
 La forma más sencilla de poner en hora una Raspberry Pi es accediendo a la terminal y estableciendo la hora mediante el comando `date mmddHHMMyy`, donde los 2 primeros números corresponden al mes, los 2 siguientes al día del mes, los 4 siguientes representan la hora y minutos, y los 2 últimos el año.
@@ -52,11 +90,13 @@ La forma más sencilla de poner en hora una Raspberry Pi es accediendo a la term
 pi@raspberrypi: ~ $ sudo date 0416113019
 ```
 
-# Resumen
 
-La mejor forma de conocer un sistema operativo a nivel de usuario es utilizarlo para ver y conocer todas sus caracteríasticas.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Revisa la configuración de tu teclado para que aparezca en español de España. `Menú > Preferencias Configuración de Raspberry Pi > Localización > Configuración teclado`.
 

@@ -1,4 +1,4 @@
-# Introducción a GPIO con Scratch en Raspberry Pi
+## Introducción
 
 En este curso aprenderás qué son y cómo utilizar los pines GPIO de tu Raspberry Pi para activar entradas y salidas mediante el lenguaje de programación por bloques de Scratch. También aprenderás nociones básicas de electrónica para realizar numerosas prácticas desde nivel iniciación.
 

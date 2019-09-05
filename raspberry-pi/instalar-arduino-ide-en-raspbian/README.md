@@ -1,15 +1,29 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar Arduino IDE** en Raspberry Pi con Raspbian.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 - Arduino UNO
 
-# Arduino IDE
+
+
+<br />
+
+
+
+## Arduino IDE
 
 Arduino IDE es un entorno de desarrollo y en él se realiza la programación de cada una de las placas de Arduino o similares. Por defecto no viene instalada en Raspbian aunque puede instalarse de una forma muy sencilla.
+
+
+
+<br />
+
+
 
 ## Instalar Arduino IDE
 
@@ -23,6 +37,12 @@ Una vez finalizado el proceso de instalación ya podemos acceder al IDE de Ardui
 
 ![](img/arduino-ide.png)
 
+
+
+<br />
+
+
+
 ## ¡Hola Mundo!
 
 Una vez instalado el IDE de Arduino vamos a probar el funcionamiento cargando el programa Blink que viene en la instalación desde `File > Examples > 01. Basic > Blink`. 
@@ -33,10 +53,12 @@ Seleccionamos la tarjeta `Tools > Board > xxx` y puerto `Tools > Serial Port > x
 
 ![](img/hola-mundo.png)
 
-# Resumen
 
-Arduino es ideal para todo tipo de proyectos de electrónica. Con sus conectores se puede conectar directamente a componentes y sensores, siendo más rápida a la hora de realizar cambios o proyectos sencillos que no requieran tareas complejas. Además, nada más enchufarla, empezará a ejecutar la tarea para la que ha sido programada.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Carga el programa Blink y comprueba que el LED situado en el pin 13 se enciende y se apaga correctamente.

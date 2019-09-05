@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar y configurar motion** para montar un sistema de videovigilancia.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -9,11 +11,23 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Configurar Webcam en Raspberry Pi](raspberry_pi-webcam-luvcview)
+- Configurar Webcam en Raspberry Pi
 
-# Software Motion
+
+
+<br />
+
+
+
+## Software Motion
 
 [Motion](https://motion-project.github.io/) es uno de los programas más populares para utilizar con webcams, cuya utilidad es la de detectar movimientos. De esta forma podemos grabar momentos en los cuales se ha detectado movimiento. 
+
+
+
+<br />
+
+
 
 ## Instalar Motion
 
@@ -26,6 +40,12 @@ pi@raspberrypi:~ $ sudo apt install motion
 Para comprobar que se ha instalado correctamente, abrimos un navegador en la misma Raspberry Pi, accedemos a la dirección `localhost:8081` y se debe ver la webcam.
 
 ![](img/motion.png)
+
+
+
+<br />
+
+
 
 ## Configuración (solo para módulo PICAM)
 
@@ -48,6 +68,12 @@ bcm2835-v4l2
 
 Reinicia el sistema antes de continuar con el siguiente paso.
 
+
+
+<br />
+
+
+
 ## Arrancar Motion al encender la Raspberry Pi
 
 En este caso vamos a configurar el fichero de configuración encargado de habilitar el daemon de Motion al iniciar la Raspberry Pi. Para ello accedemos al fichero `/etc/default/motion`. Para abrirlo de una forma sencilla y con privilegios de administrador introducimos el comando `sudo leafpad /etc/default/motion`.
@@ -66,6 +92,12 @@ Por último, reseteamos el servicio con el comando `service motion restart` para
 ```sh
 pi@raspberrypi:~ $ sudo service motion restart
 ```
+
+
+
+<br />
+
+
 
 ## Acceder a Motion de forma remota
 
@@ -96,6 +128,12 @@ Reiniciamos el sistema y accedemos desde otro dispositivo conectado a la misma r
 
 ![](img/remoto.png)
 
+
+
+<br />
+
+
+
 ## Detectar movimientos
 
 Por defecto, Motion guarda en imagen y vídeo cualquier evento que ocurra delante de la webcam y lo guarda en el directorio `/var/lib/motion`. Estos ajustes podemos modificarlos en el fichero de onfiguración.
@@ -120,11 +158,13 @@ Recuerda que al cambiar parámetros del fichero de configuración deberás reini
 pi@raspberrypi:~ $ sudo service motion restart
 ```
 
-# Resumen
 
-Hasta ahora ya tenemos Motion configurado para ver una webcam desde la propia Raspberry Pi o desde la red local. Sin embargo, en ocasiones nos gustaría poder ver qué ocurre desde fuera de la red, es decir, desde el trabajo o desde nuestro lugar de vacaciones.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Conecta una webcam USB e instala y configura Motion correctamente.
 

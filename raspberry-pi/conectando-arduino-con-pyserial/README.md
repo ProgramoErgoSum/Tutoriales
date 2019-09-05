@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a **conectar Raspberry Pi con Arduino** para controlar diferentes sensores y actuadores haciendo que se comuniquen entre ellos a través del puerto serie.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -9,13 +11,25 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Instalar Arduino IDE en Raspbian](raspberry_pi-arduino_ide)
+- Instalar Arduino IDE en Raspbian
 
-# Raspberry Pi vs Arduino
+
+
+<br />
+
+
+
+## Raspberry Pi vs Arduino
 
 Mediante Raspberry Pi podemos controlar diferentes pines GPIO para entradas y salidas, sin embargo este número de pines es limitado. Además, nos encontramos con que los tiempos de respuestas son demasiado lentos cuando programamos con lenguajes como Python. Con Arduino no nos encontramos con estas limitaciones.
 
 En este tutorial vamos a combinar las ventajas que ofrece Raspberry Pi en cuanto a sistema operativo como controlador maestro, y las ventajas que ofrece Arduino para controlar diferentes sensores y actuadores como esclavo, haciendo que se comuniquen entre ellos a través del puerto serie.
+
+
+
+<br />
+
+
 
 ## Instalar Python Serial
 
@@ -24,6 +38,12 @@ Como hemos comentado, vamos a utilizar las ventajas de ambas plataformas para co
 ```sh
 pi@raspberrypi:~ $ sudo apt-get install python-serial
 ```
+
+
+
+<br />
+
+
 
 ## Enviar datos desde Raspberry Pi hacia Arduino
 
@@ -84,6 +104,11 @@ void loop () {
 ![](img/esclavo.png)
 
 
+
+<br />
+
+
+
 ## Enviar datos desde Arduino hacia Raspberry Pi
 
 De forma similar, podemos enviar datos desde arduino. Por ejemplo, supongamos que tenemos un sensor de temperatura que queremos controlar para enviar la información a la Raspberry Pi.
@@ -127,13 +152,13 @@ arduino.close()
 
 ![](img/arduino-raspberry-pi.png)
 
-# Resumen
 
-Arduino es ideal para todo tipo de proyectos de electrónica. Con sus conectores se puede conectar directamente a componentes y sensores, siendo más rápida a la hora de realizar cambios o proyectos sencillos que no requieran tareas complejas. Además, nada más enchufarla, empezará a ejecutar la tarea para la que ha sido programada.
 
-Por otro lado, mediante Python en Raspberry Pi podemos analizar dichos datos para procesarlos según sea nuestro interés.
+<br />
 
-# Ejercicios propuestos
+
+
+## Ejercicios propuestos
 
 1.- Envía datos desde la Raspberry Pi hacia Arduino para encender o apagar un LED.
 

@@ -1,10 +1,12 @@
-# Introducción a Python en Raspberry Pi
+## Introducción
 
 En este curso aprenderás a programar en Python utilizando la Raspberry Pi para iniciarte en el mundo de la programación. Este es un tutorial de nivel iniciación para aquellos usuarios que todavía no han programado ningún lenguaje de programación en modo texto.
 
 En el tutorial se va a explicar la versión de Python 3 (IDLE) que viene instalada por defecto en el sistema operativo de Raspbian para Raspberry Pi. No obstante, también podrás acceder al tutorial en caso de instalar Python en tu sistema operativo Windows, Linux o MAC.
 
 ![](img/curso-de-programacion-en-python.png)
+
+> También puedes acceder a la plataforma <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">AprendeProgramando</a> para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.
 
 
 
@@ -178,13 +180,3 @@ En los siguientes ejemplos se aprecia como podemos mostrar una determinada canti
 Un bucle while permite repetir la ejecución de un grupo de instrucciones mientras se cumpla una condición (es decir, mientras la condición tenga el valor True). En este tipo de bucle hay que llevar cuidado porque es muy común caer en bucles infinitos cuando se empieza a programar. Es decir, fíjate como en el bucle de la siguiente imagen, decrementamos el valor de número en cada iteración.
 
 ![](img/bucle-while.png)
-
-
-
-<br />
-
-
-
-## Proyecto Aprende Programando
-
-Puedes acceder a la plataforma <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">AprendeProgramando</a> para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.

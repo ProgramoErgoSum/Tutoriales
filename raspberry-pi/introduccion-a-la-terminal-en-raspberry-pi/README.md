@@ -1,4 +1,4 @@
-# Introducción a la terminal en Raspberry Pi
+## Introducción
 
 Este curso online de introducción a la Terminal o Consola de Linux está destinado a todos aquellos usuarios que quieran adentrarse en el manejo de comandos para administrar un sistema operativo de tipo Unix. A lo largo de las siguientes lecciones aprenderás a utilizar los comandos más utilizados En el sistema operativo Raspbian para Raspberry Pi.
 

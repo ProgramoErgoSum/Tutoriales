@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar el sistema operativo Raspbian en Raspberry Pi** utilizando el asistente guiado NOOBs.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -8,11 +10,23 @@ Vas a necesitar los siguientes componentes:
 - PC con conexión a Internet
 - Lector de tarjetas SD
 
-# Raspbian NOOBs
+
+
+<br />
+
+
+
+## Raspbian NOOBs
 
 Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador sencillo guiado paso a paso. NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.
+
+
+
+<br />
+
+
 
 ## Descargar Raspbian con NOOBs
 
@@ -23,6 +37,12 @@ Para descargar la imagen del sistema operativo Raspbian accederemos al apartado 
 
 El archivo descargado vendrá con extensión `.zip` con lo cual deberemos tener instalado un compresor de archivos.
 
+
+
+<br />
+
+
+
 ## Instalar SD Card Formatter
 
 El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatear para eliminar el posible contenido así como para dejarla preparada con el sistema de archivos que utiliza Raspbian. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar el programa [SD Card Formatter](https://www.sdcard.org/downloads/index.html) (recomendado por Raspberry Pi). 
@@ -30,6 +50,12 @@ El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatea
 Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro lector de tarjetas, la seleccionamos y la formateamos. Este proceso tarda apenas unos segundos.
 
 ![](img/sdcard-formatter.png)
+
+
+
+<br />
+
+
 
 ## Instalar Raspbian con NOOBs
 
@@ -45,11 +71,13 @@ Una vez finalizada la instalación arrancará el sistema operativo Raspbian como
 
 ![](img/raspbian.png)
 
-# Resumen
 
-Una forma sencilla de instalar Raspbian es copiando todos los archivos de la imagen descargada desde la página oficial de Raspberry Pi y seguir el asistente guiado de instalación.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Instala el sistema operativo Raspbian con NOOBs. Calcula el tiempo aproximado de la instalación.
 

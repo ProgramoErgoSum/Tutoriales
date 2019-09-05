@@ -1,17 +1,31 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar LUVCview** para visualizar una webcam USB en Raspberry Pi.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 - Webcam USB
 
-# Reproductor LUVCview
+
+
+<br />
+
+
+
+## Reproductor LUVCview
 
 LUVCview (l-UVC-view) es un reproductor de video muy sencillo para Linux que utiliza el controlador UVC para cámaras web y que vamos a utilizar para visualizar las imágenes captadas por la webcam.
 
 Podemos buscar las cámaras soportadas en el siguiente [listado](https://elinux.org/RPi_USB_Webcams)
+
+
+
+<br />
+
+
 
 ## Listar dispositivos USB
 
@@ -26,6 +40,12 @@ Bus 001 Device 004: ID 0c45:6340 Microdia Camera
 ```
 
 En nuestro caso se puede observar que nos ha reconocido una webcam *Microdia Camera* en el Bus 001 con los identificadores vid:pid `0c45:6340`. Si quisiésemos obtener más información sobre la webcam introduciríamos el comando `lsusb -d 0c45:6340 -v` donde nos mostraría los parámetros reconocidos por el sistema operativo.
+
+
+
+<br />
+
+
 
 ## Instalar LUVCview
 
@@ -47,10 +67,12 @@ luvcview 0.2.6
 
 ![](img/luvcview.png)
 
-# Resumen
 
-Con este sencillo programa podemos visualizar una webcam en Raspbian además de utilizar las diferentes opciones que nos proporciona el programa.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Conecta una webcam USB y comprueba el correcto funcionamiento utilizando LUVCview.

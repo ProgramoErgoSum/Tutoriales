@@ -1,10 +1,18 @@
+## Introducción
+
 En este tutorial vamos a programar en Python **los pines GPIO** de nuestra Raspberry Pi para interactuar con ellos.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
+
+
+
+<br />
+
+
 
 ## Pines GPIO
 
@@ -46,6 +54,12 @@ pi@raspberrypi:~ $ gpio readall
  +-----+-----+---------+------+---+---Pi 2---+---+------+---------+-----+-----+
 ```
 
+
+
+<br />
+
+
+
 ## Salidas digitales
 
 En primer lugar se importa la librería `GPIO` y `time`. Vamos a utilizar el pin situado en su posición de la placa 7. La siguiente instrucción será la inicialización del pin, es decir, los pines pueden ser utilizados como entradas o salidas. Por último, solamente nos quedará activar (True) o desactivar (False) el pin seleccionado. Para ello, se va a situar el código dentro de un bucle infinito.
@@ -63,6 +77,12 @@ while True:
   GPIO.output(7, False)
   time.sleep(1)
 ```
+
+
+
+<br />
+
+
 
 ![](img/salida-digital.png)
 
@@ -87,10 +107,12 @@ while True:
 
 ![](img/entrada-digital.png)
 
-# Resumen
 
-En Raspberry Pi no disponemos de un conversor de analógico a digital, con lo cual, para medir ciertos sensores utilizaremos de forma conjunta una placa de Arduino para que se comuniquen a través del serial con PySerial.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Programa un led intermitente en Python utilizando los pines GPIO.

@@ -1,13 +1,21 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **fijar una dirección IP en Raspbian** para que siempre tenga la misma dirección.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 - Acceso al router
 
-# Direcciones IP
+
+
+<br />
+
+
+
+## Direcciones IP
 
 Una dirección IP (Internet Protocol) es la dirección de red a la cual está conectado un equipo. Vendría a ser algo similar a la dirección de nuestra casa, pero utilizando números `xxx.xxx.xxx.xxx`. 
 
@@ -18,6 +26,12 @@ Lo mismo pasa con nuestro proveedor de internet ISP, cada vez que reiniciamos el
 ![](img/red.png)
 
 Sin embargo, si tenemos una instalación permanente (servidor de archivos, sistema de videovigilancia, etc.) vamos a querer que la dirección IP sea fija.
+
+
+
+<br />
+
+
 
 ## Dirección IP local
 
@@ -53,6 +67,12 @@ De toda la información que aparece, nos tenemos que fijar en la línea `inet ..
 
 Como hemos comentado con anterioridad, dicha dirección IP puede cambiar cada vez que conectes o reinicies la Raspberry Pi ya que es asignada por el router normalmente.
 
+
+
+<br />
+
+
+
 ## Hacer ping a una IP
 
 Un comando muy sencillo para comprobar si existe una dirección IP es el comando `ping`. De esta forma podemos conocer la respuesta de si existe o no dicha IP.
@@ -80,7 +100,12 @@ From 192.168.0.138 icmp_seq=3 Destination Host Unreachable
 ```
 
 
-## Establecer IP Fija en Raspberry Pi
+
+<br />
+
+
+
+## Establecer IP Fija
 
 Nuestro objetivo será acceder a la propia Raspberry Pi de forma remota, pero para ello debemos establer una dirección IP fija que nunca cambie aunque reiniciemos el sistema.
 
@@ -98,11 +123,13 @@ Añadimos la dirección IP que tengamos libre y permitida en nuestro router. Añ
 
 A continuación guardamos los cambios y reiniciamos la Raspberry Pi para ver que los cambios son correctos. Al reiniciar, volvemos a acceder a la configuración de red y veremos que la IP está guardada.
 
-# Resumen
 
-En la práctica es una buena solución establecer direcciones IP fijas a nuestras Raspberry Pi si queremos acceder de forma remota, por ejemplo, para controlar un invernadero etc. Sin embargo, para utilizarla como equipos de trabajo, lo mejor es dejar que sean asignadas de manera aleatoria por el router al cual están conectadas para no tener conflictos de direcciones IP.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Averigua tu dirección IP y prueba hacer un ping desde otro equipo a tu IP. Comprueba que la respuesta es correcta.
 

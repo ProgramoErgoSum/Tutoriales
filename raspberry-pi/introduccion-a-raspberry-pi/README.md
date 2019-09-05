@@ -1,4 +1,4 @@
-# Introducción a Raspberry Pi con Raspbian
+## Introducción
 
 Este curso online de introducción a Raspberry Pi está destinado a todos aquellos usuarios que quieran introducirse en el mundo de la informática a través de este mini ordenador. A lo largo de las siguientes lecciones aprenderás a instalar y configurar el sistema operativo Raspian para Raspberry Pi desde cero. Además te mostraremos diferentes usos que puedes darle tanto a nivel particular como educativo.
 
@@ -89,9 +89,6 @@ Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una 
 
 ![](img/raspbian.png)
 
- 
-### ¿Cómo instalar Rasbian en Raspberry Pi?
-
 Para instalar el sistema operativo Raspbian, primero debemos acceder al apartado de descargas desde la web de la Fundación de Raspberry Pi y observaremos que aparecen dos formas diferentes de instalación, una mediante asistente y otra para expertos:
 
 - Mediante NOOBS: Instalación mediante asistente de instalación recomendada para usuarios generalmente poco expertos.
@@ -99,7 +96,13 @@ Para instalar el sistema operativo Raspbian, primero debemos acceder al apartado
 
 ![](img/descargar-raspbian.png)
 
-### Instalar Raspbian con NOOBS
+
+
+<br />
+
+
+
+## Instalar Raspbian con NOOBS
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/CmDL8VWMUQU" allowfullscreen></iframe>
@@ -109,7 +112,13 @@ NOOBS es el acrónimo de "New Out Of Box Software" y básicamente consiste en un
 
 NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.
 
-### Instalar Raspbian desde imagen
+
+
+<br />
+
+
+
+## Instalar Raspbian desde imagen
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/EqsjmwufFp8" allowfullscreen></iframe>
@@ -119,7 +128,13 @@ Una imagen es un archivo que contiene la estructura y los contenidos completos d
 
 Esto es útil cuando queremos que todos nuestros equipos dispongan de la misma configuración y con los mismos programas instalados, mismas carpetas, etc. Es muy común crear una imagen por defecto con la configuración deseada y guardarla como copia de seguridad, para con el tiempo, resetear nuestra Raspberry Pi ahorrando el tiempo de instalar y configurarla nuevamente.
 
-### Actualizar Raspbian
+
+
+<br />
+
+
+
+## Actualizar Raspbian
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/EDj1nHo41MM" allowfullscreen></iframe>

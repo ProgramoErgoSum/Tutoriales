@@ -1,4 +1,4 @@
-# Introducción a Python Turtle Graphics en Raspberry Pi
+## Introducción
 
 En este curso aprenderás el concepto de Programación Orientada o Objetos en Python a través de Python Turtle Graphics, una librería creada para la enseñanza de la programación en el ámbito educativo similar al antiguo entorno de programación Logo.
 

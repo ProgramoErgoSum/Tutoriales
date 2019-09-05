@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **acceder a través de escritorio remoto a nuestra Raspberry Pi** para controlarla desde un equipo en la misma red local.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -8,13 +10,25 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Direcciones IP en Raspberry Pi](raspberry_pi-ip)
+- Direcciones IP en Raspberry Pi
 
-# Virtual Network Computing (VNC)
+
+
+<br />
+
+
+
+## Virtual Network Computing (VNC)
 
 Virtual Network Computing (VNC) es un programa de escritorio remoto de software libre basado en una estructura cliente-servidor que permite tomar el control del ordenador servidor remotamente a través de un ordenador cliente.
 
 ![](img/vnc.png)
+
+
+
+<br />
+
+
 
 ## Habilitar VNC Server
 
@@ -32,6 +46,12 @@ pi@raspberrypi:~ $ sudo raspi-config
 
 ![](img/vnc-terminal.png)
 
+
+
+<br />
+
+
+
 ## Instalar VNC Viewer
 
 Una vez habilitada la conexión, deberemos descargar en otro PC el cliente para VNC (**VNC Viewer**) desde la propia [web del fabricante](https://www.realvnc.com/en/connect/download/viewer/). Este programa es multiplataforma para distitntos sistemas operativos.
@@ -40,15 +60,23 @@ Una vez descargado, lo instalamos y al abrirlo observaremos una ventana donde te
 
 ![](img/vnc-cliente.png)
 
+
+
+<br />
+
+
+
 ## Recomendaciones de seguridad
 
 Al instalar el sistema operativo Raspbian, el usuario por defecto es `pi` y la contraseña `raspberry`. Con lo cual es una buena práctica cambiar la contraseña inicial para que no se conecte personal no autorizado.
 
-# Resumen
 
-En la práctica es una buena solución habilitar la conexión por VNC de nuestra Raspberry Pi cuando queremos controlarla desde el exterior. 
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Habilita la conexión VNC de tu Raspberry Pi mediante entorno gráfico y prueba a conectarte desde otro equipo.
 

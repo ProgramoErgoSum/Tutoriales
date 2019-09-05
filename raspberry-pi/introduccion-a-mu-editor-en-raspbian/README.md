@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **instalar Mu Editor** para programar placas de electrónica en MicroPython.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
@@ -11,13 +13,25 @@ Es recomendable acceder a los siguientes tutoriales:
 
 - [Aprender a programar en Python](https://www.aprendeprogramando.es/cursos-online/python)
 
-# Instalar Mu Editor
+
+
+<br />
+
+
+
+## Instalar Mu Editor
 
 [Mu Editor](https://codewith.mu/) es un editor de Python muy sencillo para principantes de la programación que permite programar en MicroPython. [MicroPython](http://micropython.org/) es una versión reducida de Python 3 diseñada para funcionar en microcontroladores, como es el caso de la placa micro:bit.
 
 En primer lugar tenemos que habilitar el editor Mu desde `Inicio > Programas recomendados` y una vez instalado ya podemos acceder al editor desde el menú `Inicio > Programming > Mu`
 
 ![](img/mu.png)
+
+
+
+<br />
+
+
 
 ## Conectar Micro:bit a Raspberry Pi
 
@@ -26,6 +40,12 @@ En primer lugar tenemos que habilitar el editor Mu desde `Inicio > Programas rec
 ![](img/microbit.png)
 
 Para conectar la placa hacemos uso de cualquiera de los USB disponibles en la Raspberry Pi. Al conectarla aparecerá una ventana indicando que se ha introducido un dispositivo nuevo. Simplemente cancelamos la ventana haciendo clic en el botón `Cancelar`.
+
+
+
+<br />
+
+
 
 ## Software Mu Editor
 
@@ -41,6 +61,11 @@ Para programar nuestra placa Micro:bit, vamos a utilizar el lenguaje de programa
 - `Zoom-in` y `Zoom-out` Altera el tamaño de la fuente.
 - `Theme` altera el tono del editor
 - `Check` comprueba la sintaxis del código.
+
+
+
+<br />
+
 
 
 ## ¡Hola Mundo!
@@ -70,11 +95,12 @@ sleep(500)
 ```
 
 
-# Resumen
 
-Con Mu Editor podemos programar en MicroPython todo tipo de placas de electrónica que admita el editor. Una de las placas es Micro:bit.
+<br />
 
-# Ejercicios propuestos
+
+
+## Ejercicios propuestos
 
 1.- Muestra tu nombre completo utilizando la función `scroll()`.
 

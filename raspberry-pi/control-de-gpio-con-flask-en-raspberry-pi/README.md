@@ -1,6 +1,8 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **montar un servidor web para Python con Flask** en nuestra Raspberry Pi y utilizar los pines GPIO para interactuar con ellos.
 
-# Antes de empezar
+### Antes de empezar
 
 Para este tutorial vas a necesitar los siguientes componentes:
 
@@ -9,13 +11,25 @@ Para este tutorial vas a necesitar los siguientes componentes:
 Es recomendable acceder a los siguientes tutoriales:
 
 - [Aprender a programar en Python](https://www.aprendeprogramando.es/cursos-online/python)
-- [Servidor Web en Flask](raspberry_pi-webserver-python)
+- Servidor Web en Flask
 
-# Servidor Web con Flask
+
+
+<br />
+
+
+
+## Servidor Web con Flask
 
 Flask es un microframework creado para facilitar el desarrollo de aplicaciones web en Python. Es utilizado normalmente para construir servicios web como APIs REST o aplicaciones de contenido estático.
 
 En este caso vamos a utilizar los pines GPIO.
+
+
+
+<br />
+
+
 
 ## Encendido y apagado de un LED
 
@@ -58,6 +72,12 @@ URL: localhost:8080/off
 
 ![](img/on-off.png)
 
+
+
+<br />
+
+
+
 ## Controlar varios LEDs
 
 Para controlar varios LED podemos crear varias funciones y cada una asignada a un pin GPIO de nuestra Raspberry Pi. Sin embargo, imagina que queremos controlar 5 LEDs. Podemos pensar que tenemos que crear 10 funciones (on y off para cada uno de los LED). La mejor solución pasa por pasar parámetros a la URL indicando el pin GPIO que queremos utilizar y el estado del LED que queremos asignar. Por ejemplo `/17/0`, `/18/1`, etc.
@@ -95,6 +115,12 @@ URL: localhost:8080/18/1
 ```
 
 ![](img/varios-leds.png)
+
+
+
+<br />
+
+
 
 ## Añadiendo un template
 
@@ -179,10 +205,12 @@ if __name__ == '__main__':
 
 ![](img/optimizacion.png)
 
-# Resumen
 
-Con este sencillo ejemplo hemos visto la forma de controlar los pines GPIO a través de un sencillo servidor web en Flask con Python.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Enciende varios LEDs utilizando diferentes endpoints en el servidor web.

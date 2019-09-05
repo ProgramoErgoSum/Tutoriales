@@ -1,17 +1,31 @@
+## Introducción
+
 En este tutorial vamos a explicar cómo **crear un punto de acceso WiFi con Raspberry Pi** utilizando el asistente RaspAP con editor web para administrar y configurar los dispositivos conectados.
 
-# Antes de empezar
+### Antes de empezar
 
 Vas a necesitar los siguientes componentes:
 
 - Raspberry Pi con Raspbian
 - Acceso al router
 
-# Punto de acceso
+
+
+<br />
+
+
+
+## Punto de acceso
 
 Un punto de acceso WiFi es un dispositivo que crea una red de área local inalámbrica (WLAN). Un punto de acceso se conecta a un red local de un router por cable Ethernet y proyecta una señal WiFi en otra red local. Esto es útil cuando queremos conectar más dispositivos a una red local, cuando queremos proteger el acceso a ciertos dispositivos, etc.
 
 ![](img/hotspot.png)
+
+
+
+<br />
+
+
 
 ## Instalar RaspAp Webgui
 
@@ -32,13 +46,25 @@ Con el instalador se creará la configuración básica y tras finalizar la insta
 - SSID: raspi-webgui
 - Password: ChangeMe
 
+
+
+<br />
+
+
+
 ## Configurar RaspAp Webgui
 
 Para la configuración de RaspAp deberás acceder a la dirección web `localhost` e introducir el usuario `admin` y password `secret` definidos en la configuración inicial. 
 
 ![](img/raspap-webgui.png)
 
-# Deshabilitar hibernación
+
+
+<br />
+
+
+
+## Deshabilitar hibernación
 
 Por defecto la duración de la pantalla en Raspbian es de 600 segundos. Esto se obtiene tras ejecutar el comando `xset q`. 
 
@@ -75,11 +101,13 @@ Sin embargo, en recientes versiones de Rasbian, la mejor opción para por instal
 pi@raspberrypi:~ $ sudo apt install xscreensaver
 ```
 
-# Resumen
 
-Probablemente encuentres por internet otros tutoriales para configurar un punto de acceso WiFi paso a paso de forma manual. Con este asistente evitas tener que modificar ficheros si no eres un usuario avanzado en sistemas operativos Linux.
 
-# Ejercicios propuestos
+<br />
+
+
+
+## Ejercicios propuestos
 
 1.- Monta el punto de acceso WiFi con tu Raspberry Pi y conéctate desde tu dispositivo móvil para probar el correcto funcionamiento.
 

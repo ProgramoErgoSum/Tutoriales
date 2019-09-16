@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **configurar el sistema operativo Raspbian** para utilizarlo por primera vez y ver todas sus características y programas.
+En este tutorial vamos a explicar cómo configurar el sistema operativo Raspbian para utilizarlo por primera vez y ver todas sus características y programas.
 
 ### Antes de empezar
 

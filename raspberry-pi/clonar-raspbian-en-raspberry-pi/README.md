@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **clonar el sistema operativo Raspbian** para crear una imagen con nuestros programas e instalación preferida.
+En este tutorial vamos a explicar cómo clonar el sistema operativo Raspbian para crear una imagen con nuestros programas e instalación preferida.
 
 ### Antes de empezar
 
@@ -22,7 +22,7 @@ SD Card Copier (piclone) es la herramienta que integra el sistema operativo Rasp
 
 Para utilizar la aplicación deberás disponer de un hub USB de tarjetas SD.
 
-![](img/hub.png)
+![](img/hub.jpg)
 
 
 
@@ -38,11 +38,11 @@ Accedemos a la herramienta desde el entorno gráfico de Raspbian en `Inicio > Ac
 pi@raspberrypi:~ $ piclone
 ```
 
-![](img/sd-card-copier.png)
+![](img/sd-card-copier.jpg)
 
 Si nos fijamos en la imagen, debemos seleccionar el dispositivo desde donde queremos copiar (seleccionando la actual SD */dev/mmcblk0*) y hacia donde, en nuestro caso, un Hub USB utilizando una tarjeta SM en `/dev/sdd`.
 
-![](img/copy.png)
+![](img/copy.jpg)
 
 El proceso suele tardar aproximadamente **20 minutos**, tiempo similar a la instalación por defecto de Raspbian, con la diferencia de ahorrarnos instalar los programas y configuraciones realizadas sobre nuestra Raspberry Pi.
 

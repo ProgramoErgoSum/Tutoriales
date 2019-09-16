@@ -1,23 +1,20 @@
 ## Introducción
 
-Este curso online de introducción a Raspberry Pi está destinado a todos aquellos usuarios que quieran introducirse en el mundo de la informática a través de este mini ordenador. A lo largo de las siguientes lecciones aprenderás a instalar y configurar el sistema operativo Raspian para Raspberry Pi desde cero. Además te mostraremos diferentes usos que puedes darle tanto a nivel particular como educativo.
+Este tutorial de introducción a Raspberry Pi está destinado a todos aquellos usuarios que quieran introducirse en el mundo de la informática a través de este mini ordenador. A lo largo de las siguientes lecciones aprenderás a instalar y configurar el sistema operativo Raspian para Raspberry Pi desde cero. Además te mostraremos diferentes usos que puedes darle tanto a nivel particular como educativo.
 
 ![](img/pc-con-raspberry-pi.png)
 
-### ¿Qué materiales voy a necesitar?
+### Antes de empezar
 
-Antes de continuar con las lecciones del curso asegúrate que dispones de todos los componentes que se van a necesitar. A continuación añadimos los materiales que utilizamos en los videotutoriales, no obstante, si dispones de otro modelo de Raspberry Pi deberás modificar los complementos que creas necesarios.
+Vas a necesitar los siguientes componentes:
 
-Componentes utilizadosen el tutorial:
-
-- Raspberry Pi 2 Modelo B.
-- Alimentación micro-USB 5V, 2A.
-- Tarjeta micro SD 8Gb.
-- Monitor con HDMI.
-- Teclado USB 2.0.
-- Ratón USB 2.0.
-- Cable de red Ethernet RJ-45.
-
+- Raspberry Pi
+- Alimentación micro-USB
+- Tarjeta microSD mínimo 8Gb
+- Monitor con HDMI (o adaptador VGA-HDMI)
+- Teclado USB
+- Ratón USB
+- Conexión a internet
 
 
 <br />
@@ -32,11 +29,21 @@ Raspberry Pi es un mini ordenador de pequeñas dimensiones y precio destinado pr
 
 ### Hardware de la Raspberry Pi
 
-Aunque no se indica expresamente si es hardware libre o con derechos de marca, disponen de contratos de distribución y venta por lo que se entiende que es un producto con propiedad registrada pero de uso libre. De esa forma la Fundación Raspberry Pi mantiene el control de la plataforma pero permitiendo su uso libre tanto a nivel educativo como particular.
-
-Raspberry Pi utiliza un arquitectura para el procesador ARM distinta a la que estamos acostumbrados a utilizar en nuestros ordenadores de sobremesa o portátiles. Esta arquitectura es de tipo RISC (Reduced Instruction Set Computer), es decir, utiliza un sistema de instrucciones realmente simple lo que le permite ejecutar tareas con un mínimo consumo de energía.
+El hardware es abierto, a excepción del chip principal, el Broadcomm, basado en arquitectura ARM (Advanced RISC Machine) distinta a la que estamos acostumbrados a utilizar en nuestros ordenadores de sobremesa o portátiles. Esta arquitectura es de tipo RISC (Reduced Instruction Set Computer), es decir, utiliza un sistema de instrucciones realmente simple lo que le permite ejecutar tareas con un mínimo consumo de energía.
 
 > La arquitectura ARM es la que poseen la mayoría de nuestros smartphone donde el objetivo primordial es el bajo consumo de energía.
+
+**RISC** (Reduced Instruction Set Computer)
+
+- Énfasis en el Hardware
+- Idea básica: Instrucciones sencillas
+- MIPS: 140 instrucciones aprox.
+
+**CISC** (Complex Instruction Set Computer)
+
+- Énfasis en el Software
+- Idea básica: Instrucciones complejas
+- MIPS: 325 instrucciones aprox.
 
 ![](img/hardware.png)
 
@@ -68,7 +75,11 @@ La raspberry Pi (en sus modelos B y B+) es seis veces más potente que las anter
 
 **Raspberry Pi 3 (B, B+)**
 
-Con características similares a la Raspberry Pi 2, en este destacada por su mayor memoria y procesador, así como def la incorporación de Wifi integrada, lo cual es una gran ventaja para utilizar en proyectos donde se necesite de una fuente de internet.
+Con características similares a la Raspberry Pi 2, en este destacada por su mayor memoria y procesador, así como la incorporación de Wifi integrada, lo cual es una gran ventaja para utilizar en proyectos donde se necesite de una fuente de internet.
+
+**Raspberry Pi 4 (B, B+)**
+
+Con características similares a la Raspberry Pi 3, la mayor diferencia es el procesador de 1.5GHz y RAM de 1GB a 4GB, así como la capacidad de manejar pantallas 4K a 60Hz.
 
 > Para más información sobre versiones y modelos puedes acceder a este <a target="_blank" href="https://es.wikipedia.org/wiki/Raspberry_Pi">enlace</a>.
 
@@ -84,15 +95,15 @@ Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimiz
 
 Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una más completa con entorno gráfico y otra más reducida sin entorno gráfico:
 
-- Raspbian Pixel: Versión completa con entorno gráfico de Raspbian, es decir, la versión de escritorio con menús, ventanas, iconos, fondos de pantalla, etc. utilizado por la mayoría de los usuarios como ordenador de sobremesa.
-- Raspbian Lite: Versión reducida sin entorno gráfico, es decir, la versión en modo consola sin gráficos. Esta opción generalmente es para usuarios avanzados con conocimientos de Linux que utilizan la Raspberry Pi como servidor.
+- **Raspbian Pixel**: Versión completa con entorno gráfico de Raspbian, es decir, la versión de escritorio con menús, ventanas, iconos, fondos de pantalla, etc. utilizado por la mayoría de los usuarios como ordenador de sobremesa.
+- **Raspbian Lite**: Versión reducida sin entorno gráfico, es decir, la versión en modo consola sin gráficos. Esta opción generalmente es para usuarios avanzados con conocimientos de Linux que utilizan la Raspberry Pi como servidor.
 
 ![](img/raspbian.png)
 
 Para instalar el sistema operativo Raspbian, primero debemos acceder al apartado de descargas desde la web de la Fundación de Raspberry Pi y observaremos que aparecen dos formas diferentes de instalación, una mediante asistente y otra para expertos:
 
-- Mediante NOOBS: Instalación mediante asistente de instalación recomendada para usuarios generalmente poco expertos.
-- Mediante una imagen del SO: Instalación mediante la imagen del sistema operativo Raspbian para usuarios avanzados.
+- **Mediante NOOBS**: Instalación mediante asistente de instalación recomendada para usuarios generalmente poco expertos.
+- **Mediante una imagen del SO**: Instalación mediante la imagen del sistema operativo Raspbian para usuarios avanzados.
 
 ![](img/descargar-raspbian.png)
 

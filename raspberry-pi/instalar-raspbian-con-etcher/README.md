@@ -30,7 +30,7 @@ Una imagen es un archivo que contiene la estructura y los contenidos completos d
 
 ## Descargar imagen de Raspbian
 
-Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de [descargas](https://www.raspberrypi.org/downloads/raspbian/) y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
+Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/noobs/">descargas</a> y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
 
 - `Raspbian Stretch with desktop and recommended software`: Versión completa con entorno gráfico y programas recomendados.
 - `Raspbian Stretch with desktop`: Versión completa con entorno gráfico (ventanas, carpetas, etc.).
@@ -44,7 +44,7 @@ Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accede
 
 ## Instalar Etcher
 
-La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa [Etcher](https://etcher.io/) (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
+La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa <a target="_blank" href="https://etcher.io">Etcher</a> (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
 
 ![](img/etcher.png)
 
@@ -95,10 +95,4 @@ tmpfs             93M      0   93M   0% /run/user/1000
 
 ## Ejercicios propuestos
 
-1.- Instala el sistema operativo Raspbian a partir de una imagen utilizando el asistente NOOBs. Además deberás calcular el tiempo aproximado de la instalación de los diferentes programas utilizados.
-
-|                          | Tiempo |
-| ------------------------ | ------ |
-| Descargar imagen         |        |
-| Clonar imagen con Etcher |        |
-| TIEMPO TOTAL             |        |
+1.- Instala el sistema operativo Raspbian a partir de una imagen utilizando el asistente NOOBs.

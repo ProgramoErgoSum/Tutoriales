@@ -18,6 +18,10 @@ Vas a necesitar los siguientes componentes:
 
 ## Raspbian NOOBs
 
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/CmDL8VWMUQU" allowfullscreen></iframe>
+</div>
+
 Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador sencillo guiado paso a paso. NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.

@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **instalar el sistema operativo Raspbian en Raspberry Pi** utilizando el clonado de una imagen con Etcher.
+En este tutorial vamos a explicar cómo instalar el sistema operativo Raspbian en Raspberry Pi utilizando el clonado de una imagen con Etcher.
 
 ### Antes de empezar
 
@@ -17,6 +17,10 @@ Vas a necesitar los siguientes componentes:
 
 
 ## Raspbian Etcher
+
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/EqsjmwufFp8" allowfullscreen></iframe>
+</div>
 
 Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 

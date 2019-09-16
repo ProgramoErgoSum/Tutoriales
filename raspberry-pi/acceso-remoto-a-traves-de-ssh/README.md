@@ -24,7 +24,7 @@ Secure Shell (SSH) es un protocolo de comunicación entre dos sistemas usando un
 
 En la siguiente imagen podemos ver una ventana típica de conexión SSH a una Raspberry Pi con el sistema operativo Raspbian.
 
-![](img/terminal.png)
+![](img/terminal.jpg)
 
 > Los usuarios con sistemas operativos *Linux* o *MAC* pueden utilizar la propia terminal mientras que los usuarios de *Windows* deben **instalar un cliente SSH** como [Putty](https://www.putty.org/).
 
@@ -34,7 +34,7 @@ La conexión por SSH en Raspbian viene deshabilitada por defecto, con lo cual, l
 
 - **Desde el entorno gráfico**: Accedemos al menú `Inicio > Preferencias > Raspberry Pi Configuración` y una vez en la ventana de configuración, sobre la pestaña `Interfaces` habilitamos la opción `SSH`. A continuación guardamos y ya está habilitado el acceso por SSH.
 
-![](img/ssh-grafico.png)
+![](img/ssh-grafico.jpg)
 
 - **Desde la terminal**: Accedemos a la terminal e introducimos el comando `sudo raspi-config`. Seleccionamos la opción de `Interfaces`, a continuación la opcción de `SSH` y por último la opción de `Habilitar`. Guardamos y ya está habilitado el acceso por SSH.
 
@@ -42,7 +42,7 @@ La conexión por SSH en Raspbian viene deshabilitada por defecto, con lo cual, l
 pi@raspberrypi:~ $ sudo raspi-config
 ```
 
-![](img/ssh-terminal.png)
+![](img/ssh-terminal.jpg)
 
 
 

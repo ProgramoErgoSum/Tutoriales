@@ -23,7 +23,7 @@ Cada vez que nos conectamos a un router, ya sea por cable o wifi, puede que nues
 
 Lo mismo pasa con nuestro proveedor de internet ISP, cada vez que reiniciamos el router puede que tengamos una *dirección IP pública* distinta.
 
-![](img/red.png)
+![](img/red.jpg)
 
 Sin embargo, si tenemos una instalación permanente (servidor de archivos, sistema de videovigilancia, etc.) vamos a querer que la dirección IP sea fija.
 
@@ -111,7 +111,7 @@ Nuestro objetivo será acceder a la propia Raspberry Pi de forma remota, pero pa
 
 > Para configurar una IP fija debemos asegurarnos que esté fuera del rango DHCP (configuración del router) y que ningún otro dispositivo tenga asignada la misma dirección IP.
 
-![](img/ip-fija.png)
+![](img/ip-fija.jpg)
 
 La forma más sencilla de establecer una dirección IP desde Raspbian es desde el entorno gráfico. Para ello haciendo doble clic sobre el icono de `configuración de red`, seleccionamos la interfaz `eth0` si estamos conectados por cable de red o `wifi` en caso de estar mediante wifi.
 

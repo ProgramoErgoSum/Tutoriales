@@ -49,7 +49,7 @@ El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatea
 
 Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro lector de tarjetas, la seleccionamos y la formateamos. Este proceso tarda apenas unos segundos.
 
-![](img/sdcard-formatter..jpg)
+![](img/sdcard-formatter.jpg)
 
 
 
@@ -61,7 +61,7 @@ Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro
 
 Una vez descargada la imagen de Raspbian, la descomprimimos con un compresor de archivos `.zip` y copiamos todos los archivos de la carpeta descomprimida en el interior de la tarjeta SD formateada en el paso anterior.
 
-![](img/copiar..jpg)
+![](img/copiar.jpg)
 
 Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos seleccionando las opciones que nos ofrezca el asistente de instalación. Este proceso **suele tardar unos 20 minutos** aproximadamente.
 
@@ -69,7 +69,7 @@ Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos 
 
 Una vez finalizada la instalación arrancará el sistema operativo Raspbian como se muestra en la siguiente imagen.
 
-![](img/raspbian..jpg)
+![](img/raspbian.jpg)
 
 
 

@@ -46,7 +46,7 @@ Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accede
 
 La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa <a target="_blank" href="https://etcher.io">Etcher</a> (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
 
-![](img/etcher..jpg)
+![](img/etcher.jpg)
 
 
 
@@ -60,7 +60,7 @@ Una vez descargada la imagen de Raspbian e instalado el programa Etcher, lo abri
 
 Una vez finalizado el proceso de copiado conectamos la tarjeta SD a la Raspberry Pi y al encenderla arrancará directamente el sistema operativo Raspbian.
 
-![](img/raspbian..jpg)
+![](img/raspbian.jpg)
 
 
 

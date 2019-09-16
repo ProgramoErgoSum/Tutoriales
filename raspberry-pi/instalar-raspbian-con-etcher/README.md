@@ -18,10 +18,6 @@ Vas a necesitar los siguientes componentes:
 
 ## Raspbian Etcher
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/EqsjmwufFp8" allowfullscreen></iframe>
-</div>
-
 Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 Una imagen es un archivo que contiene la estructura y los contenidos completos de un sistema operativo, es decir, una copia exacta del sistema operativo y contenido. Esto es útil cuando queremos que todos nuestros equipos dispongan de la misma configuración y con los mismos programas instalados, mismas carpetas, etc.
@@ -50,7 +46,7 @@ Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accede
 
 La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa <a target="_blank" href="https://etcher.io">Etcher</a> (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
 
-![](img/etcher.png)
+![](img/etcher..jpg)
 
 
 
@@ -64,7 +60,7 @@ Una vez descargada la imagen de Raspbian e instalado el programa Etcher, lo abri
 
 Una vez finalizado el proceso de copiado conectamos la tarjeta SD a la Raspberry Pi y al encenderla arrancará directamente el sistema operativo Raspbian.
 
-![](img/raspbian.png)
+![](img/raspbian..jpg)
 
 
 

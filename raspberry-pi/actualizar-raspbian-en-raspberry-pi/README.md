@@ -15,20 +15,6 @@ Vas a necesitar los siguientes componentes:
 
 
 
-## Actualizar sistema operativo
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/EDj1nHo41MM" allowfullscreen></iframe>
-</div>
-
-Una vez hemos instalado Raspbian en nuestra Raspberry Pi, ya sea siguiendo el asistente de NOOBS o mediante la instalación de una imagen, conviene actualizar.
-
-
-
-<br />
-
-
-
 ## Comando: update
 
 Con el comando `apt update` actualizamos la lista de paquetes en el repositorio, es decir, se actualiza la lista de todos los paquetes con la dirección de dónde obtenerlos.

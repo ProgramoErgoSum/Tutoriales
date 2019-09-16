@@ -18,10 +18,6 @@ Vas a necesitar los siguientes componentes:
 
 ## Raspbian NOOBs
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/CmDL8VWMUQU" allowfullscreen></iframe>
-</div>
-
 Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador sencillo guiado paso a paso. NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.
@@ -53,7 +49,7 @@ El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatea
 
 Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro lector de tarjetas, la seleccionamos y la formateamos. Este proceso tarda apenas unos segundos.
 
-![](img/sdcard-formatter.png)
+![](img/sdcard-formatter..jpg)
 
 
 
@@ -65,7 +61,7 @@ Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro
 
 Una vez descargada la imagen de Raspbian, la descomprimimos con un compresor de archivos `.zip` y copiamos todos los archivos de la carpeta descomprimida en el interior de la tarjeta SD formateada en el paso anterior.
 
-![](img/copiar.png)
+![](img/copiar..jpg)
 
 Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos seleccionando las opciones que nos ofrezca el asistente de instalación. Este proceso **suele tardar unos 20 minutos** aproximadamente.
 
@@ -73,7 +69,7 @@ Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos 
 
 Una vez finalizada la instalación arrancará el sistema operativo Raspbian como se muestra en la siguiente imagen.
 
-![](img/raspbian.png)
+![](img/raspbian..jpg)
 
 
 

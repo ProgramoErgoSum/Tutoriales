@@ -87,13 +87,13 @@ pi@raspberrypi:~ $
 
 Al instalar el sistema operativo Raspbian, el usuario por defecto es `pi` y la contraseña `raspberry`. Con lo cual es una buena práctica cambiar la contraseña inicial para que no se conecte personal no autorizado.
 
+En la práctica es una buena solución habilitar la conexión por SSH de nuestra Raspberry Pi cuando queremos controlarla desde el exterior. Cada vez que queramos conectar debemos introducir el comando de SSH mediante la IP (recuerda que es buena idea establecer la IP fija) e introducir el usuario y contraseña de la máquina a la cual nos queremos conectar.
+
 
 
 <br />
 
 
-
-En la práctica es una buena solución habilitar la conexión por SSH de nuestra Raspberry Pi cuando queremos controlarla desde el exterior. Cada vez que queramos conectar debemos introducir el comando de SSH mediante la IP (recuerda que es buena idea establecer la IP fija) e introducir el usuario y contraseña de la máquina a la cual nos queremos conectar.
 
 ## Ejercicios propuestos
 

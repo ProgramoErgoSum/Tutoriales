@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **acceder a través de SSH a nuestra Raspberry Pi** para controlarla desde un equipo remoto en la misma red local.
+En este tutorial vamos a explicar cómo acceder a través de SSH a nuestra Raspberry Pi para controlarla desde un equipo remoto en la misma red local.
 
 ### Antes de empezar
 
@@ -26,7 +26,7 @@ En la siguiente imagen podemos ver una ventana típica de conexión SSH a una Ra
 
 ![](img/terminal.jpg)
 
-> Los usuarios con sistemas operativos *Linux* o *MAC* pueden utilizar la propia terminal mientras que los usuarios de *Windows* deben **instalar un cliente SSH** como [Putty](https://www.putty.org/).
+> Los usuarios con sistemas operativos *Linux* o *MAC* pueden utilizar la propia terminal mientras que los usuarios de *Windows* deben **instalar un cliente SSH** como <a target="_blank" href="https://www.putty.org">Putty</a>.
 
 ## Habilitar SSH en Raspbian
 
@@ -70,7 +70,7 @@ Una vez establecida la conexión SSH nos aparecerá el **prompt** `pi@raspberryp
 ```sh
 migueabellan@PC ~ $ ssh pi@192.168.0.138
 pi@192.168.0.138 password: 
-Linux raspberrypi 4.14.98-v7+ #1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l
+Linux raspberrypi 4.14.98-v7+ 1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l
 
 ...
 

@@ -95,4 +95,4 @@ tmpfs             93M      0   93M   0% /run/user/1000
 
 ## Ejercicios propuestos
 
-1.- Instala el sistema operativo Raspbian a partir de una imagen utilizando el asistente NOOBs.
+1.- Instala el sistema operativo Raspbian a partir de una imagen.

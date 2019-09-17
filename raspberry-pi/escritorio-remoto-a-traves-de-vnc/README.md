@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **acceder a través de escritorio remoto a nuestra Raspberry Pi** para controlarla desde un equipo en la misma red local.
+En este tutorial vamos a explicar cómo acceder a través de escritorio remoto a nuestra Raspberry Pi para controlarla desde un equipo en la misma red local.
 
 ### Antes de empezar
 
@@ -54,7 +54,7 @@ pi@raspberrypi:~ $ sudo raspi-config
 
 ## Instalar VNC Viewer
 
-Una vez habilitada la conexión, deberemos descargar en otro PC el cliente para VNC (**VNC Viewer**) desde la propia [web del fabricante](https://www.realvnc.com/en/connect/download/viewer/). Este programa es multiplataforma para distitntos sistemas operativos.
+Una vez habilitada la conexión, deberemos descargar en otro PC el cliente para VNC (**VNC Viewer**) desde la propia <a target="_blank" href="https://www.realvnc.com/en/connect/download/viewer/">web del fabricante</a>. Este programa es multiplataforma para distitntos sistemas operativos.
 
 Una vez descargado, lo instalamos y al abrirlo observaremos una ventana donde tendremos que introducir la dirección IP de la Raspberry Pi a la cual queremos conectar.
 

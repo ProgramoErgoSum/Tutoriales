@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo instalar el sistema operativo Raspbian en Raspberry Pi utilizando el asistente guiado NOOBs.
+En este tutorial vamos a explicar cómo instalar el sistema operativo Raspbian en Raspberry Pi utilizando el asistente guiado NOOBs. Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 ### Antes de empezar
 
@@ -18,8 +18,6 @@ Vas a necesitar los siguientes componentes:
 
 ## Raspbian NOOBs
 
-Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
-
 NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador sencillo guiado paso a paso. NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.
 
 
@@ -31,6 +29,8 @@ NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador s
 ## Descargar Raspbian con NOOBs
 
 Para descargar la imagen del sistema operativo Raspbian accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/noobs/">descargas</a> desde la web oficial de Raspberry Pi y elegimos la versión que queremos instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
+
+![](img/descarga.jpg)
 
 - `NOOBS`: Versión completa con entorno gráfico y programas recomendados.
 - `NOOBS Lite`: Versión reducida sin entorno gráfico (modo consola) para *usuarios experimentados*.

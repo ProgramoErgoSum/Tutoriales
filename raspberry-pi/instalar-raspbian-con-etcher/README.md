@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo instalar el sistema operativo Raspbian en Raspberry Pi utilizando el clonado de una imagen con Etcher.
+En este tutorial vamos a explicar cómo instalar el sistema operativo Raspbian en Raspberry Pi utilizando el clonado de una imagen con Etcher. Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
 
 ### Antes de empezar
 
@@ -16,9 +16,7 @@ Vas a necesitar los siguientes componentes:
 
 
 
-## Raspbian Etcher
-
-Raspbian es el sistema operativo recomendado para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian.
+## Imagen de Raspbian
 
 Una imagen es un archivo que contiene la estructura y los contenidos completos de un sistema operativo, es decir, una copia exacta del sistema operativo y contenido. Esto es útil cuando queremos que todos nuestros equipos dispongan de la misma configuración y con los mismos programas instalados, mismas carpetas, etc.
 
@@ -30,11 +28,13 @@ Una imagen es un archivo que contiene la estructura y los contenidos completos d
 
 ## Descargar imagen de Raspbian
 
-Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/noobs/">descargas</a> y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
+Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">descargas</a> y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
 
-- `Raspbian Stretch with desktop and recommended software`: Versión completa con entorno gráfico y programas recomendados.
-- `Raspbian Stretch with desktop`: Versión completa con entorno gráfico (ventanas, carpetas, etc.).
-- `Raspbian Stretch Lite`: Versión reducida sin entorno gráfico (modo consola).
+![](img/descarga.jpg)
+
+- `Raspbian Buster with desktop and recommended software`: Versión completa con entorno gráfico y programas recomendados.
+- `Raspbian Buster with desktop`: Versión completa con entorno gráfico (ventanas, carpetas, etc.).
+- `Raspbian Buster Lite`: Versión reducida sin entorno gráfico (modo consola).
 
 
 

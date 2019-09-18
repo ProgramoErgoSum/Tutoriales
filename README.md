@@ -8,8 +8,8 @@
 
 
 
-<div style="text-align: center">
-  <a style="display:block" target="_blank" href="https://www.paypal.me/ProgramoErgoSum">
+<div style="text-align:center">
+  <a target="_blank" href="https://www.paypal.me/ProgramoErgoSum">
     <img src="paypal.jpg" />
   </a>
 </div>

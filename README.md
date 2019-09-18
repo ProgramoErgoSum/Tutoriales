@@ -36,7 +36,7 @@ Un saludo, Miguel Ángel Abellán
 
 **Tecnología**: servidores, ancho de banda, mantenimiento, desarrollo. Los proyectos educativos de la asociación reciben más de cinco mil (5.000) visitas diarias con picos de hasta 60 personas conectadas al mismo tiempo, y se emplea una mínima parte de los recursos que otros sitios emplean.
 
-**Personal**: otros sitios web más visitados tienen personas contratadas. En ProgramoErgoSum n ohay ningún empleado, todos los tutoriales se han realizado durante el tiempo libre, por lo que tu donación representa una gran inversión en esta iniciativa.
+**Personal**: otros sitios web más visitados tienen personas contratadas. En la asociación no hay ningún empleado, todos los tutoriales se han realizado durante el tiempo libre, por lo que tu donación representa una gran inversión en esta iniciativa.
 
 
 

@@ -81,9 +81,9 @@ Por último, conectaremos nuestra Raspberry Pi para probar que se ha instalado R
 En caso de tener una instalación de Raspbian instalada en nuestra microSD, podemos instalar sobre ella el emulador de RetroPie. Esta instalación no borrará documentos de nuestro disco.
 
 ```sh
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
+sudo apt update
+sudo apt upgrade
+sudo apt install git
 
 git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 cd RetroPie-Setup

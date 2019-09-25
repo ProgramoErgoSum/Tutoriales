@@ -158,13 +158,13 @@ Esto es útil cuando queremos que todos nuestros equipos dispongan de la misma c
 Una vez hemos instalado Raspbian en nuestra Raspberry Pi, ya sea siguiendo el asistente de NOOBS o mediante la instalación de una imagen, conviene actualizar. Para ello, accede a la terminal y ejecuta los siguientes comandos:
 
 ```sh
-pi@raspberrypi: ~ $ sudo apt-get update
-pi@raspberrypi: ~ $ sudo apt-get upgrade
+pi@raspberrypi: ~ $ sudo apt update
+pi@raspberrypi: ~ $ sudo apt upgrade
 ```
 
-Con el primer comando, apt-get update, lo que en realidad estamos haciendo es actualizar los repositorios, es decir, actualizar la lista de todos los paquetes con la dirección de dónde obtenerlos para que a la hora de su descarga lo encuentre más rápido.
+Con el primer comando, apt update, lo que en realidad estamos haciendo es actualizar los repositorios, es decir, actualizar la lista de todos los paquetes con la dirección de dónde obtenerlos para que a la hora de su descarga lo encuentre más rápido.
 
-En cambio, con el comando apt-get upgrade, lo que hacemos es una actualización de nuestro sistema con todas las posibles actualizaciones que pudiera haber, es decir, no sólo actualiza nuestro sistema operativo sino que también las aplicaciones que están contenidas en los repositorios.
+En cambio, con el comando apt upgrade, lo que hacemos es una actualización de nuestro sistema con todas las posibles actualizaciones que pudiera haber, es decir, no sólo actualiza nuestro sistema operativo sino que también las aplicaciones que están contenidas en los repositorios.
 
 
 

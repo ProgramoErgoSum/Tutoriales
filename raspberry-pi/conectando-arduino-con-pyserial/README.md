@@ -33,10 +33,10 @@ En este tutorial vamos a combinar las ventajas que ofrece Raspberry Pi en cuanto
 
 ## Instalar Python Serial
 
-Como hemos comentado, vamos a utilizar las ventajas de ambas plataformas para conectarlas juntas a través del puerto serie. Por ello, vamos a necesitar instalar la librería *python-serial* con el comando `apt-get install python-serial` la cual nos permitirá utilizar el puerto serie desde Python para comunicarnos con Arduino. 
+Como hemos comentado, vamos a utilizar las ventajas de ambas plataformas para conectarlas juntas a través del puerto serie. Por ello, vamos a necesitar instalar la librería *python-serial* con el comando `apt install python-serial` la cual nos permitirá utilizar el puerto serie desde Python para comunicarnos con Arduino. 
 
 ```sh
-pi@raspberrypi:~ $ sudo apt-get install python-serial
+pi@raspberrypi:~ $ sudo apt install python-serial
 ```
 
 

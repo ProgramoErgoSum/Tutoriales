@@ -39,7 +39,7 @@ pi@raspberrypi:~ $ sudo apt install motion
 
 Para comprobar que se ha instalado correctamente, abrimos un navegador en la misma Raspberry Pi, accedemos a la dirección `localhost:8081` y se debe ver la webcam.
 
-![](img/motion.png)
+![](img/motion.jpg)
 
 
 
@@ -126,7 +126,7 @@ stream_localhost off
 
 Reiniciamos el sistema y accedemos desde otro dispositivo conectado a la misma red local.
 
-![](img/remoto.png)
+![](img/remoto.jpg)
 
 
 
@@ -150,7 +150,7 @@ output_pictures on
 target_dir /var/lib/motion
 ```
 
-![](img/capturas.png)
+![](img/capturas.jpg)
 
 Recuerda que al cambiar parámetros del fichero de configuración deberás reiniciar el servicio motion con el comando `sudo service motion restart`.
 

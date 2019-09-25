@@ -126,7 +126,11 @@ stream_port 8081
 stream_localhost off
 ```
 
-Reiniciamos el sistema y accedemos desde otro dispositivo conectado a la misma red local.
+Volvemos a resetear el servicio con el comando `service motion restart` para que los cambios tengan efecto y una vez reiniciado el servicio ya podemos acceder desde otro dispositivo conectado a la misma red local a través de la dirección `<IP>:8081`.
+
+```sh
+pi@raspberrypi:~ $ sudo service motion restart
+```
 
 ![](img/remoto.jpg)
 

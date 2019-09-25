@@ -49,7 +49,7 @@ En nuestro caso se puede observar que nos ha reconocido una webcam *Microdia Cam
 
 ## Instalar LUVCview
 
-Antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial [Raspberry Pi - Raspbian - Update](raspberry_pi-raspbian-update).
+> Recuerda que antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial de actualizar Raspbian.
  
 Una vez actualizada la lista de paquetes del repositorio, podemos instalar LUVCview mediante el comando `apt install luvcview`.
 

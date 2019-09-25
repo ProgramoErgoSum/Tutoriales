@@ -31,7 +31,9 @@ Un punto de acceso WiFi es un dispositivo que crea una red de área local inalá
 
 Una de las formas más sencillas de convertir nuestra Raspberry Pi en punto de acceso es mediante el asistente de código abierto [RaspAp Webgui](https://github.com/billz/raspap-webgui).
 
-Antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial [Raspberry Pi - Raspbian - Update](raspberry_pi-raspbian-update). Una vez actualizado el sistema procedemos a la instalación de `raspap`.
+> Recuerda que antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial de actualizar Raspbian. 
+
+Una vez actualizado el sistema procedemos a la instalación de `raspap`.
 
 ```sh
 pi@raspberrypi:~ $ wget -q https://git.io/voEUQ -O /tmp/raspap && bash /tmp/raspap

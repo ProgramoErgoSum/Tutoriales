@@ -27,7 +27,9 @@ Arduino IDE es un entorno de desarrollo y en él se realiza la programación de 
 
 ## Instalar Arduino IDE
 
-Antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial [Raspberry Pi - Raspbian - Update](raspberry_pi-raspbian-update). Una vez actualizada la lista de paquetes del repositorio podemos instalar el *IDE* y el *CORE* desde la terminal mediante el comando `apt install arduino arduino-core`. El proceso suele tardar unos minutos.
+> Recuerda que antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial de actualizar Raspbian. 
+
+Una vez actualizada la lista de paquetes del repositorio podemos instalar el *IDE* y el *CORE* desde la terminal mediante el comando `apt install arduino arduino-core`. El proceso suele tardar unos minutos.
 
 ```sh
 pi@raspberrypi:~ $ sudo apt install arduino arduino-core

@@ -31,7 +31,9 @@ Es recomendable acceder a los siguientes tutoriales:
 
 ## Instalar Motion
 
-Antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial [Raspberry Pi - Raspbian - Update](raspberry_pi-raspbian-update). Una vez actualizada la lista de paquetes del repositorio, podemos instalar Motion mediante el comando `apt install motion`.
+> Recuerda que antes de instalar un programa es recomendable actualizar Raspbian como se explica en el tutorial de actualizar Raspbian.  
+
+Una vez actualizada la lista de paquetes del repositorio, podemos instalar Motion mediante el comando `apt install motion`.
 
 ```sh
 pi@raspberrypi:~ $ sudo apt install motion

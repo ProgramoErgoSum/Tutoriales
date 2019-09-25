@@ -65,7 +65,7 @@ luvcview 0.2.6
 ...
 ```
 
-![](img/luvcview.png)
+![](img/luvcview.jpg)
 
 
 

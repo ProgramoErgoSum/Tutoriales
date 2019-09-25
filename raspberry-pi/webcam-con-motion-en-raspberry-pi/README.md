@@ -21,7 +21,7 @@ Es recomendable acceder a los siguientes tutoriales:
 
 ## Software Motion
 
-[Motion](https://motion-project.github.io/) es uno de los programas más populares para utilizar con webcams, cuya utilidad es la de detectar movimientos. De esta forma podemos grabar momentos en los cuales se ha detectado movimiento. 
+<a target="_blank" href="https://motion-project.github.io">Motion</a> es uno de los programas más populares para utilizar con webcams, cuya utilidad es la de detectar movimientos. De esta forma podemos grabar momentos en los cuales se ha detectado movimiento. 
 
 
 
@@ -37,6 +37,31 @@ Una vez actualizada la lista de paquetes del repositorio, podemos instalar Motio
 
 ```sh
 pi@raspberrypi:~ $ sudo apt install motion
+```
+
+
+
+<br />
+
+
+
+## Arrancar Motion
+
+En este caso vamos a configurar el fichero de configuración encargado de habilitar el daemon de Motion al iniciar la Raspberry Pi. Para ello accedemos al fichero `/etc/default/motion`. Para abrirlo de una forma sencilla y con privilegios de administrador introducimos el comando `sudo leafpad /etc/default/motion`.
+
+```sh
+pi@raspberrypi:~ $ sudo leafpad /etc/default/motion
+```
+
+```
+# set to 'yes' to enable the motion daemon
+start_motion_daemon=yes
+```
+
+Por último, reseteamos el servicio con el comando `service motion restart` para que los cambios tengan efecto y una vez reiniciado el servicio ya podemos acceder a través de la dirección `localhost:8081`.
+
+```sh
+pi@raspberrypi:~ $ sudo service motion restart
 ```
 
 Para comprobar que se ha instalado correctamente, abrimos un navegador en la misma Raspberry Pi, accedemos a la dirección `localhost:8081` y se debe ver la webcam.
@@ -69,31 +94,6 @@ bcm2835-v4l2
 ```
 
 Reinicia el sistema antes de continuar con el siguiente paso.
-
-
-
-<br />
-
-
-
-## Arrancar Motion al encender la Raspberry Pi
-
-En este caso vamos a configurar el fichero de configuración encargado de habilitar el daemon de Motion al iniciar la Raspberry Pi. Para ello accedemos al fichero `/etc/default/motion`. Para abrirlo de una forma sencilla y con privilegios de administrador introducimos el comando `sudo leafpad /etc/default/motion`.
-
-```sh
-pi@raspberrypi:~ $ sudo leafpad /etc/default/motion
-```
-
-```
-# set to 'yes' to enable the motion daemon
-start_motion_daemon=yes
-```
-
-Por último, reseteamos el servicio con el comando `service motion restart` para que los cambios tengan efecto y una vez reiniciado el servicio ya podemos acceder a través de la dirección `localhost:8081`.
-
-```sh
-pi@raspberrypi:~ $ sudo service motion restart
-```
 
 
 

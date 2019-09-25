@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **instalar fswebcam** para tomar imágenes de forma automática en Raspberry Pi.
+En este tutorial vamos a explicar cómo instalar fswebcam para tomar imágenes de forma automática en Raspberry Pi.
 
 ### Antes de empezar
 

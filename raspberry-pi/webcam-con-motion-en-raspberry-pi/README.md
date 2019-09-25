@@ -164,6 +164,22 @@ Recuerda que al cambiar parámetros del fichero de configuración deberás reini
 pi@raspberrypi:~ $ sudo service motion restart
 ```
 
+Una vez reiniciado el sistema podemos acceder a la carpeta `/var/lib/motion` y veremos todas las imágenes detectadas por la webcam.
+
+Las imágenes son almacenadas mediante el usuario `motion`, con lo cual para poder eliminarlas con nuestro usuario `pi` tendremos que añadirle permiso a la carpeta utilizando el siguiente comando.
+
+```sh
+$ sudo chmod -R 777 /var/lib/motion/
+```
+
+Por último, recuerda parar el servicio para que no esté almacenando fotos en todo momento. Para ello deberás utilizar el siguiente comando.
+
+```sh
+pi@raspberrypi:~ $ sudo service motion stop
+```
+
+Comprueba que deja de verse la webcam a través del navegador una vez parado el servicio.
+
 
 
 <br />

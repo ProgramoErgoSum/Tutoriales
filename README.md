@@ -1,42 +1,12 @@
 # Tutoriales de Programo Ergo Sum
 
-> Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo de código abierto [Programo Ergo Sum][PES-COM].
+Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo de código abierto [Programo Ergo Sum][PES-COM].
 
+> Puedes ver la demo [aquí](https://beta.programoergosum.com).
 
+[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url)
 
-<br />
-
-
-
-<div style="text-align:center">
-  <a target="_blank" href="https://www.paypal.me/ProgramoErgoSum">
-    <img src="paypal.jpg" />
-  </a>
-</div>
-
-
-
-<br />
-
-
-
-## Mensaje del fundador
-
-Cuando fundé Programo Ergo Sum, pude haberla establecido como una compañía con fines de lucro, pero decidí hacer algo diferente. Mi objetivo desde el primer momento ha sido que cualquier persona pueda aprender informática, programación, electrónica o robótica gratis y sin moverse de su casa.
-
-Desde el 2015 y hasta la actualidad estoy trabajando muy duro para cumplir con los [objetivos de la asociación][PES-ASO]. He invertido muchísimo tiempo y algo de dinero de mi bolsillo para llegar hata aquí, pero desgraciadamente, en la tecnología, hay que seguir invirtiendo dinero y tiempo para continuar.
-
-Este proyecto, además de gratis, es libre y de código abierto, lo que significa que tienes acceso 100% tanto al código fuente de la web como los contenidos y documentos.
-
-Si todo el que leyera este mensaje realizara una donación, solo se tendría que recaudar fondos un día al año. Pero no todos pueden o quieren donar. Y no pasa nada.
-
-Un saludo, Miguel Ángel Abellán
-
-### ¿A qué se destinan las donaciones?
-
-**Tecnología**: servidores, ancho de banda, mantenimiento, desarrollo. Los proyectos educativos de la asociación reciben más de cinco mil (5.000) visitas diarias con picos de hasta 60 personas conectadas al mismo tiempo, y se emplea una mínima parte de los recursos que otros sitios emplean.
-
-**Personal**: otros sitios web más visitados tienen personas contratadas. En la asociación no hay ningún empleado, todos los tutoriales se han realizado durante el tiempo libre, por lo que tu donación representa una gran inversión en esta iniciativa.
+<hr />
 
 
 

@@ -29,7 +29,7 @@ Podemos buscar las cámaras soportadas en el siguiente <a target="_blank" href="
 
 ## Listar dispositivos USB
 
-En primer lugar conectamos la webcam USB a nuestra Raspberry Pi para comprobar que el sistema operativo la reconoce correctamente. Una vez conectada, abrimos una terminal para listar todos los dispositivos USB que ha reconocido mediante el comando `lsbusb`.
+En primer lugar conectamos la webcam USB a nuestra Raspberry Pi para comprobar que el sistema operativo la reconoce correctamente. Una vez conectada, abrimos una terminal para listar todos los dispositivos USB que ha reconocido mediante el comando `lsusb`.
 
 > lsbusb: Muestra información referente a los dispositivos conectados a los puertos USB
 

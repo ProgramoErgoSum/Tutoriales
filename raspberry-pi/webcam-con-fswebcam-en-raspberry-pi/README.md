@@ -116,10 +116,10 @@ Los 5 asteriscos, de izquierda a derecha, los asteriscos representan:
 - Mes: de 1 a 12.
 - Día de la semana: de 0 a 6, siendo 0 el domingo.
 
-En este ejemplo, como queremos tomar una imagen cada minuto crearemos una entrada similar a la anterior. Pero en primer lugar debemos acceder al cron mediante el comando `sudo crontab -e` y seleccionamos la opción 3.
+En este ejemplo, como queremos tomar una imagen cada minuto crearemos una entrada similar a la anterior. Pero en primer lugar debemos acceder al cron mediante el comando `crontab -e` y seleccionamos la opción 1.
 
 ```sh
-pi@raspberrypi:~ $ sudo crontab -e
+pi@raspberrypi:~ $ crontab -e
 ```
 
 A continuación entramos en modo edición haciendo clic en la letra `i` y nos situamos al final del documento para introducir el cron. Por último presionamos la combinación de teclas `:wq` para guardar los cambios.

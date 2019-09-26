@@ -106,7 +106,7 @@ pi@raspberrypi:~/webcam $ ./webcam.sh
 
 ## Cron que se ejecuta cada minuto
 
-Las tareas cron siguen una determinada sintaxis. Tienen 5 asteriscos seguidos del comando a ejecutar. `* * * * * /bin/ejecutar/script.sh`
+Las tareas cron siguen una determinada sintaxis. Tienen 5 asteriscos seguidos del comando a ejecutar. `* * * * * /ruta/ejecutar/script.sh`
 
 Los 5 asteriscos, de izquierda a derecha, los asteriscos representan:
 
@@ -116,13 +116,13 @@ Los 5 asteriscos, de izquierda a derecha, los asteriscos representan:
 - Mes: de 1 a 12.
 - Día de la semana: de 0 a 6, siendo 0 el domingo.
 
-En este ejemplo, como queremos tomar una imagen cada minuto crearemos una entrada similar a la anterior. Pero en primer lugar debemos acceder al cron mediante el comando `crontab -e` y seleccionamos la opción 1.
+En este ejemplo, como queremos tomar una imagen cada minuto crearemos una entrada similar a la anterior. Pero en primer lugar debemos acceder al cron mediante el comando `crontab -e` y seleccionamos la opción `/bin/nano`.
 
 ```sh
 pi@raspberrypi:~ $ crontab -e
 ```
 
-A continuación entramos en modo edición haciendo clic en la letra `i` y nos situamos al final del documento para introducir el cron. Por último presionamos la combinación de teclas `:wq` para guardar los cambios.
+A continuación nos situamos al final del documento para introducir la siguiente línea.
 
 ```bash
 * * * * * /home/pi/webcam/webcam.sh

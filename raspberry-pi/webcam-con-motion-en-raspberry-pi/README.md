@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **instalar y configurar motion** para montar un sistema de videovigilancia.
+En este tutorial vamos a explicar cómo instalar y configurar motion para montar un sistema de videovigilancia.
 
 ### Antes de empezar
 

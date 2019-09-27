@@ -1,14 +1,23 @@
 # Tutoriales de Programo Ergo Sum
 
-Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo de código abierto [Programo Ergo Sum][PES-COM].
+Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo [Programo Ergo Sum][PES-COM].
 
-> Puedes ver la demo [aquí](https://beta.programoergosum.com).
 
-[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url)
+[![collaborators](https://badgen.net/badge/collaborators/♥/orange)](PES-COLABORA) [![donations](https://badgen.net/badge/donations/paypal%20me/orange)](PAYPAL-BTN) [![license](https://badgen.net/badge/license/ccbysa/orange)](CC-BY-SA)
+
+
+
+<br />
+
+
+
+[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](PAYPAL-BTN)
+
+
+
+<br />
 
 <hr />
-
-
 
 <br />
 
@@ -29,6 +38,9 @@ Bajo las siguientes condiciones:
 * **CompartirIgual**: Si remezcla, transforma o crea a partir del material, deberá difundir sus contribuciones bajo la misma licencia que el original.
 
 
+
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES
 [PES-COM]: https://www.programoergosum.com
-[PES-ASO]: https://www.programoergosum.es/asociacion
+[PES-COLABORA]: https://www.programoergosum.es/colabora
+[PAYPAL-BTN]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url
+[PAYPAL-ME]: https://www.paypal.me/programoergosum

@@ -1,9 +1,8 @@
 <div align="center">
   <img align="center" src="logo-programo-ergo-sum.png"/>
-  <br />
-  <h3>
+  <h4>
     Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica.
-  </h3>
+  </h4>
 </div>
 
 <br />

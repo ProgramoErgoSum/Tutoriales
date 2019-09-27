@@ -10,7 +10,7 @@ Repositorio público donde se almacenan todos los tutoriales para aprender infor
 <br />
 
 
-> ## Si quieres que este proyecto educativo siga siendo libre y gratuito, realiza una donación totalmente desinteresada y estarás colaborando. 
+> ### Para que este proyecto educativo siga siendo libre y gratuito, realiza una donación totalmente desinteresada y estarás colaborando.
 > [![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)][PAYPAL-BTN]
 
 

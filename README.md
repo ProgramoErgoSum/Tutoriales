@@ -1,11 +1,8 @@
 <div align="center">
   <img align="center" src="logo-programo-ergo-sum.png"/>
-  <h4>
-    Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica.
-  </h4>
+  <br />
+  Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica.
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://www.programoergosum.es/colabora">

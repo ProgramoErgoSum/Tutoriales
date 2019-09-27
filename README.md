@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="logo-programo-ergo-sum.png"/>
   
-  <br />
+  <br /><br />
   
   <a href="https://www.programoergosum.es/colabora">
     <img src="https://badgen.net/badge/collaborators/♥/orange">

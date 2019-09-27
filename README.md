@@ -3,7 +3,7 @@
 Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica del proyecto educativo [Programo Ergo Sum][PES-COM].
 
 
-[![collaborators](https://badgen.net/badge/collaborators/♥/orange)](PES-COLABORA) [![donations](https://badgen.net/badge/donations/paypal%20me/orange)](PAYPAL-BTN) [![license](https://badgen.net/badge/license/ccbysa/orange)](CC-BY-SA)
+[![collaborators](https://badgen.net/badge/collaborators/♥/orange)][PES-COLABORA] [![donations](https://badgen.net/badge/donations/paypal%20me/orange)][PAYPAL-BTN] [![license](https://badgen.net/badge/license/ccbysa/orange)][CC-BY-SA]
 
 
 
@@ -11,7 +11,7 @@ Repositorio público donde se almacenan todos los tutoriales para aprender infor
 
 
 
-[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](PAYPAL-BTN)
+[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)][PAYPAL-BTN]
 
 
 

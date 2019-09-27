@@ -1,12 +1,12 @@
 <div align="center">
-  <img align="center" src="logo-programo-ergo-sum.svg"/>
+  <img align="center" src="logo-programo-ergo-sum.png"/>
   <br />
   <h3>
     Repositorio público donde se almacenan todos los tutoriales para aprender informática, programación, electrónica y robótica.
   </h3>
 </div>
 
-<br /><hr /><br />
+<br />
 
 <div align="center">
   <a href="https://www.programoergosum.es/colabora">
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<br />
+<br /><hr /><br />
 
 <div align="center">
   <h2>

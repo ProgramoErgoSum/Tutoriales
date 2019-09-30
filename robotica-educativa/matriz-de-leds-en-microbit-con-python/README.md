@@ -15,7 +15,7 @@ Vas a necesitar los siguientes componentes:
 
 
 
-## Imágenes en predefinidas
+## Imágenes predefinidas
 
 MicroPython viene con muchas imágenes integradas para mostrar en la pantalla aunque probablemente queramos construir las nuestras propias.
 

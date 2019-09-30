@@ -21,7 +21,7 @@ MicroPython viene con muchas imágenes integradas para mostrar en la pantalla au
 
 > Puedes ver todas las <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html">imágenes predefinidas</a> desde la documentación oficial de Micro:bit.
 
-Como en todos los programas, en primer lugar tenemos que importar la librería microbit mediante la instrucción `from microbit import *`. Esta instrucción nos permite utilizar todas las funciones para programar la placa Micro:bit. La siguiente instrucción será la función que `display.show()` que muestra por pantalla lo que aparezca dentro de los paréntesis. En este caso, como queremos mostrar una imagen predefinida, añadimos el objeto imagen seguido del tipo o atributo de imagen que queremos añadir:
+Como en todos los programas, en primer lugar tenemos que importar la librería microbit mediante la instrucción `from microbit import *`. Esta instrucción nos permite utilizar todas las funciones para programar la placa Micro:bit. La siguiente instrucción será la función `display.show()` que muestra por pantalla lo que aparezca dentro de los paréntesis. En este caso, como queremos mostrar una imagen predefinida, añadimos el objeto imagen seguido del tipo o atributo de imagen que queremos añadir:
 
 - Image.HEART
 - Image.HEART_SMALL
@@ -49,7 +49,7 @@ En algunas ocasiones puede que nos interese construir nuestras propias imágenes
 
 Para ello utilizaremos la función `Imagen()` la cual contiene 25 números (correspondientes a los 25 LEDs) agrupados de 5 en 5 y separados por el carácter `:` cada grupo. Los LEDs están numerados desde la esquina superior izquierda hasta la inferior derecha. Con lo cual, cada grupo hace referencia a una fila desde arriba hacia abajo.
 
-```python
+```
 # 1 1 1 1 1
 # 2 2 2 2 2
 # 3 3 3 3 3
@@ -85,6 +85,6 @@ display.show(barco)
 
 1.- Muestra diferentes imágenes predefinidas en bucle.
 
-2.- Crea las letras de tu nombre en mayúsculas y muéstralas en bucle de 1 en 1.
+2.- Crea las letras de tu nombre en mayúsculas y muéstralas de una en una.
 
 3.- Construye un degradado de izquierda a derecha utilizando diferentes intensidades de luz.

@@ -1,6 +1,6 @@
-# Pines GPIO en Microbit con Python
+## Introducción
 
-En este tutorial vamos a explicar cómo **utilizar los pines IO de micro:bit** para interactuar con ellos y construir diferentes programas utilizando el lenguaje de programación MicroPython.
+En este tutorial vamos a explicar cómo utilizar los pines IO de micro:bit para interactuar con ellos y construir diferentes programas utilizando el lenguaje de programación MicroPython.
 
 ### Antes de empezar
 
@@ -19,9 +19,9 @@ Vas a necesitar los siguientes componentes:
 
 Micro:bit tiene 25 conexiones externas llamadas *pines*. Dispone de cinco pines de conexión conectados con los agujeros en la placa marcados con las serigrafías *0, 1, 2, 3V y GND*, y 20 pequeños pines que se pueden utilizar al conectar micro:bit a un conector de borde.
 
-> Puedes acceder a la referencia de los [pines](https://microbit-micropython.readthedocs.io/en/latest/pin.html) desde la documentación oficial de Micro:bit.
+> Puedes acceder a la referencia de los <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/pin.html">pines</a> desde la documentación oficial de Micro:bit.
 
-![](img/pines.png)
+![](img/pines.jpg)
 
 Los pines 0, 1 y 2 son flexibles y se puede utilizar como pines de propósito general de entrada y salida (GPIO). Tiene la habilidad de leer voltajes analógicos usando un convertidor de analógico a digital (ADC) con lo cual se puede utilizar para el efecto de las placas makey-makey. Las clavijas 3V y GND se utilizan para la alimentación.
 
@@ -30,7 +30,12 @@ El resto de pines pequeños tienen algunas diferencias entre ellos. Algunos son 
 > Para la utilización de los pines pequeños se recomienda utilizar un conector de borde comprado por separado normalmente.
 
 
-### Función is_touched()
+
+<br />
+
+
+
+## Función is_touched()
 
 La primera función que vamos a ver es `is_touched()` encargada de comprobar si estamos tocando un determinado pin. De tal manera que el código encargado de comprobar si estamos tocando el pin 0 será `pin0.is_touched()`.
 
@@ -46,7 +51,13 @@ while True:
       display.show(Image.SAD)
 ```
 
-### Función read_digital()
+
+
+<br />
+
+
+
+## Función read_digital()
 
 De forma similar a la anterior, con la función `read_digital()` podemos leer un valor digital en un determinado pin. 
 
@@ -60,7 +71,13 @@ while True:
       display.show(Image.SAD)
 ```
 
-### Función write_digital()
+
+
+<br />
+
+
+
+## Función write_digital()
 
 Con la función `write_digital()` podemos escribir un valor digital en un determinado pin. Por ejemplo, vamos a programar un LED intermitente utilizando el pin 0. 
 
@@ -74,7 +91,13 @@ while True:
    sleep(1000)
 ```
 
-### Función read_analog()
+
+
+<br />
+
+
+
+## Función read_analog()
 
 De forma similar a la anterior, con la función `read_analog()` podemos leer un valor analógico en un determinado pin. 
 
@@ -88,7 +111,13 @@ while True:
       display.show(Image.SAD)
 ```
 
-### Función write_analog()
+
+
+<br />
+
+
+
+## Función write_analog()
 
 Con la función `write_analog()` podemos escribir un valor analógico en un determinado pin. Por ejemplo, vamos a programar un LED para que se encienda poco a poco. 
 

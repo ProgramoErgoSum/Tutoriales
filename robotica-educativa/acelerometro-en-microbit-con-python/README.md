@@ -1,6 +1,6 @@
-# Acelerómetro en Microbit con Python
+## Introducción
 
-En este tutorial vamos a explicar cómo **utilizar el acelerómetro de micro:bit** para realizar diferentes tipos de movimientos.
+En este tutorial vamos a explicar cómo utilizar el acelerómetro de micro:bit para realizar diferentes tipos de movimientos.
 
 ### Antes de empezar
 
@@ -23,9 +23,15 @@ Micro:bit dispone de un acelerómetro de 3 ejes:
 - Y: Inclinación hacia adelante y hacia atrás.
 - Z: Movimiento arriba y abajo.
 
-> Puedes acceder a la referencia del [acelerómetro](https://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html) desde la documentación oficial de Micro:bit.
+> Puedes acceder a la referencia del <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html">acelerómetro</a> desde la documentación oficial de Micro:bit.
 
-### Función get_x()
+
+
+<br />
+
+
+
+## Función get_x()
 
 La primera función que vamos a ver es `get_x()` encargada de medir la inclinación sobre el eje x. El valor devuelto por la función oscila entre -20 y 20, siendo 0 su posición en nivel.
 
@@ -44,7 +50,13 @@ while True:
       display.show("D")
 ```
 
-### Función get_y()
+
+
+<br />
+
+
+
+## Función get_y()
 
 La segunda función que vamos a ver es `get_y()` encargada de medir la inclinación sobre el eje y. El valor devuelto por la función oscila entre -20 y 20, siendo 0 su posición en nivel.
 
@@ -63,7 +75,13 @@ while True:
       display.show("B")
 ```
 
-### Función get_z()
+
+
+<br />
+
+
+
+## Función get_z()
 
 La tercera función que vamos a ver es `get_z()` encargada de medir la aceleración sobre el eje z.
 

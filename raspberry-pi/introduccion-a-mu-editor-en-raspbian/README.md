@@ -70,16 +70,16 @@ Para programar nuestra placa Micro:bit, vamos a utilizar el lenguaje de programa
 
 ## ¡Hola Mundo!
 
-Una vez abierto el editor y conectada la placa Micro:bit, vamos a probar que funciona introduciendo el programa `Hola Mundo`. Para ello introducimos el siguiente código y presionamos sobre el botón `Flash`. Al cabo de unos segundos veremos como se desliza la frase `¡Hola Mundo!` sobre los leds de nuestra placa Micro:bit.
+Una vez abierto el editor y conectada la placa Micro:bit, vamos a probar que funciona introduciendo el programa `Hola Mundo`. Para ello introducimos el siguiente código y presionamos sobre el botón `Flash`. Al cabo de unos segundos veremos como se desliza la frase `Hola Mundo` sobre los leds de nuestra placa Micro:bit.
 
 ```python
 from microbit import *
-display.scroll('¡Hola Mundo!')
+display.scroll('Hola Mundo')
 ```
 
 ![](img/hola-mundo.gif)
 
-Otra opción consiste en mostrar una a una cada una de las letras de la frase `¡Hola Mundo!` utilizando la función `show()`. Para hacer un retardo entre una letra y la siguiente utilizamos la función `sleep(500)` que hará un retardo de 500 milisegundos.
+Otra opción consiste en mostrar una a una cada una de las letras de la frase `Hola Mundo` utilizando la función `show()`. Para hacer un retardo entre una letra y la siguiente utilizamos la función `sleep(500)` que hará un retardo de 500 milisegundos.
 
 ```python
 from microbit import *

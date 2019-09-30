@@ -136,7 +136,7 @@ while True:
 
 
 
-# Ejercicios propuestos
+## Ejercicios propuestos
 
 1.- Utilizando un sensor LDR enciende o apaga la matriz de LEDs dependiendo de la intensidad de luz en el ambiente.
 

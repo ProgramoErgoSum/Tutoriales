@@ -74,7 +74,7 @@ display.scroll(pulsaciones)
 
 
 
-# Ejercicios propuestos
+## Ejercicios propuestos
 
 1.- Muestra la imagen de un corazón cada vez que pulses el botón A.
 

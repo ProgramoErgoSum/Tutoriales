@@ -104,6 +104,6 @@ while True:
 
 
 
-# Ejercicios propuestos
+## Ejercicios propuestos
 
 1.- Muestra diferentes imágenes según los movimientos de la placa. 

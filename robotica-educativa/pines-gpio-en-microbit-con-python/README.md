@@ -138,6 +138,10 @@ while True:
 
 ## Ejercicios propuestos
 
-1.- Utilizando un sensor LDR enciende o apaga la matriz de LEDs dependiendo de la intensidad de luz en el ambiente.
+1.- Crea un sencillo semáforo.
 
-2.- Mueve un servomotor utilizando los pines los botones de la microbit.
+2.- Utiliza los pulsadores de la placa para encender diferentes LEDs conectados al GPIO.
+
+3.- Utilizando un sensor LDR enciende o apaga la matriz de LEDs dependiendo de la intensidad de luz en el ambiente.
+
+4.- Mueve un servomotor utilizando los pines los botones de la microbit.

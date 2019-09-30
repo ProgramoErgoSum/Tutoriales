@@ -1,6 +1,6 @@
-# Matriz de LEDs en Microbit con Python
+## Introducción
 
-En este tutorial vamos a explicar cómo **utilizar la matriz de LEDs de micro:bit** para representar y construir diferentes tipos de imágenes utilizando el lenguaje de programación MicroPython.
+En este tutorial vamos a explicar cómo utilizar la matriz de LEDs de micro:bit para representar y construir diferentes tipos de imágenes utilizando el lenguaje de programación MicroPython.
 
 ### Antes de empezar
 
@@ -15,11 +15,11 @@ Vas a necesitar los siguientes componentes:
 
 
 
-## Imágenes en micro:bit
+## Imágenes en predefinidas
 
 MicroPython viene con muchas imágenes integradas para mostrar en la pantalla aunque probablemente queramos construir las nuestras propias.
 
-> Puedes ver todas las [imágenes predefinidas](https://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html) desde la documentación oficial de Micro:bit.
+> Puedes ver todas las <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html">imágenes predefinidas</a> desde la documentación oficial de Micro:bit.
 
 Como en todos los programas, en primer lugar tenemos que importar la librería microbit mediante la instrucción `from microbit import *`. Esta instrucción nos permite utilizar todas las funciones para programar la placa Micro:bit. La siguiente instrucción será la función que `display.show()` que muestra por pantalla lo que aparezca dentro de los paréntesis. En este caso, como queremos mostrar una imagen predefinida, añadimos el objeto imagen seguido del tipo o atributo de imagen que queremos añadir:
 
@@ -37,7 +37,13 @@ display.show(Image.HEART)
 
 El resultado de este código debe ser el que se muestra un corazón en la matriz de LEDs de nuestra placa Micro:bit.
 
-### Crear imágenes propias
+
+
+<br />
+
+
+
+## Imágenes propias
 
 En algunas ocasiones puede que nos interese construir nuestras propias imágenes. Esto es posible ya que podemos representar sobre la matriz de LEDs cualquier imagen que se nos ocurra. Además de encender o apagar cada LED, podemos establecer una intensidad de luz de 0 (mínima luz) a 9 (máxima luz).
 

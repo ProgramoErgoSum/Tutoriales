@@ -56,4 +56,4 @@ Con los anteriores parámetros, la pieza se ha impreso en 12 minutos aproximadam
 
 ## Mejores proyectos
 
-![](img/proyecto-mark.jpg)
+![](img/proyecto-mark.jpg "Proyecto de Mark")

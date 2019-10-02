@@ -112,9 +112,7 @@ Como puedes observar es muy sencillo crear un objeto en 3D utilizando la herrami
 
 En ocasiones disponemos de diseños en vector en formato SVG. Los archivos SVG (Scalable Vector Graphics), Gráficos Vectoriales Redimensionables, son un formato de gráficos vectoriales bidimensionales, tanto estáticos como animados, en formato XML.
 
-Por ejemplo, en nuestro caso, el logo de la Asociación Programo Ergo Sum está creado en formato SVG para que pueda ser modificado sin pérdida.
-
-![](img/logo-programo-ergo-sum.svg)
+Por ejemplo, en nuestro caso, el logo de la Asociación Programo Ergo Sum está creado en formato SVG para que pueda ser modificado sin pérdida de calidad.
 
 Como puedes imaginar, crear un diseño en 3D de forma similar a como se creó la casa sería una trabajo tedioso y tardaríamos bastante tiempo, ya que realizar las tuercas para que queden exactamente igual que el diseño sería complicado.
 
@@ -166,4 +164,4 @@ En este reto te propongo que busques por internet el logotipo en formato SVG y l
 
 ## Mejores diseños
 
-![](img/proyecto-carmen.jpg)
+![](img/proyecto-carmen.jpg "Proyecto de Carmen Belén")

@@ -20,7 +20,7 @@ Para diseñar el llavero, vamos a empezar por algo sencillo. Crearemos un llaver
 
 > Este llavero tiene unas medidas aproximadas de 30mm de ancho, 30mm de largo y 5mm de grosor.
 
-![](img/llavero-m-y-c.png)
+![](img/llavero-m-y-c.jpg)
 
 En primer lugar se creará la base del llavero tomando como medidas 30x30x5 mm. Según el puzle deseado, se le añadirá un círculo en modo sólido o hueco en el centro del lateral. Una vez añadido se agrupará para tener el objeto que se pueda mover.
 
@@ -44,7 +44,7 @@ Para finalizar agrupamos todos los objetos del llavero para poder redimensionarl
 
 Antes de imprimir el llavero con el software de impresión Ultimaker Cura, deberemos exportarlo en formato ".stl" para abrirlo con el software de impresión. Aunque en el vídeo se explica el software de impresión Ultimaker Cura, puedes utilizar cualquier otro software siendo los parámetros de configuración parecidos.
 
-![](img/configuracion-cura.png)
+![](img/configuracion-cura.jpg)
 
 Con los anteriores parámetros, la pieza se ha impreso en 12 minutos aproximadamente utilizando una impresora 3D Prusa BQ Hephestos.
 
@@ -56,8 +56,4 @@ Con los anteriores parámetros, la pieza se ha impreso en 12 minutos aproximadam
 
 ## Mejores proyectos
 
-ToDo
-
-## Materiales
-
-ToDo
+![](img/proyecto-mark.jpg)

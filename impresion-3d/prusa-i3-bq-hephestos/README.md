@@ -22,13 +22,13 @@ Asegúrate que dispones de todos los componentes que se van a necesitar.
 
 Una impresora 3D es una herramienta que **construye objetos físicos a partir de objetos digitalizados**. Esto permite diseñar un objeto mediante un programa como <a target="_blank" href="https://www.freecadweb.org/">FreeCAD</a> o incluso escanear la realidad mediante un escáner 3D para imprimirlo posteriormente. Una vez que se cuenta con la información que describe el archivo se puede manipular y enviar a la impresora 3D para que lo construya.
 
-![](img/impresora-3d.png)
+![](img/impresora-3d.jpg)
 
 Las impresoras 3D lo que hacen es crear un objeto con sus 3 dimensiones y esto lo consigue construyendo capas sucesivamente hasta conseguir el objeto deseado. Además, existen incluso escaner 3D que nos pueden escanear un objeto y verlo en nuestro ordenador para luego imprimirlo sin necesidad de tener que diseñarlo en el ordenador.
 
 > El futuro que nos espera con las impresoras 3D es abrumador ya que nos encontramos ante una revolución tecnológica.
 
-![](img/piezas-impresas-en-3d.png)
+![](img/piezas-impresas-en-3d.jpg)
 
 Como características principales de una impresora 3D tenemos:
 
@@ -56,7 +56,7 @@ La mayoría de las impresoras que podemos encontrar en el mercado son impresoras
 
 Una de las ventajas de poseer una impresora 3D de código abierto, como la Prusa i3, es que todas sus piezas de plástico son perfectamente imprimibles desde otra impresora 3D, por lo que podemos llegar a clonar el propio equipo desde casa sin tener ningún problema legal. Es por ello esta impresora 3D es vendida por muchas marcas que la ofrecen lista para ser armada por nosotros mismos, con sus respectivas partes de plástico. El problema de esto es que generalmente necesitaremos tener ciertas habilidades para lograr montar todas sus partes de forma que su desempeño sea el óptimo.
 
-![](img/prusa-i3.png)
+![](img/prusa-i3.jpg)
 
 La Prusa i3 es el diseño de impresora 3D más nuevo y actual hecho por el desarrollador principal de RepRap Prusajr. Esta versión i3 incorpora lecciones aprendidas de los dos diseños anteriores de Prusa, así como de otros diseños populares modernos. Las piezas de plástico de la propia impresora 3D han sido construidas mediante impresión 3D. Además, la descripción de estos objetos libres se encuentra en repositorios para que estén disponibles para todo el mundo. Pudiendo descargarlos, modificarlos y/o publicar una nueva versión del objeto en cualquier momento.
 
@@ -76,13 +76,13 @@ En esta lección se explica cuál ha sido nuestra experiencia montando la impres
 
 La impresora viene embalada en una caja compacta con un peso aproximado de 20Kg. Al abrir la caja aparece casi un centenar de piezas organizadas y ordenadas en 2 pisos. Cada pieza viene con un número para que sea fácil identificar en las instrucciones de montaje, similar al montaje de un mueble de Ikea.
 
-![](img/unboxing-1.png)
+![](img/unboxing-1.jpg)
 
 En las piezas tenemos tanto las impresas en plástico por otra impresora como las piezas de hierro y circuitería electrónica, motores, etc. En cajas más pequeñas podemos ver los tornillos y tuercas de diferentes medidas separados por bolsas. También viene una hoja con la silueta de los tornillos a escala real para que sea más fácil identificarlos.
 
 En nuestro caso, montamos la impresora siguiendo el manual impreso paso a paso y no tuvimos ningún problema. Es muy importante seguir las indicaciones del fabricante para el correcto funcionamiento de la impresora 3D. El manual está muy bien explicado, además el fabricante dispone en su web de una colección de videos que detallan todo el proceso, como el que aparece en la siguiente sección.
 
-![](img/unboxing-2.png)
+![](img/unboxing-2.jpg)
 
 La cama tiene una dimensión de 220x220x3mm, consiguiendo objetos impresos de hasta 22 centímetros de altura. En cuanto al el extrusor soporta material con 1,75 milímetros de grosor, material que se puede comprar en la propia tienda online de internet. BQ Hephestos soporta la impresión de madera, PLA, bronce, cobre y FilaFlex. Pero siendo una impresora 3D basada en hardware libre, podrás alterar el extrusor y colocar otro tipo de materiales.
 

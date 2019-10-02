@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a programar en Python **los pines GPIO** de nuestra Raspberry Pi para interactuar con ellos.
+En este tutorial vamos a programar en Python los pines GPIO de nuestra Raspberry Pi para interactuar con ellos.
 
 ### Antes de empezar
 
@@ -18,7 +18,7 @@ Vas a necesitar los siguientes componentes:
 
 General Purpose Input Output (GPIO) es un sistema de entrada y salida de propósito general, es decir, consta de una serie de pines o conexiones que se pueden usar como entradas o salidas para múltiples usos. Estos pines están incluidos en todos los modelos de Raspberry Pi aunque con diferencias.
 
-![](img/pines-gpio.png)
+![](img/pines-gpio.jpg)
 
 Hay que tener en cuenta que dependiendo del modelo de la Raspberry Pi encontramos una cantidad de pines diferentes, por ejemplo, en la versión 1 de Raspberry Pi se tienen 26 pines GPIO mientras que a partir de la versión 2 de Raspberry Pi el número de pines aumentó a 40. Sin embargo la compatibilidad es total, puesto que los 26 primeros pines mantienen su función original.
 
@@ -78,13 +78,13 @@ while True:
   time.sleep(1)
 ```
 
+![](img/salida-digital.jpg)
+
 
 
 <br />
 
 
-
-![](img/salida-digital.png)
 
 ## Entradas digitales
 
@@ -105,7 +105,7 @@ while True:
     GPIO.output(7, True)
 ```
 
-![](img/entrada-digital.png)
+![](img/entrada-digital.jpg)
 
 
 

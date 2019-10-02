@@ -1,6 +1,6 @@
 ## Introducción
 
-En este curso te explicamos diferentes actividades de robótica educativa para introducir la Bee-Bot en el aula desde educación infantil. Aprenderás a construir un tablero casero para que tus alumnos se sientan creadores de sus propios escenarios, te mostraremos los resultados obtenidos en niños con necesidades educativas especiales (NEE) para que puedas poner en práctica nuestra experiencia y te contaremos nuestra experiencia en utilizar la Bee-Bot en el aula de infantil y primaria.
+En este tutorial vamos a explicar diferentes actividades de robótica educativa para introducir la Bee-Bot en el aula desde educación infantil. Aprenderás a construir un tablero casero para que tus alumnos se sientan creadores de sus propios escenarios, te mostraremos los resultados obtenidos en niños con necesidades educativas especiales (NEE) para que puedas poner en práctica nuestra experiencia y te contaremos nuestra experiencia en utilizar la Bee-Bot en el aula de infantil y primaria.
 
 ![](img/preview.gif)
 
@@ -16,15 +16,15 @@ Bee-Bot es un pequeño robot educativo con forma de abeja diseñado para desarro
 
 Las Bee-Bot se programan una y otra vez para conseguir una secuencia de instrucciones a través de una botonera que tiene en la parte superior de la carcasa. Se aceptan hasta un máximo de 40 instrucciones (adelante, atrás, girar a la izquierda y girar a la derecha).
 
-![](img/robot-beebot.png)
+![](img/robot-beebot.jpg)
 
 También podemos encontrar el robot Blue-Bot, similar a Bee-Bot salvo con la diferencia de que Blue-Bot incluye Bluetooth y se puede programar desde dispositivos móviles o PC a través de las apps disponibles para Android y iPad. Además es transparente lo que permite ver el interior de la abeja.
 
-![](img/robot-bluebot.png)
+![](img/robot-bluebot.jpg)
 
 Pro-Bot es un robot programable con apariencia de coche de carreras. Una de las diferencias con respecto a los anteriores es que si le añadimos un rotulador en la parte superior podemos dibujar el rastro.
 
-![](img/robot-probot.png)
+![](img/robot-probot.jpg)
 
 ### Beneficios de la Bee-Bot
 
@@ -59,7 +59,7 @@ Crear un tablero es sencillo, simplemente debemos tener en cuenta las medidas de
 
 También puedes ayudarte fichas o pegatinas para ayudar a tus alumnos más pequeños como te enseñamos en el video de esta lección.
 
-![](img/beebot-inclusiva.png)
+![](img/beebot-inclusiva.jpg)
 
 ### ¿Cómo empiezo?
 
@@ -85,7 +85,7 @@ En el siguiente vídeo contamos con Carmen, Terapeuta de Astrade (Asociación pa
 
 En los diferentes talleres que realizamos con niños con Necesidades Educativas Especiales les proponemos una serie de retos de diferentes niveles. Empezamos creando sencillas secuencias que tienen que resolver ayudándonos de unas pequeñas pegatinas como se puede observar en el vídeo.
 
-![](img/beebot-taller.png)
+![](img/beebot-taller.jpg)
 
 
 
@@ -101,7 +101,7 @@ En los diferentes talleres que realizamos con niños con Necesidades Educativas 
 
 Con Bee-Bot podemos enseñar a los niños a secuenciar un programa de movimiento. Ellos deben pensar los movimientos y luego introducirlos para que la Bee-Bot los ejecute. Para ello podemos ayudarnos de la cuadrícula anteriormente creada y utilizar los palos de los helados, como explicamos en el vídeo, para que sean los propios alumnos los creadores del circuito a resolver.
 
-![](img/beebot-primaria.png)
+![](img/beebot-primaria.jpg)
 
 Aunque la Bee-Bot parece un robot destinado principalmente a alumnos de infantil se puede utilizar en otras etapas de primaria y secundaria creando retos avanzados.
 
@@ -123,7 +123,7 @@ En esta lección te enseñamos una aplicación para tablets o smartphones. La nu
 
 > Puedes conectar tu dispositivo al proyector para utilizarlo como herramienta en el aula.
 
-![](img/beebot-app.png)
+![](img/beebot-app.jpg)
 
 La aplicación es adecuada para su uso en iPhone®, iPad®, iPod touch® y Android.
 
@@ -139,7 +139,7 @@ La aplicación es adecuada para su uso en iPhone®, iPad®, iPod touch® y Andro
 
 En esta lección te enseñamos una aplicación vía web para utilizar en el aula con tus alumnos. Se compone de varias plantillas online para desarrollar sin necesidad de utilizar el robot de forma física.
 
-![](img/beebot-emulator.png)
+![](img/beebot-emulator.jpg)
 
 - <a target="_blank" href="https://www.terrapinlogo.com//emu/beebot.html">Bee-Bot Emulador</a>
 
@@ -153,13 +153,13 @@ En esta lección te enseñamos una aplicación vía web para utilizar en el aula
 
 Una vez adquiridos los conocimientos básicos sobre el manejo de la Bee-Bot se puede adaptar a cualquier juego de mesa, como son el caso de El Juego de la Escalera y El Juego de la Oca, entre otros.
 
-![](img/juegos-con-beebot.png)
+![](img/juegos-con-beebot.jpg)
 
 El funcionamiento del juego es exactamente igual que si del juego original se tratase, con la diferencia que en este caso lo que hay que mover es la Bee-Bot que hace de ficha. Para ello, cada jugador tiene una ficha de un color diferente. Con ayuda de un dado, desplazamos la Bee-Bot hacia la casilla que haya salido al tirar el dado.
 
 Según la dificultad que queramos darle al juego, en algunos casos se puede poner la norma de si un jugador programa mal la abeja y no llega a la casilla que tenía que llegar, esta deba regresar a la casilla donde estaba antes de tirar el dado y perder el turno.
 
-![](img/juego-de-la-escalera-con-beebot.png)
+![](img/juego-de-la-escalera-con-beebot.jpg)
 
 
 
@@ -173,7 +173,7 @@ Este reto consiste en programar la Bee-Bot para que se desplace hacia el círcul
 
 NOTA: se entiende por movimiento cada vez que se pulsa un botón de la Bee-Bot, es decir, solamente se podrán pulsar 13 botones para conseguir la secuencia.
 
-![](img/reto.png)
+![](img/reto.jpg)
 
 
 
@@ -188,13 +188,3 @@ NOTA: se entiende por movimiento cada vez que se pulsa un botón de la Bee-Bot, 
 </div>
 
 La solución al reto consiste en utilizar el botón de retroceder. Normalmente este botón no se suele utilizar, sin embargo, para ejercitar la visión espacial solemos utilizarlo indicándole al alumno que se encuentra montado encima del robot.
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

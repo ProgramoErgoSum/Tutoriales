@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **instalar Arduino IDE** en Raspberry Pi con Raspbian.
+En este tutorial vamos a explicar cómo instalar Arduino IDE en Raspberry Pi con Raspbian.
 
 ### Antes de empezar
 
@@ -37,7 +37,7 @@ pi@raspberrypi:~ $ sudo apt install arduino arduino-core
 
 Una vez finalizado el proceso de instalación ya podemos acceder al IDE de Arduino desde el menú `Programming > Arduino IDE` como se muestra en la siguiente imagen.
 
-![](img/arduino-ide.png)
+![](img/arduino-ide.jpg)
 
 
 
@@ -53,7 +53,7 @@ Seleccionamos la tarjeta `Tools > Board > xxx` y puerto `Tools > Serial Port > x
 
 > En nuestro caso hemos seleccionado una placa de Arduino UNO en el puerto `/dev/ttyACM0`.
 
-![](img/hola-mundo.png)
+![](img/hola-mundo.jpg)
 
 
 

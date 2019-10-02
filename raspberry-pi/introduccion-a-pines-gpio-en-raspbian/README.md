@@ -116,3 +116,5 @@ while True:
 ## Ejercicios propuestos
 
 1.- Programa un led intermitente en Python utilizando los pines GPIO.
+
+2.- Programa un sencillo semáforo utilizando los pines GPIO con Python.

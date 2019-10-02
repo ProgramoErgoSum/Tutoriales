@@ -20,7 +20,7 @@ Asegúrate que dispones de todos los componentes que se van a necesitar.
 
 ## ¿Qué es una impresora 3D?
 
-Una impresora 3D es una herramienta que **construye objetos físicos a partir de objetos digitalizados**. Esto permite diseñar un objeto mediante un programa como <a target="_blank" href="https://www.freecadweb.org/">FreeCAD</a> o incluso escanear la realidad mediante un escáner 3D para imprimirlo posteriormente. Una vez que se cuenta con la información que describe el archivo se puede manipular y enviar a la impresora 3D para que lo construya.
+Una impresora 3D es una herramienta que construye objetos físicos a partir de objetos digitalizados. Esto permite diseñar un objeto mediante un programa como <a target="_blank" href="https://www.freecadweb.org/">FreeCAD</a> o incluso escanear la realidad mediante un escáner 3D para imprimirlo posteriormente. Una vez que se cuenta con la información que describe el archivo se puede manipular y enviar a la impresora 3D para que lo construya.
 
 ![](img/impresora-3d.jpg)
 

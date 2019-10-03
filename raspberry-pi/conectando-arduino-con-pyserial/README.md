@@ -160,8 +160,10 @@ arduino.close()
 
 ## Ejercicios propuestos
 
-1.- Envía datos desde la Raspberry Pi hacia Arduino para encender o apagar un LED.
+1.- Envía datos desde la Raspberry Pi hacia Arduino para encender o apagar diferentes LEDs.
 
-2.- Envía datos desde el Arduino hacia Raspberry Pi para mostrar un mensaje u otro por la pantalla.
+2.- Envía datos desde el Arduino hacia Raspberry Pi para mostrar el valor de un sensor LDR u otro sensor analógico.
 
-3.- Guardar diferentes datos de sensores en un csv en Raspberry Pi controlados por un Arduino.
+3.- Envía el valor de diferentes sensores analógicos y muestra los valores en la Raspberry Pi.
+
+4.- Guardar diferentes datos de sensores en un csv en Raspberry Pi controlados por un Arduino.

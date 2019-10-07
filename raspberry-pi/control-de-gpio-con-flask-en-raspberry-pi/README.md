@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **montar un servidor web para Python con Flask** en nuestra Raspberry Pi y utilizar los pines GPIO para interactuar con ellos.
+En este tutorial vamos a explicar cómo montar un servidor web para Python con Flask en nuestra Raspberry Pi y utilizar los pines GPIO para interactuar con ellos.
 
 ### Antes de empezar
 
@@ -35,7 +35,7 @@ En este caso vamos a utilizar los pines GPIO.
 
 Vamos a realizar el encendido y apagado de un LED conectado al `Pin 11 - GPIO 17` de nuestra Raspberry Pi.
 
-![](img/led-fritzing.png)
+![](img/led-fritzing.jpg)
 
 En la programación, añadimos la librería para controlar los pines GPIO así como el modo de pin. A continuación se crean dos entradas de URL o endpoints para encender y apagar dicho LED. Además mostramos un mensaje por la pantalla de la web.
 
@@ -70,7 +70,7 @@ URL: localhost:8080/on
 URL: localhost:8080/off
 ```
 
-![](img/on-off.png)
+![](img/on-off.jpg)
 
 
 
@@ -114,7 +114,7 @@ URL: localhost:8080/18/0
 URL: localhost:8080/18/1
 ```
 
-![](img/varios-leds.png)
+![](img/varios-leds.jpg)
 
 
 
@@ -125,6 +125,13 @@ URL: localhost:8080/18/1
 ## Añadiendo un template
 
 Por último, podemos crear un template personalizado con enlaces a las URLs para no tener que escribirlas en el navegador.
+
+```
+├ web/
+├── templates
+│   └── led.html
+└── index.py
+```
 
 ```python
 from flask import *
@@ -142,14 +149,6 @@ GPIO.output(amarillo, GPIO.LOW)
 GPIO.setup(verde, GPIO.OUT)
 GPIO.output(verde, GPIO.LOW)
 
-@app.route('/')
-def home():
-   templateData = {
-      'amarillo' : GPIO.input(amarillo),
-      'verde' : GPIO.input(verde),
-   }
-   return render_template('home.html', **templateData)
-
 @app.route('/<led>/<action>')
 def led(led, action):
    GPIO.output(int(led), int(action))
@@ -157,7 +156,7 @@ def led(led, action):
       'amarillo' : GPIO.input(amarillo),
       'verde' : GPIO.input(verde),
    }
-   return render_template('home.html', **templateData)
+   return render_template('led.html', **templateData)
 
 if __name__ == '__main__':
    app.run(host='0.0.0.0', port=8080, debug=True)
@@ -203,7 +202,7 @@ if __name__ == '__main__':
 </html>
 ```
 
-![](img/optimizacion.png)
+![](img/optimizacion.jpg)
 
 
 

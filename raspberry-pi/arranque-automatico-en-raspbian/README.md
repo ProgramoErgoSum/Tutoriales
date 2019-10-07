@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **crear un arranque automático** de un programa en Raspberry Pi con Raspbian.
+En este tutorial vamos a explicar cómo crear un arranque automático de un programa en Raspberry Pi con Raspbian.
 
 ### Antes de empezar
 

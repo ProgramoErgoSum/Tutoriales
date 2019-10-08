@@ -60,14 +60,14 @@ def off():
    return 'Led Apagado'
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 Por último jecuta el código y accede mediante el navegador a ambas direcciones para encender y apagar el LED. Observa como el LED se enciende o apaga en cada caso.
 
 ```
-URL: localhost:8080/on
-URL: localhost:8080/off
+URL: localhost:8000/on
+URL: localhost:8000/off
 ```
 
 ![](img/on-off.jpg)
@@ -102,16 +102,16 @@ def led(led, action):
    return 'Led: '+str(led)+' Estado: '+str(action)
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 Ahora solamente nos queda probar que todos los enlaces funcionan correctamente accediendo a las siguientes URLs.
 
 ```
-URL: localhost:8080/17/0
-URL: localhost:8080/17/1
-URL: localhost:8080/18/0
-URL: localhost:8080/18/1
+URL: localhost:8000/17/0
+URL: localhost:8000/17/1
+URL: localhost:8000/18/0
+URL: localhost:8000/18/1
 ```
 
 ![](img/varios-leds.jpg)
@@ -159,7 +159,7 @@ def led(led, action):
    return render_template('led.html', **templateData)
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 ```html

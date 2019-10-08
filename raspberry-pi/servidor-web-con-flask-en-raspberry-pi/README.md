@@ -58,13 +58,13 @@ def home():
    return '¡Hola Mundo!'
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
-Como hemos dicho, Flask se utiliza para servicios o rutas, en este caso, hemos creado el servicio sobre la URL principal `@app.route('/')` seguido de la función que ejecutará el servicio, en este caso, devolver el mensaje 'Hola Mundo' que será mostrado por la pantalla al ejecutar el código y acceder mediante el navegador a la dirección `localhost:8080`. También podrás acceder sobre la propia IP `xxx.xxx.xxx.xxx:8080` en un dispositivo situado en la misma red.
+Como hemos dicho, Flask se utiliza para servicios o rutas, en este caso, hemos creado el servicio sobre la URL principal `@app.route('/')` seguido de la función que ejecutará el servicio, en este caso, devolver el mensaje 'Hola Mundo' que será mostrado por la pantalla al ejecutar el código y acceder mediante el navegador a la dirección `localhost:8000`. También podrás acceder sobre la propia IP `xxx.xxx.xxx.xxx:8000` en un dispositivo situado en la misma red.
 
 ```
-URL: localhost:8080
+URL: localhost:8000
 ```
 
 ![](img/hola-mundo.jpg)
@@ -95,7 +95,7 @@ def home():
    return render_template('home.html')
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 ```html
@@ -110,7 +110,7 @@ if __name__ == '__main__':
 ```
 
 ```
-URL: localhost:8080
+URL: localhost:8000
 ```
 
 ![](img/template.jpg)
@@ -146,7 +146,7 @@ def quien():
    return render_template('quien.html')
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 ```html
@@ -163,7 +163,7 @@ if __name__ == '__main__':
 ```
 
 ```
-URL: localhost:8080/quien-soy
+URL: localhost:8000/quien-soy
 ```
 
 ![](img/rutas.jpg)
@@ -191,7 +191,7 @@ def home():
    return render_template('home.html', **templateData)
 
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', port=8080, debug=True)
+   app.run(host='0.0.0.0', port=8000, debug=True)
 ```
 
 ```html
@@ -212,7 +212,7 @@ if __name__ == '__main__':
 ```
 
 ```
-URL: localhost:8080
+URL: localhost:8000
 ```
 
 ![](img/parametros.jpg)

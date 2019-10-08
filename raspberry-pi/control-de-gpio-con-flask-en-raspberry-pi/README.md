@@ -149,6 +149,14 @@ GPIO.output(amarillo, GPIO.LOW)
 GPIO.setup(verde, GPIO.OUT)
 GPIO.output(verde, GPIO.LOW)
 
+@app.route('/')
+def home():
+   templateData = {
+      'amarillo' : 0,
+      'verde' : 0,
+   }
+   return render_template('led.html', **templateData)
+
 @app.route('/<led>/<action>')
 def led(led, action):
    GPIO.output(int(led), int(action))

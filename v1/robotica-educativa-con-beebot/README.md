@@ -160,31 +160,3 @@ El funcionamiento del juego es exactamente igual que si del juego original se tr
 Según la dificultad que queramos darle al juego, en algunos casos se puede poner la norma de si un jugador programa mal la abeja y no llega a la casilla que tenía que llegar, esta deba regresar a la casilla donde estaba antes de tirar el dado y perder el turno.
 
 ![](img/juego-de-la-escalera-con-beebot.jpg)
-
-
-
-<br />
-
-
-
-## Reto propuesto
-
-Este reto consiste en programar la Bee-Bot para que se desplace hacia el círculo, cuadrado y triángulo (en este mismo orden) utilizando 13 movimientos solamente. Fíjate en la siguiente imagen para crear el mismo tablero.
-
-NOTA: se entiende por movimiento cada vez que se pulsa un botón de la Bee-Bot, es decir, solamente se podrán pulsar 13 botones para conseguir la secuencia.
-
-![](img/reto.jpg)
-
-
-
-<br />
-
-
-
-## Reto resuelto
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/BqgiYJw265Q" allowfullscreen></iframe>
-</div>
-
-La solución al reto consiste en utilizar el botón de retroceder. Normalmente este botón no se suele utilizar, sin embargo, para ejercitar la visión espacial solemos utilizarlo indicándole al alumno que se encuentra montado encima del robot.

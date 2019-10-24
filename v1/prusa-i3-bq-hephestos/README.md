@@ -20,7 +20,7 @@ Asegúrate que dispones de todos los componentes que se van a necesitar.
 
 ## ¿Qué es una impresora 3D?
 
-Una impresora 3D es una herramienta que construye objetos físicos a partir de objetos digitalizados. Esto permite diseñar un objeto mediante un programa como <a target="_blank" href="https://www.freecadweb.org/">FreeCAD</a> o incluso escanear la realidad mediante un escáner 3D para imprimirlo posteriormente. Una vez que se cuenta con la información que describe el archivo se puede manipular y enviar a la impresora 3D para que lo construya.
+Una impresora 3D es una herramienta que construye objetos físicos a partir de objetos digitalizados. Esto permite diseñar un objeto mediante un programa como [FreeCAD](https://www.freecadweb.org) o incluso escanear la realidad mediante un escáner 3D para imprimirlo posteriormente. Una vez que se cuenta con la información que describe el archivo se puede manipular y enviar a la impresora 3D para que lo construya.
 
 ![](img/impresora-3d.jpg)
 
@@ -62,7 +62,7 @@ La Prusa i3 es el diseño de impresora 3D más nuevo y actual hecho por el desar
 
 El diseño de la Prusa i3 es completamente de código abierto por lo que las opciones de personalización son bastante amplias. Ya montada tiene unas dimensiones de 48x30x18cm y un peso de 9.4kg.
 
-> El desarrollo de la Prusa Mendel está alojado en GitHub. Los archivos STL para construir la impresora se pueden encontrar en <a target="_blank" href="https://github.com/josefprusa/Prusa3">CloneWars</a>.
+> El desarrollo de la Prusa Mendel está alojado en GitHub. Los archivos STL para construir la impresora se pueden encontrar en [CloneWars](https://github.com/josefprusa/Prusa3).
 
 
 

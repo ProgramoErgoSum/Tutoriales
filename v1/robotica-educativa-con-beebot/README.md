@@ -14,7 +14,7 @@ En este tutorial vamos a explicar diferentes actividades de robótica educativa 
 
 Bee-Bot es un pequeño robot educativo con forma de abeja diseñado para desarrollar las capacidades elementales de la programación y sus aplicaciones de la robótica educativa: ubicación espacial, motricidad, lógica, estrategia, etc.
 
-Las Bee-Bot se programan una y otra vez para conseguir una secuencia de instrucciones a través de una botonera que tiene en la parte superior de la carcasa. Se aceptan hasta un máximo de 40 instrucciones (adelante, atrás, girar a la izquierda y girar a la derecha).
+Las Bee-Bot se programan una y otra vez para conseguir una secuencia de instrucciones a través de una botonera que tiene en la parte superior de la carcasa. Se acepta hasta un máximo de 40 instrucciones (adelante, atrás, girar a la izquierda y girar a la derecha).
 
 ![](img/robot-beebot.jpg)
 

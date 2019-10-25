@@ -14,7 +14,7 @@ En este tutorial vamos a explicar diferentes actividades de robótica educativa 
 
 [Escornabot](http://escornabot.com/web/) es un proyecto de robot educativo para iniciarse en el campo de la robótica y la programación que puede ejecutar secuencias de movimientos que son programadas por el usuario mediante la pulsación de botones del robot o introduciendo comandos en un dispositivo móvil con conexión Bluetooth. Similar a otros robots de suelo como Beebot, Next, etc. lo que hace especial a Escornabot es la filosofía que sigue de proyecto de código y hardware abierto.
 
-Aunque nace en la asociación de makers Bricolabs (Galicia), son muchos los que aportan y difunden el proyecto para que más niños y niñas sientan interés por la programación y la robótica desde cero, uno de ellos es [Pablo Rubio](https://pablorubma.cc/quien-soy/).
+Aunque nace en la asociación de makers Bricolabs (Galicia), son muchos los que aportan y difunden el proyecto para que más niños y niñas sientan interés por la programación y la robótica desde cero, uno de ellos es [Pablo Rubio](https://pablorubma.cc/escornabot).
 
 
 
@@ -28,8 +28,6 @@ Con esta versión podrás construirte tu propio Escornabot Do It Yourself (DIY) 
 
 ![](img/brivoi-audacius-diy.jpg)
 
-> Puedes acceder a la web de [Pablo Rubio](https://pablorubma.cc/escornabot/version-diy/) para conocer los materiales y pasos necesarios.
-
 
 
 <br />
@@ -42,8 +40,6 @@ Similar a la versión Audacius DIY con la diferencia de utilizar 2 placas de ele
 
 ![](img/brivoi-compactus.jpg)
 
-> Puedes acceder a la web de [Pablo Rubio](https://pablorubma.cc/escornabot/version-compactus/) para conocer los materiales y pasos necesarios.
-
 
 
 <br />
@@ -52,11 +48,9 @@ Similar a la versión Audacius DIY con la diferencia de utilizar 2 placas de ele
 
 ## Singularis 2.12 XDeSIG
 
-En esta versión solamente dispones de una placa con los componentes de electrónica ensamblados directamente y sin cables a la vista.
+En esta versión solamente dispones de una placa con los componentes de electrónica ensamblados directamente y sin cables a la vista. Puedes descargar las piezas y diseños desde [Thingiverse](https://www.thingiverse.com/thing:3269696).
 
 ![](img/singularis-xdesig.jpg)
-
-> Puedes acceder a la web de [Pablo Rubio](https://pablorubma.cc/escornabot/version-2-12-xdesig/) para conocer los materiales y pasos necesarios.
 
 
 
@@ -69,8 +63,6 @@ En esta versión solamente dispones de una placa con los componentes de electró
 Similar a la versión 2.12 de XDeSIG creada por abierto.cc.
 
 ![](img/ogaki-abiertocc.jpg)
-
-> Puedes acceder a la web de [Pablo Rubio](https://pablorubma.cc/escornabot/version-ogaki-abiertocc/) para conocer los materiales y pasos necesarios.
 
 
 

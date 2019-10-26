@@ -140,25 +140,15 @@ Si ves el camino te resulta muy sencillo llegar hasta la salida. Sin embargo, po
 
 ## Mejores proyectos
 
-<div class="row">
-  <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-    <img src="img/proyecto-aacosper.gif" />
-  </div>
-  <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+![](img/proyecto-aacosper.gif "aacosper")
 
-    ![](img/proyecto-bluepotatoeee.gif "bluepotatoeee")
-    
-  </div>
-  <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-    ![](img/proyecto-Lucikdo27.gif "Lucikdo27")
-  </div>
-  <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-    ![](img/proyecto-pablorubma.gif "pablorubma")
-  </div>
-  <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-    ![](img/proyecto-Yibob16.gif "Yibob16")
-  </div>
-</div>
+![](img/proyecto-bluepotatoeee.gif "bluepotatoeee")
+
+![](img/proyecto-Lucikdo27.gif "Lucikdo27")
+
+![](img/proyecto-pablorubma.gif "pablorubma")
+
+![](img/proyecto-Yibob16.gif "Yibob16")
 
 
 

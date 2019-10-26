@@ -1,6 +1,6 @@
 ## Introducción
 
-En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Berzerk**. El videojuego consiste en desplazar por el escenario al personaje principal y disparar a todos los robots que aparecen en la partida. Ganarás cuando consigas eliminar a todos los robots.
+En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Berzerk. El videojuego consiste en desplazar por el escenario al personaje principal y disparar a todos los robots que aparecen en la partida. Ganarás cuando consigas eliminar a todos los robots.
 
 ![](img/preview.gif)
 
@@ -8,9 +8,8 @@ En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojue
 
 Antes de continuar con las lecciones de este curso de programación con Scratch te recomendamos seguir los siguientes pasos para reinventar y obtener todas las imágenes utilizadas en el videojuego gratis.
 
-- Regístrate o accede a la web de <a target="_blank" href="https://scratch.mit.edu">Scratch</a>.
-- Reinventa el proyecto <a target="_blank" href="https://scratch.mit.edu/projects/186867561/editor">Pac Man (base)</a> para obtener todas las imágenes.
-- Programa el videojuego siguiendo los videotutoriales de las lecciones de este curso.
+- Reinventa el proyecto [Berzerk (base)](https://scratch.mit.edu/projects/186867561/editor) para obtener todas las imágenes.
+- Programa el videojuego siguiendo los videotutoriales de las siguientes lecciones.
 - Comparte el proyecto y si está entre los mejores aparecerá en la sección Mejores proyectos.
 
 
@@ -31,7 +30,7 @@ A la hora de programar videojuegos es muy importante utilizar una buena base de 
 
 Para este videojuego se ha creado una cuadrícula como se explica en el video para que el personaje principal y los robots puedan desplazarse libremente siguiendo el recorrido y sin atravesar las paredes del videojuego. En nuestro caso hemos utilizado una plantilla de 16 píxeles.
 
-![](img/cuadricula.png)
+![](img/cuadricula.jpg "Escenario")
 
 ### Programación del escenario
 
@@ -39,7 +38,7 @@ En cuanto a la programación en el escenario, se crean los eventos de "Comienza 
 
 Como se comenta en el video, el flujo de entrada principal del videojuego es el escenario, ya que en el mismo activaremos cuando aparecen los fantasmas, la comida, etc.
 
-![](img/escenario.png)
+![](img/escenario.jpg "Programación del escenario")
 
 ### Programación del personaje
 
@@ -47,7 +46,7 @@ En primer lugar importamos nuestro personaje con sus respectivos disfraces para 
 
 La programación es muy sencilla ya que en tutoriales anteriores hemos realizado movimientos parecidos. En este caso utilizamos condiciones en vez de eventos debido a las ventajas que explicamos en el vídeo, y además hemos creado una función "Mover" la cual recibe por parámetro las coordenadas y la dirección hacia donde se mueve nuestro personaje.
 
-![](img/movimiento.png)
+![](img/movimiento.jpg "Programación del personaje")
 
 
 
@@ -65,13 +64,13 @@ La programación es muy sencilla ya que en tutoriales anteriores hemos realizado
 
 En la lección anterior vimos como programar los movimientos básicos del personaje. Sin embargo, en ocasiones no queremos que nuestro personaje pase por determinadas posiciones o que no atraviese las paredes. La solución para por retroceder la misma cantidad de pasos en la misma dirección como te enseñamos en el video.
 
-![](img/paredes.png)
+![](img/paredes.jpg "Programación del personaje")
 
 ### Programación de la bala
 
 En la segunda parte del video se crea el objeto bala de forma similar a como se creó en otros tutoriales que hemos realizado en esta misma plataforma. Es decir, el evento de presionar una tecla se lanzará desde el personaje principal, pero la programación del efecto de la bala se programa en el objeto bala. Esto mismo se explica en el vídeo como puedes ver.
 
-![](img/bala.png)
+![](img/bala.jpg "Programación de la bala")
 
 
 <br />
@@ -88,7 +87,7 @@ En la segunda parte del video se crea el objeto bala de forma similar a como se 
 
 Como hemos comentado en la lección anterior, al programar el efecto de disparo el evento se lanza desde el personaje principal y la funcionalidad de la bala se programa desde el propio objeto bala. Sin embargo nos encontramos con un problema y es que tras disparar debemos saber desde donde dispara nuestro personaje y hacia dónde apunta. Para ello debemos crear variables para almacenar dichos datos.
 
-![](img/direccion.png)
+![](img/direccion.jpg "Programación de la bala")
 
 
 
@@ -110,7 +109,7 @@ En cuanto a la programación es muy sencilla y similar a la programación que se
 
 En el vídeo tamibén programamos el evento de "Game Over" que ocurrirá cuando el enemigo toque al personaje principal del videojuego.
 
-![](img/enemigos.png)
+![](img/enemigos.jpg "Personajes enemigos")
 
 
 
@@ -132,7 +131,7 @@ Una vez conseguimos que se muevan de forma aleatoria debemos programar que no pu
 
 Por último, solamente nos queda programar el evento de "Winner" una vez disparemos a todos los robots.
 
-![](img/algoritmo.png)
+![](img/algoritmo.jpg "Algoritmo aleatorio")
 
 
 
@@ -148,7 +147,7 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 En este reto te proponemos crear los movimientos del robot para que parezca que se está moviendo. Para ello deberás descargar los sprites que te adjuntamos en los materiales y programar el movimiento
 
-![](img/reto-1.png)
+![](img/reto-1.jpg "Crea diferentes tipos de enemigos")
 
 
 
@@ -156,14 +155,19 @@ En este reto te proponemos crear los movimientos del robot para que parezca que 
 
 
 
-## Retos resueltos
-
-ToDo
-
 ## Mejores proyectos
 
-ToDo
+<!--
+![](img/proyecto-usuario.gif "usuario")
+-->
+
+
+
+<br />
+
+
 
 ## Materiales
 
-ToDo
+- VideoJuego de Berzerk `Berzerk.sb2`
+- Reto 1: Crea diferentes tipos de enemigos `Reto-1.sb2`

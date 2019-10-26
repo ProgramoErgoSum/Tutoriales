@@ -131,3 +131,16 @@ Verás que es fácil llegar hasta la salida porque tienes todo el tiempo del mun
 Si ves el camino te resulta muy sencillo llegar hasta la salida. Sin embargo, podemos hacer que nuestro personaje no vea lo que tiene a su alrededor, y complicando así la partida... ¿Te atreves a resolverlo?
 
 ![](img/reto-3.jpg "Oscurece la visión del personaje")
+
+
+
+<br />
+
+
+
+## Materiales
+
+- VideoJuego del Laberinto `Laberinto.sb2`
+- Reto 1: Evitar atravesar las paredes `Reto-1.sb2`
+- Reto 2: Añade un temporizador `Reto-2.sb2`
+- Reto 3: Oscurece la visión del personaje `Reto-3.sb3`

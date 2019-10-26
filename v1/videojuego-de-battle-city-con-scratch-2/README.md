@@ -156,7 +156,7 @@ En este reto tendrás que averiguar porque no desaparecen los tanques al finaliz
 ## Mejores proyectos
 
 <!--
-![](img/proyecto-jguerenabarrena.gif "jguerenabarrena")
+![](img/proyecto-usuario.gif "usuario")
 -->
 
 

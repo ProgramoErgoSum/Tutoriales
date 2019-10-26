@@ -146,10 +146,6 @@ Si ves el camino te resulta muy sencillo llegar hasta la salida. Sin embargo, po
 
 ![](img/proyecto-Lucikdo27.gif "Lucikdo27")
 
-![](img/proyecto-pablorubma.gif "pablorubma")
-
-![](img/proyecto-Yibob16.gif "Yibob16")
-
 
 
 <br />

@@ -1,6 +1,6 @@
 ## Introducción
 
-En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojuego de Frogger**. El objetivo del juego es guiar a la rana hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
+En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Frogger. El objetivo del juego es guiar a la rana hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
 
 ![](img/preview.gif)
 
@@ -8,9 +8,8 @@ En este **tutorial con Scratch 2.0** te explicamos cómo **programar el videojue
 
 Antes de continuar con las lecciones de este curso de programación con Scratch te recomendamos seguir los siguientes pasos para reinventar y obtener todas las imágenes utilizadas en el videojuego gratis.
 
-- Regístrate o accede a la web de <a target="_blank" href="https://scratch.mit.edu">Scratch</a>.
-- Reinventa el proyecto <a target="_blank" href="https://scratch.mit.edu/projects/186864134/editor">Frogger (base)</a> para obtener todas las imágenes.
-- Programa el videojuego siguiendo los videotutoriales de las lecciones de este curso.
+- Reinventa el proyecto [Frogger (base)](https://scratch.mit.edu/projects/186864134/editor) para obtener todas las imágenes.
+- Programa el videojuego siguiendo los videotutoriales de las siguientes lecciones.
 - Comparte el proyecto y si está entre los mejores aparecerá en la sección Mejores proyectos.
 
 
@@ -33,7 +32,7 @@ En cuanto a la programación en el escenario, se crean los eventos de "Comienza 
 
 > En el escenario se ha utilizado una cuadrícula de 26 píxeles para representar las líneas de los carriles de los vehículos.
 
-![](img/escenario.png)
+![](img/escenario.jpg "Programación del escenario")
 
 ### Personaje principal del videojuego
 
@@ -43,7 +42,7 @@ En cuanto a la programación hemos optado por crear los movimientos a través de
 
 > Recuerda utilizar cuadrículas para los diseños de tus videojuegos.
 
-![](img/frogger.png)
+![](img/frogger.jpg "Personaje principal del videojuego")
 
 
 
@@ -63,7 +62,7 @@ En esta lección se crean los diferentes disfraces que aparecerán en el objeto 
 
 > Cada imagen del disfraz está optimizada siguiendo la cuadrícula del escenario.
 
-![](img/disfraces.png)
+![](img/disfraces.jpg "Disfraces de los coches")
 
 ### Programación de los coches
 
@@ -71,7 +70,7 @@ Para programar la funcionalidad de los coches se crea una función "Mover coche"
 
 En el vídeo se explica la técnica de paralelismo. Como se puede ver en la siguiente imagen, al presionar la bandera verde se invoca a la función "Mover coche" 5 veces. De esta forma los coches aparecerán al mismo tiempo y cada uno en su determinada posición.
 
-![](img/paralelismo.png)
+![](img/paralelismo.jpg "Programación de los coches")
 
 
 
@@ -91,13 +90,13 @@ En esta lección se crean los diferentes disfraces que aparecerán en el objeto 
 
 > Cada imagen del disfraz está optimizada siguiendo la cuadrícula del escenario.
 
-![](img/troncos.png)
+![](img/troncos.jpg "Disfraces de los troncos")
 
 ### Programación de los troncos
 
 Para programar los troncos simplemente copiamos las funciones realizadas en el objeto de coche y cambiamos las coordenadas de aparición. Asegúrate primero que funciona correctamente la programación antes de copiar las funciones para no arrastrar posibles errores.
 
-![](img/programacion.png)
+![](img/programacion.jpg "Programación de los troncos")
 
 
 <br />
@@ -111,7 +110,7 @@ Para programar los troncos simplemente copiamos las funciones realizadas en el o
 
 En esta lección vamos a responder a una duda sobre el desarrollo del videojuego. Esta duda la plantea Mario a través de un comentario en nuestro canal de YouTube.
 
-![](img/duda-de-mario.png)
+![](img/duda-de-mario.jpg "Duda de Mario")
 
 **Problema**
 
@@ -134,7 +133,7 @@ Para solucionarlo basta con tectar si estamos sobre el color de la hoja de lirio
 
 En esta lección vamos a responder a una duda sobre el desarrollo del videojuego. Esta duda la plantea Juan a través de un comentario en nuestro Twitter.
 
-![](img/duda-de-juan.png)
+![](img/duda-de-juan.jpg "Duda de Juan")
 
 
 
@@ -150,7 +149,7 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 En este reto te proponemos implementar una nueva funcionalidad al videojuego para acumular puntos cada vez que se toca la hoja de lirio. Para ello deberás modificar la condición seleccionada (además de crear la variable correspondiente).
 
-![](img/reto-1.png)
+![](img/reto-1.jpg "Consigue puntos al tocar la hoja de lirio")
 
 
 
@@ -158,14 +157,19 @@ En este reto te proponemos implementar una nueva funcionalidad al videojuego par
 
 
 
-## Retos resueltos
-
-ToDo
-
 ## Mejores proyectos
 
-ToDo
+![](img/proyecto-jguerenabarrena.gif "jguerenabarrena")
+
+![](img/proyecto-juanpacrack.gif "juanpacrack")
+
+
+
+<br />
+
+
 
 ## Materiales
 
-ToDo
+- VideoJuego de Frogger `Frogger.sb2`
+- Reto 1: Consigue puntos al tocar la hoja de lirio `Reto-1.sb2`

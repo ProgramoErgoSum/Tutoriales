@@ -142,10 +142,12 @@ Si ves el camino te resulta muy sencillo llegar hasta la salida. Sin embargo, po
 
 <div class="row">
   <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-    <mg src="img/proyecto-aacosper.gif" />
+    <img src="img/proyecto-aacosper.gif" />
   </div>
   <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+
     ![](img/proyecto-bluepotatoeee.gif "bluepotatoeee")
+    
   </div>
   <div class="col-12 col-sm-12 col-md-6 col-lg-4">
     ![](img/proyecto-Lucikdo27.gif "Lucikdo27")

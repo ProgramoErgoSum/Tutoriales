@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial con Scratch 2.0 te explicamos cómo **programar un sencillo videojuego educativo**. En el videojuego aparecerán diferentes objetos en posiciones aleatorias y tendremos que atraparlos. Modificando los objetos podemos crear una infinidad de videojuegos educativos.
+En este tutorial con Scratch 2.0 te explicamos cómo programar un sencillo videojuego educativo. En el videojuego aparecerán diferentes objetos en posiciones aleatorias y tendremos que atraparlos. Modificando los objetos podemos crear una infinidad de videojuegos educativos.
 
 ![](img/preview.gif)
 

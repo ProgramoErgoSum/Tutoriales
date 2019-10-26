@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Frogger. El objetivo del juego es guiar a la rana hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Frogger con Scratch")
 
 ### Reinventa, programa y comparte
 

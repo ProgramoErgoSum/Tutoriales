@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Space Invaders utilizando conceptos avanzados del paradigma de la programación informática, así como conceptos de programación orientada a objetos con Scratch. Su objetivo es eliminar a los alienígenas con un cañón láser y obtener la mayor cantidad de puntos posible.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Space Invaders con Scratch")
 
 ### Reinventa, programa y comparte
 

@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar un videojuego utilizando los clones. En el videojuego tendrás que capturar a los patos malos y dejar libres a los patos buenos. Si capturas un pato bueno perderás 1 vida y al perder las 3 vidas terminará la partida. Captura la mayor cantidad de pájaros malos.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de pájaros con Scratch")
 
 ### Reinventa, programa y comparte
 

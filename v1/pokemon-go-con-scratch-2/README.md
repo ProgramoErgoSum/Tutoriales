@@ -2,7 +2,7 @@
 
 En este tutorial de realidad aumentada con Scratch 2.0 aprenderás a programar un sencillo videojuego. El juego consiste en capturar solamente a los Pikachu y en caso de capturar a otros personajes se pierde una vida, así hasta que se pierdan todas las vidas y termine la partida.
 
-![](img/preview.gif)
+![](img/preview.gif "Pokemon Go con Scratch")
 
 ### Reinventa, programa y comparte
 

@@ -2,7 +2,7 @@
 
 En este tutorial aprenderás a utilizar la herramienta gratuita online TinkerCAD para crear diseños en 3D imprimibles con una impresora 3D. A lo largo del tutorial aprenderás a diseñar diferentes tipos de objetos además de importar y exportarlos.
 
-![](img/preview.gif)
+![](img/preview.gif "Introducción a TinkerCAD")
 
 
 

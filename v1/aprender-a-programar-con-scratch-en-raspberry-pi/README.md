@@ -2,7 +2,7 @@
 
 Raspbian es el sistema operativo recomendado por la fundación para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian. En las últimas versiones de Raspbian podemos observar que aparece preinstalada la versión de Scratch 3.0, pero en caso de tener una versión anterior vamos a explicar cómo podemos instalarlo a través de la consola de comandos.
 
-![](img/1.jpg "Scratch en Raspbian")
+![](img/1.jpg "Scratch en Raspberry Pi")
 
 
 

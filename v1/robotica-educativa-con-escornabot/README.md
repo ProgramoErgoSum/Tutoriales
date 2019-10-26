@@ -2,7 +2,7 @@
 
 En este tutorial vamos a explicar diferentes actividades de robótica educativa para introducir el robot de suelo Escornabot en el aula desde educación infantil.
 
-![](img/escornabot.jpg)
+![](img/escornabot.jpg "Robótica educativa con Escornabot")
 
 
 
@@ -26,7 +26,7 @@ Aunque nace en la asociación de makers Bricolabs (Galicia), son muchos los que 
 
 Con esta versión podrás construirte tu propio Escornabot Do It Yourself (DIY) de la forma más económica posible.
 
-![](img/brivoi-audacius-diy.jpg)
+![](img/brivoi-audacius-diy.jpg "Brivoi Audacius DIY")
 
 
 
@@ -38,7 +38,7 @@ Con esta versión podrás construirte tu propio Escornabot Do It Yourself (DIY) 
 
 Similar a la versión Audacius DIY con la diferencia de utilizar 2 placas de electrónica en vez de cableado directo sobre la protoboard.
 
-![](img/brivoi-compactus.jpg)
+![](img/brivoi-compactus.jpg "Brivoi Compactus")
 
 
 
@@ -50,7 +50,7 @@ Similar a la versión Audacius DIY con la diferencia de utilizar 2 placas de ele
 
 En esta versión solamente dispones de una placa con los componentes de electrónica ensamblados directamente y sin cables a la vista. Puedes descargar las piezas y diseños desde [Thingiverse](https://www.thingiverse.com/thing:3269696).
 
-![](img/singularis-xdesig.jpg)
+![](img/singularis-xdesig.jpg "Singularis 2.12 XDeSIG")
 
 
 
@@ -62,7 +62,7 @@ En esta versión solamente dispones de una placa con los componentes de electró
 
 Similar a la versión 2.12 de XDeSIG creada por abierto.cc.
 
-![](img/ogaki-abiertocc.jpg)
+![](img/ogaki-abiertocc.jpg "Ogaki abiertocc")
 
 
 
@@ -76,4 +76,4 @@ Si dispones de una impresora 3D puedes descargar diseños creados por la comunid
 
 Uno de los diseños que puedes encontrar es el proyecto [Escornamoji](https://www.thingiverse.com/thing:2939496) que realizamos con los alumnos para jugar al parchis con Escornabot.
 
-![](img/escornamoji.jpg)
+![](img/escornamoji.jpg "Escornamoji by @ProgramoErgoSum")

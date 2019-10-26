@@ -2,7 +2,7 @@
 
 En este tutorial aprenderás a construir un llavero en 3D personalizado utilizando la herramienta gratuita online TinkerCAD. Una vez construido aprenderás cómo exportarlo para imprimirlo con una impresora 3D.
 
-![](img/preview.gif)
+![](img/preview.gif "Llavero en TinkerCAD")
 
 
 

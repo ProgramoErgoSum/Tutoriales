@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Flappy Bird. Flappy Bird es un juego para móviles de 2013 desarrollado en Hanói por el desarrollador Dong Nguyen. El juego fue eliminado de App Store y Google Play por su creador un año más tarde. El videojuego consiste en hacer volar a un pájaro haciendo click sobre él de manera que pase entre sendas tuberías. En caso de tocarlas terminará la partida.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Flappy Bird con Scratch")
 
 ### Reinventa, programa y comparte
 

@@ -2,7 +2,7 @@
 
 En este tutorial de realidad aumentada con Scratch 2.0 aprenderás a programar aplicaciones y usarlas en el aula con tus alumnos. La aplicación consiste en pogramar con Scratch un detector de audio, con ayuda de un micrófono y mostrar una gráfica en tiempo real.
 
-![](img/preview.gif)
+![](img/preview.gif "Gráficas de audio con Scratch")
 
 ### Reinventa, programa y comparte
 

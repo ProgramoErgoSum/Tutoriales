@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Arkanoid. El videojuego consiste en romper unos ladrillos con una pelota. La pelota rebota en las paredes y no debe tocar el borde inferior de la pantalla en cuyo caso terminará la partida. Para que no toque el borde inferior debemos desplazar una nave en movimiento horizontal donde la pelota rebotará.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Arkanoid con Scratch")
 
 ### Reinventa, programa y comparte
 

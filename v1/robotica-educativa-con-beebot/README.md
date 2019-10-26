@@ -2,7 +2,7 @@
 
 En este tutorial vamos a explicar diferentes actividades de robótica educativa para introducir la Bee-Bot en el aula desde educación infantil. Aprenderás a construir un tablero casero para que tus alumnos se sientan creadores de sus propios escenarios, te mostraremos los resultados obtenidos en niños con necesidades educativas especiales (NEE) para que puedas poner en práctica nuestra experiencia y te contaremos nuestra experiencia en utilizar la Bee-Bot en el aula de infantil y primaria.
 
-![](img/preview.gif)
+![](img/preview.gif "Robótica educativa con Bee-Bot")
 
 
 
@@ -16,15 +16,15 @@ Bee-Bot es un pequeño robot educativo con forma de abeja diseñado para desarro
 
 Las Bee-Bot se programan una y otra vez para conseguir una secuencia de instrucciones a través de una botonera que tiene en la parte superior de la carcasa. Se acepta hasta un máximo de 40 instrucciones (adelante, atrás, girar a la izquierda y girar a la derecha).
 
-![](img/robot-beebot.jpg)
+![](img/robot-beebot.jpg "Bee-Bot")
 
 También podemos encontrar el robot Blue-Bot, similar a Bee-Bot salvo con la diferencia de que Blue-Bot incluye Bluetooth y se puede programar desde dispositivos móviles o PC a través de las apps disponibles para Android y iPad. Además es transparente lo que permite ver el interior de la abeja.
 
-![](img/robot-bluebot.jpg)
+![](img/robot-bluebot.jpg "Blue-Bot")
 
 Pro-Bot es un robot programable con apariencia de coche de carreras. Una de las diferencias con respecto a los anteriores es que si le añadimos un rotulador en la parte superior podemos dibujar el rastro.
 
-![](img/robot-probot.jpg)
+![](img/robot-probot.jpg "Pro-Bot")
 
 ### Beneficios de la Bee-Bot
 
@@ -59,7 +59,7 @@ Crear un tablero es sencillo, simplemente debemos tener en cuenta las medidas de
 
 También puedes ayudarte fichas o pegatinas para ayudar a tus alumnos más pequeños como te enseñamos en el video de esta lección.
 
-![](img/beebot-inclusiva.jpg)
+![](img/beebot-inclusiva.jpg "Bee-Bot inclusiva")
 
 ### ¿Cómo empiezo?
 
@@ -85,7 +85,7 @@ En el siguiente vídeo contamos con Carmen, Terapeuta de Astrade (Asociación pa
 
 En los diferentes talleres que realizamos con niños con Necesidades Educativas Especiales les proponemos una serie de retos de diferentes niveles. Empezamos creando sencillas secuencias que tienen que resolver ayudándonos de unas pequeñas pegatinas como se puede observar en el vídeo.
 
-![](img/beebot-taller.jpg)
+![](img/beebot-taller.jpg "Taller con Bee-Bot")
 
 
 
@@ -101,7 +101,7 @@ En los diferentes talleres que realizamos con niños con Necesidades Educativas 
 
 Con Bee-Bot podemos enseñar a los niños a secuenciar un programa de movimiento. Ellos deben pensar los movimientos y luego introducirlos para que la Bee-Bot los ejecute. Para ello podemos ayudarnos de la cuadrícula anteriormente creada y utilizar los palos de los helados, como explicamos en el vídeo, para que sean los propios alumnos los creadores del circuito a resolver.
 
-![](img/beebot-primaria.jpg)
+![](img/beebot-primaria.jpg "Bee-Bot en primaria")
 
 Aunque la Bee-Bot parece un robot destinado principalmente a alumnos de infantil se puede utilizar en otras etapas de primaria y secundaria creando retos avanzados.
 
@@ -123,7 +123,7 @@ En esta lección te enseñamos una aplicación para tablets o smartphones. La nu
 
 > Puedes conectar tu dispositivo al proyector para utilizarlo como herramienta en el aula.
 
-![](img/beebot-app.jpg)
+![](img/beebot-app.jpg "Bee-Bot App")
 
 La aplicación es adecuada para su uso en iPhone®, iPad®, iPod touch® y Android.
 
@@ -139,7 +139,7 @@ La aplicación es adecuada para su uso en iPhone®, iPad®, iPod touch® y Andro
 
 En esta lección te enseñamos una aplicación vía web para utilizar en el aula con tus alumnos. Se compone de varias plantillas online para desarrollar sin necesidad de utilizar el robot de forma física.
 
-![](img/beebot-emulator.jpg)
+![](img/beebot-emulator.jpg "Emulador de Bee-Bot para PC")
 
 - [Bee-Bot Emulador](https://www.terrapinlogo.com//emu/beebot.html) para PC
 
@@ -153,10 +153,10 @@ En esta lección te enseñamos una aplicación vía web para utilizar en el aula
 
 Una vez adquiridos los conocimientos básicos sobre el manejo de la Bee-Bot se puede adaptar a cualquier juego de mesa, como son el caso de El Juego de la Escalera y El Juego de la Oca, entre otros.
 
-![](img/juegos-con-beebot.jpg)
+![](img/juegos-con-beebot.jpg "Juegos con Bee-Bot")
 
 El funcionamiento del juego es exactamente igual que si del juego original se tratase, con la diferencia que en este caso lo que hay que mover es la Bee-Bot que hace de ficha. Para ello, cada jugador tiene una ficha de un color diferente. Con ayuda de un dado, desplazamos la Bee-Bot hacia la casilla que haya salido al tirar el dado.
 
 Según la dificultad que queramos darle al juego, en algunos casos se puede poner la norma de si un jugador programa mal la abeja y no llega a la casilla que tenía que llegar, esta deba regresar a la casilla donde estaba antes de tirar el dado y perder el turno.
 
-![](img/juego-de-la-escalera-con-beebot.jpg)
+![](img/juego-de-la-escalera-con-beebot.jpg "Juego de la escalera con Bee-Bot")

@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Berzerk. El videojuego consiste en desplazar por el escenario al personaje principal y disparar a todos los robots que aparecen en la partida. Ganarás cuando consigas eliminar a todos los robots.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Berzerk con Scratch")
 
 ### Reinventa, programa y comparte
 

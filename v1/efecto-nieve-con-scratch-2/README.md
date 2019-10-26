@@ -2,7 +2,7 @@
 
 En este tutorial de realidad aumentada con Scratch 2.0 aprenderás a programar una sencilla aplicación. La aplicación que se va a programar consiste en el efecto de nieve. Para ello se creará un copo de nieve y con ayuda de los clones de Scratch parecerá que está nevando en nuestra habitación. Además, se podrá interactuar con los copos de nieve para que desaparezcan una vez los toquemos.
 
-![](img/preview.gif)
+![](img/preview.gif "Efecto nieve con Scratch")
 
 ### Reinventa, programa y comparte
 

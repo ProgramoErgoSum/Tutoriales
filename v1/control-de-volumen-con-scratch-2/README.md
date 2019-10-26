@@ -2,7 +2,7 @@
 
 En este tutorial de realidad aumentada con Scratch 2.0 aprenderás a programar aplicaciones y usarlas en el aula con tus alumnos. La aplicación consiste en medir el volumen de tus alumnos con ayuda de un micrófono y mostrar diferentes imágenes por la pantalla. Si el volumen es adecuado se mostrará un fondo de color verde con una cara sonriente, si aumenta cambiará a amarillo y en caso de estar gritando pasará al color rojo.
 
-![](img/preview.gif)
+![](img/preview.gif "Control de volumen con Scratch")
 
 ### Reinventa, programa y comparte
 

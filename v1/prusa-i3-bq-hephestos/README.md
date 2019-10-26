@@ -2,7 +2,7 @@
 
 En este tutorial aprenderás los primeros pasos que tienes que seguir antes de imprimir una pieza con una impresora 3D. Para ello utilizaremos una Prusa i3 BQ Hephestos. Además, podrás observar el vídeo de BQ donde graba todo el proceso de montaje para que no tengas dudas a la hora de adquirir una impresora 3D desmontada.
 
-![](img/preview.gif)
+![](img/preview.gif "Prusa i3 BQ Hephestos")
 
 ### Antes de empezar
 

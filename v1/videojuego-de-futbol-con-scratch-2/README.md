@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar un videojuego de fútbol. El videojuego está programado para una versión de 2 jugadores y cada uno controlará un personaje. El objetivo es muy sencillo, consiste en conducir el balón hasta la portería del rival para marcar un gol.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Fútbol con Scratch")
 
 ### Reinventa, programa y comparte
 

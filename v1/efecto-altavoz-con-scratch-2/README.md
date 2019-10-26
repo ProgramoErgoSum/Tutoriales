@@ -2,7 +2,7 @@
 
 En este tutorial de realidad aumentada con Scratch 2.0 aprenderás a programar una sencilla aplicación. Para ello vamos a utilizar el micrófono para detectar el volúmen y cambiar de imagen representando las ondas de un altavoz. También se modificará el fondo añadiéndole un efecto de colores.
 
-![](img/preview.gif)
+![](img/preview.gif "Efecto altavoces con Scratch")
 
 ### Reinventa, programa y comparte
 

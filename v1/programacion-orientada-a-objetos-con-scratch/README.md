@@ -1,6 +1,8 @@
 ## Programación Orientada a Objetos
 
-La Programación Orientada a Objetos o POO, es un **paradigma de programación informática** que basa su resolución de problemas, en la creación de los llamados objetos, que no son más que unidades que contienen una serie de características y atributos a los cuales se les asignará una serie de datos para resolver el problema.
+La Programación Orientada a Objetos o POO, es un paradigma de programación informática que basa su resolución de problemas, en la creación de los llamados objetos, que no son más que unidades que contienen una serie de características y atributos a los cuales se les asignará una serie de datos para resolver el problema.
+
+![](img/frogger.gif "Programación Orientada a Objetos con Scratch")
 
 Los objetos manipulan los datos de entrada para la obtención de datos de salida específicos, donde cada objeto ofrece una funcionalidad especial.
 
@@ -28,8 +30,6 @@ La aplicación de los lenguajes de programación por bloques permiten una presen
 ## POO en Scratch
 
 En esta sección vamos a explicar el paradigma de la programación orientada a objetos con el videojuego de frogger programado con Scratch. El objetivo del videojuego consiste en guiar a la rana Froggy hasta su hogar. Para hacerlo, la rana debe evitar coches mientras cruza una carretera congestionada y luego cruzar un río lleno de riesgos.
-
-![](img/frogger.gif "Videojuego de Froggy programado con Scratch")
 
 Como puedes observar, aparecen 5 coches moviéndose desde un lateral hacia el opuesto, al igual que los troncos. Cada instancia del objeto a su vez se mueve desde una posición, dirección y velocidad diferente que establecemos en un método del objeto.
 

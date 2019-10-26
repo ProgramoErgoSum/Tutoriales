@@ -2,7 +2,7 @@
 
 En este tutorial con Scratch 2.0 te explicamos cómo programar el videojuego de Battle City. El videojuego consiste en atacar a los tanques enemigos los cuales se mueven con movimientos aleatorios a lo largo del escenario. Si consigues eliminar todos los tanques enemigos ganarás la partida.
 
-![](img/preview.gif)
+![](img/preview.gif "Videojuego de Battle City con Scratch")
 
 ### Reinventa, programa y comparte
 

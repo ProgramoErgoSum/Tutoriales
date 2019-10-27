@@ -39,7 +39,7 @@ Supongamos que nos arrepentimos del texto redactado en el 2º párrafo y lo borr
 
 Viendo esto podemos ver que aunque en la última versión de nuestro documento no aparece el 2º párrafo, realmente lo tenemos guardado en la versión 2 y 3 de nuestro historial, con lo cual en un futuro podríamos acceder a dichas versiones para recuperar el texto del 2º párrafo.
 
-![](img/carta.jpg)
+![](img/carta.jpg "Ejemplo")
 
 
 
@@ -51,11 +51,11 @@ Viendo esto podemos ver que aunque en la última versión de nuestro documento n
 
 Para crear una cuenta GitHub accedemos a la [Web](https://github.com/join) e introducimos los datos solicitados. A continuación nos llegará un correo para confirmar la cuenta.
 
-![](img/join.jpg)
+![](img/join.jpg "Crear cuenta")
 
 Una vez registrados podemos editar nuestro perfil para añadir una imagen, descripción, y datos que queramos mostrar de forma pública.
 
-![](img/perfil.jpg)
+![](img/perfil.jpg "Perfil")
 
 
 
@@ -69,7 +69,7 @@ Un Git, un repositorio es un espacio utilizado para almacenar algún tipo de inf
 
 Para añadir un repositorio hacemos clic sobre el icono `+` situado en la parte superior derecha de la pantalla y a continuación `New repository`. El siguiente paso será añadir el nombre del repositorio y de forma opcional una breve descripción. Por último creamos el repositorio.
 
-![](img/perfil.jpg)
+![](img/perfil.jpg "Perfil")
 
 Una vez creado el repositorio vamos a crear un documento con el texto `Hola Mundo`. Para crear el documento hacemos clic sobre `creating a new file`.
 
@@ -81,7 +81,7 @@ Por último, añadimos el nombre del fichero `hola` y en la descripción `Hola M
 
 Una vez guardado te aparecerá el documento en el repositorio.
 
-![](img/guardado.jpg)
+![](img/guardado.jpg "Guardado")
 
 
 

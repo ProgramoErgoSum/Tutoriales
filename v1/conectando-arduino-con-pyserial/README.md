@@ -71,7 +71,7 @@ while True:
    arduino.write(comando.encode())
 ```
 
-![](img/maestro.jpg)
+![](img/maestro.jpg "Maestro")
 
 ### Esclavo: Recibir datos desde el serial
 
@@ -101,7 +101,7 @@ void loop () {
 }
 ```
 
-![](img/esclavo.jpg)
+![](img/esclavo.jpg "Esclavo")
 
 
 
@@ -150,7 +150,7 @@ while True:
 arduino.close()
 ```
 
-![](img/arduino-raspberry-pi.jpg)
+![](img/arduino-raspberry-pi.jpg "Arduino y Raspberry Pi")
 
 
 

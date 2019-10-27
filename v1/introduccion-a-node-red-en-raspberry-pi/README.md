@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **utilizar Node-RED desde Raspberry Pi** de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
+En este tutorial vamos a explicar cómo utilizar Node-RED desde Raspberry Pi de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
 
 ### Antes de empezar
 
@@ -28,7 +28,7 @@ Vas a necesitar los siguientes componentes:
 
 Esta herramienta viene instalada por defecto en la versión de Raspbian con programas recomendados. En caso de utilizar otra versión y querer instalarla podemos hacerlo desde el menú `Preferences > Recommended Software` e instalarlo desde la pestaña `programming`.
 
-![](img/software.png)
+![](img/software.jpg)
 
 
 
@@ -44,9 +44,9 @@ Podemos abrir Node-RED accediendo al menú `Programming > Node-RED` y se abrirá
 URL: http://127.0.0.1:1880
 ```
 
-![](img/node-red.png)
+![](img/node-red.jpg)
 
-Vamos a echar un vistazo rápido por Node-RED. Los programas en Node-RED se llaman **Flow** (flujos) y se puede crear tantos flujos como queramos y todos pueden ejecutarse al mismo tiempo.
+Vamos a echar un vistazo rápido por Node-RED. Los programas en Node-RED se llaman Flow (flujos) y se puede crear tantos flujos como queramos y todos pueden ejecutarse al mismo tiempo.
 
 - En el lado izquierdo tenemos todos los nodos disponibles. Los nodos son la unidad mínima que podemos encontrar en Node-RED. Podemos ver la lista de nodos que vienen instalados por defecto y organizados en categorías según su funcionalidad (entradas, salidas, etc.).
 - En el centro es donde podemos arrastrar los nodos para crear el flujo de trabajo.
@@ -63,20 +63,10 @@ Vamos a echar un vistazo rápido por Node-RED. Los programas en Node-RED se llam
 
 Vamos a probar un flujo muy simple encargado de mostrar el texto *¡Hola Mundo!* por el panel de debug. Para ello debemos arrastrar un nodo `inject` de la categoría input y un nodo `debug` de la categoría output al flujo del programa. Haciendo doble clic sobre el nodo `inject` establecemos el *Payload* a modo string y añadimos la cadena '¡Hola Mundo!'.
 
-![](img/inject.png)
+![](img/inject.jpg)
 
-A continuación los conectamos entre ellos siguiendo el flujo `inject -> debug` y **desplegamos el programa** pulsando sobre el botón `deploy`. Una vez que lo hayas pulsado, volverá de nuevo al color gris oscuro. Esto quiere decir que ya tenemos guardados todos los cambios.
+A continuación los conectamos entre ellos siguiendo el flujo `inject -> debug` y desplegamos el programa pulsando sobre el botón `deploy`. Una vez que lo hayas pulsado, volverá de nuevo al color gris oscuro. Esto quiere decir que ya tenemos guardados todos los cambios.
 
 Para probar este primer flujo tenemos que abrir el panel de debug que está situado en la parte derecha. A continuación pulsa sobre el botón situado a la derecha del nodo 'Hola Mundo' y se ejecutará el flujo y se mostrará el mensaje '¡Hola Mundo!' sobre el debug.
 
-![](img/debug.png)
-
-
-
-<br />
-
-
-
-## Ejercicios propuestos
-
-1.- ToDo
+![](img/debug.jpg)

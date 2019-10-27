@@ -37,7 +37,7 @@ pi@raspberrypi:~ $ sudo apt install arduino arduino-core
 
 Una vez finalizado el proceso de instalación ya podemos acceder al IDE de Arduino desde el menú `Programming > Arduino IDE` como se muestra en la siguiente imagen.
 
-![](img/arduino-ide.jpg)
+![](img/arduino-ide.jpg "Arduino IDE")
 
 
 
@@ -53,7 +53,7 @@ Seleccionamos la tarjeta `Tools > Board > xxx` y puerto `Tools > Serial Port > x
 
 > En nuestro caso hemos seleccionado una placa de Arduino UNO en el puerto `/dev/ttyACM0`.
 
-![](img/hola-mundo.jpg)
+![](img/hola-mundo.jpg "Hola Mundo")
 
 
 

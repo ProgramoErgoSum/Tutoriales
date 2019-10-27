@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial vamos a explicar cómo **utilizar los pines GPIO a través de Node-RED desde Raspberry Pi** de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
+En este tutorial vamos a explicar cómo utilizar los pines GPIO a través de Node-RED desde Raspberry Pi de una forma muy sencilla para crear aplicaciones IoT sin saber programar en lenguaje de programación textual.
 
 ### Antes de empezar
 
@@ -22,7 +22,7 @@ Es recomendable acceder a los siguientes tutoriales:
 
 [Node-RED](https://nodered.org/) es un motor de flujos con enfoque IoT que permite definir gráficamente flujos de servicios a través de protocolos estándares como REST, MQTT, Websocket o AMQP. Se trata de una herramienta visual muy ligera programada en NodeJS y que puede ejecutarse desde en dispositivos ligeros como la Raspberry Pi.
 
-> Para más información sobre Node-RED accede al tutorial [Raspberry Pi - Node-RED](raspberry_pi-node_red).
+> Para más información sobre Node-RED accede al tutorial Raspberry Pi - Node-RED.
 
 
 
@@ -53,9 +53,9 @@ En primer lugar abrimos la herramienta Node-RED accediendo al menú `Programming
 URL: http://127.0.0.1:1880
 ```
 
-![](img/node-red.png)
+![](img/node-red.jpg "Node-RED")
 
-Los programas en Node-RED se llaman **Flow** (flujos). y se puede crear tantos flujos como queramos y todos pueden ejecutarse al mismo tiempo.
+Los programas en Node-RED se llaman Flow (flujos). y se puede crear tantos flujos como queramos y todos pueden ejecutarse al mismo tiempo.
 
 En el lado izquierdo tenemos todos los nodos disponibles ordenador por categorías (input, output, functions, Raspberry Pi, etc.). Los nodos se conectarán entre ellos mediante líneas creando un flujo de trabajo.
 
@@ -73,19 +73,19 @@ En el centro es donde podemos arrastrar los nodos para crear el flujo de trabajo
 
 Vamos a realizar el encendido y apagado de un LED conectado al `Pin 11 - GPIO 17` de nuestra Raspberry Pi.
 
-![](img/led-fritzing.png)
+![](img/led-fritzing.jpg)
 
 Accediendo al grupo de nodos de Raspberry Pi, arrastramos al área de trabajo el nodo `rpi gpio`. Hacemos docle clic sobre el nodo y seleccionamos el pin al cual hemos conectado el LED, en este caso, el `Pin 11 - GPIO 17`.
 
-![](img/node-gpio.png)
+![](img/node-gpio.jpg)
 
 A continuación añadimos 2 nodos `inject` de la categoría de entrada. Uno de estos nodos tendrá establecido el valor `true` y el otro el valor `false`.
 
-![](img/node-inject.png)
+![](img/node-inject.jpg)
 
 Por último solamente nos queda unir los conectores y cargar el código haciendo clic en el botón `Deploy` situado en la parte superior derecha de Node-RED. A continuación, podemos hacer clic sobre el icono `true` o `false` y veremos como se enciende y apaga nuestro LED a través de los pines GPIO de nuestra Raspberry Pi.
 
-![](img/led-node.png)
+![](img/led-node.jpg)
 
 
 

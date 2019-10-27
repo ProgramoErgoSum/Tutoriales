@@ -1,6 +1,6 @@
 ## Introducción
 
-En este tutorial aprenderás a **conectarte de forma remota a través de una Red Privada Virtual (VPN)** para acceder a tu red o equipos desde fuera de tu casa.
+En este tutorial aprenderás a conectarte de forma remota a través de una Red Privada Virtual (VPN) para acceder a tu red o equipos desde fuera de tu casa.
 
 ### Antes de empezar
 
@@ -18,11 +18,11 @@ Vas a necesitar los siguientes componentes:
 
 Una conexión VPN lo que te permite es crear una red local sin necesidad de que sus integrantes estén físicamente conectados entre sí, sino a través de Internet. Dicho de otro modo, imagina que tienes un cable imaginario conectado a tu teléfono móvil y conectado a tu router aunque estés a cientos o miles de kilómetros.
 
-![](img/vpn.png)
+![](img/vpn.jpg "Virtual Private Network")
 
 Cuando te conectas a una conexión VPN, tu tráfico de red sigue yendo desde tu dispositivo a tu proveedor de Internet. La conexión está cifrada para aseguridad la conexión y los datos.
 
-Por un lado vamos a contar con el **Servidor de VPN instalado en tu Raspberry Pi** y el **Cliente de VPN instalado en tu dispositivo móvil o PC**. Ambos compartirán un fichero cifrado y con contraseña, de tal manera que solamente tú podrás acceder desde el cliente al servidor.
+Por un lado vamos a contar con el Servidor de VPN instalado en tu Raspberry Pi y el Cliente de VPN instalado en tu dispositivo móvil o PC. Ambos compartirán un fichero cifrado y con contraseña, de tal manera que solamente tú podrás acceder desde el cliente al servidor.
 
 
 
@@ -40,19 +40,19 @@ pi@raspberrypi:~ $ curl -L https://install.pivpn.io | bash
 
 Según se vaya descargando e instalando nos irá pidiendo datos de configuración básicos. De todas las pantallas que aparecerán en el instalador de OpenVPN, marcamos las opciones que vienen por defecto. Una vez finalizado el proceso de instalación nos aparecerá el siguiente pasos que debemos realizar, pero antes, reiniciamos el sistema.
 
-![](img/s-1.png)
+![](img/s-1.jpg)
 
 Recuerda fijar una dirección que esté fuera del rango de direcciones DHCP del router.
 
-![](img/s-2.png)
+![](img/s-2.jpg)
 
 El protocolo UDP es útil para aplicaciones que necesitan transmisión rápida y efectiva de datos sin comprobación de errores.
 
-![](img/s-3.png)
+![](img/s-3.jpg)
 
 Seleccionamos una encriptación segura.
 
-![](img/s-4.png)
+![](img/s-4.jpg)
 
 Con el comando "pivpn add" creamos los ficheros de perfiles de los clientes. Es decir, si queremos acceder desde un PC, creremos un perfil para ese PC y desde el mismo PC se importará en el OpenVPN como cliente. Realizaremos lo mismo para cada dispositivo que queramos tener, además cada cliente podrá tener una clave distinta de acceso.
 
@@ -67,7 +67,7 @@ Si nos fijamos, en nuestro caso hemos creado el usuario que compartiremos con el
 
 En nuestro caso se han creado los ficheros de claves para un portatil y un móvil. Así podemos tenerlos controlados y habilitarlos o cancelarlos según nos interese.
 
-![](img/key.png)
+![](img/key.jpg)
 
 
 
@@ -91,7 +91,7 @@ Incoorporamos el fichero `*.ovpn` e introducimos la contraseña del usuario crea
 
 Ya solamente nos faltará abrir el puerto seleccionado en el paso anterior en nuestro router para que se permita el acceso desde el exterior. En nuestro caso hemos seleccionado el puerto que viene por defecto al instalar OpenVPN con la dirección IP de nuestra Raspberry Pi.
 
-![](img/router.png)
+![](img/router.jpg "Puertos del router")
 
 
 

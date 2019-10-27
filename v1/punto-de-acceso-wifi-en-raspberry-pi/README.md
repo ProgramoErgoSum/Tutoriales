@@ -19,7 +19,7 @@ Vas a necesitar los siguientes componentes:
 
 Un punto de acceso WiFi es un dispositivo que crea una red de área local inalámbrica (WLAN). Un punto de acceso se conecta a un red local de un router por cable Ethernet y proyecta una señal WiFi en otra red local. Esto es útil cuando queremos conectar más dispositivos a una red local, cuando queremos proteger el acceso a ciertos dispositivos, etc.
 
-![](img/hotspot.png)
+![](img/hotspot.jpg "Punto de acceso")
 
 
 
@@ -58,7 +58,7 @@ Con el instalador se creará la configuración básica y tras finalizar la insta
 
 Para la configuración de RaspAp deberás acceder a la dirección web `localhost` e introducir el usuario `admin` y password `secret` definidos en la configuración inicial. 
 
-![](img/raspap-webgui.png)
+![](img/raspap-webgui.jpg "Configurar RaspAp Webgui")
 
 
 

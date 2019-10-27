@@ -76,7 +76,12 @@ if __name__ == '__main__':
 
 Una vez copiado el código en tu editor y ejecutado verás que aparece una ventana con unas determinadas dimensiones, título, color de fondo. Si observas en las primeras líneas del código, y modificas dicho parámetros, tendrás una ventana diferente. ¡Pruébalo!
 
-### Escenario
+
+
+<br />
+
+
+## Escenario
 
 Hasta ahora, cuando ejecutamos nuestro videojuego aparece una ventana con el fondo de color blanco, porque le estamos diciendo dentro del bucle while que fije el color al color de la constante WHITE, blanco en este caso (formato RGB). Sin embargo, también se pueden añadir imágenes de fondo. Para ello tenemos que seguir los pasos de importar la imagen y establecerla en la posición deseada mediante coordenadas.
 
@@ -98,7 +103,13 @@ Observa que la carga de la imagen se realiza dentro de la función principal y a
 
 ![](img/escenario.jpg "Escenario")
 
-### Personaje principal
+
+
+<br />
+
+
+
+## Personaje principal
 
 Para importar un personaje e interactuar sobre él deberemos proceder de la siguiente manera. En primer lugar se importa la imagen del sprite y se declaran las coordenadas de su posición. (En cursos más avanzados veremos como es conveniente crear una clase para el objeto).
 

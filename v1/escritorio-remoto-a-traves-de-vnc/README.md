@@ -22,7 +22,7 @@ Es recomendable acceder a los siguientes tutoriales:
 
 Virtual Network Computing (VNC) es un programa de escritorio remoto de software libre basado en una estructura cliente-servidor que permite tomar el control del ordenador servidor remotamente a través de un ordenador cliente.
 
-![](img/vnc.jpg)
+![](img/vnc.jpg "Virtual Network Computing")
 
 
 
@@ -36,7 +36,7 @@ La conexión por VNC en Raspbian viene deshabilitada por defecto, con lo cual, l
 
 - **Desde el entorno gráfico**: Accedemos al menú `Inicio > Preferencias > Raspberry Pi Configuración` y una vez en la ventana de configuración, sobre la pestaña `Interfaces` habilitamos la opción `VNC`. A continuación guardamos y ya está habilitado el acceso por VNC.
 
-![](img/vnc-grafico.jpg)
+![](img/vnc-grafico.jpg "VNC Desde el entorno gráfico")
 
 - **Desde la terminal**: Accedemos a la terminal e introducimos el comando `sudo raspi-config`. Seleccionamos la opción de `Interfaces`, a continuación la opcción de `VNC` y por último la opción de `Habilitar`. Guardamos y ya está habilitado el acceso por VNC.
 
@@ -44,7 +44,7 @@ La conexión por VNC en Raspbian viene deshabilitada por defecto, con lo cual, l
 pi@raspberrypi:~ $ sudo raspi-config
 ```
 
-![](img/vnc-terminal.jpg)
+![](img/vnc-terminal.jpg "VNC Desde la terminal")
 
 
 
@@ -54,11 +54,11 @@ pi@raspberrypi:~ $ sudo raspi-config
 
 ## Instalar VNC Viewer
 
-Una vez habilitada la conexión, deberemos descargar en otro PC el cliente para VNC (**VNC Viewer**) desde la propia <a target="_blank" href="https://www.realvnc.com/en/connect/download/viewer/">web del fabricante</a>. Este programa es multiplataforma para distitntos sistemas operativos.
+Una vez habilitada la conexión, deberemos descargar en otro PC el cliente para VNC (VNC Viewer) desde la propia web del [fabricante](https://www.realvnc.com/en/connect/download/viewer). Este programa es multiplataforma para distitntos sistemas operativos.
 
 Una vez descargado, lo instalamos y al abrirlo observaremos una ventana donde tendremos que introducir la dirección IP de la Raspberry Pi a la cual queremos conectar.
 
-![](img/vnc-cliente.jpg)
+![](img/vnc-cliente.jpg "Instalar VNC Viewer")
 
 
 

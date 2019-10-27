@@ -4,7 +4,7 @@ En este curso aprenderás los conceptos necesarios para empezar a programar vide
 
 El módulo de PyGame para Python viene instalado por defecto en la versión de Raspbian para Raspberry Pi. No obstante si dispones de otro sistema operativo, puedes acceder a la web del proyecto para instalarlo y continuar con el resto de lecciones del curso.
 
-![](img/python-pygame.png)
+![](img/python-pygame.jpg "Python PyGame")
 
 
 
@@ -16,7 +16,7 @@ El módulo de PyGame para Python viene instalado por defecto en la versión de R
 
 PyGame es un módulo del lenguaje de programación Python que permiten la creación de videojuegos en dos dimensiones de una manera sencilla. Mediante PyGame podemos utilizar sprites (objetos), cargar y mostrar imágenes en diferentes formatos, sonidos, etc. Además, al ser un módulo destinado a la programación de videojuegos se puede monitorizar el teclado o joystick de una manera bastante sencilla.
 
-![](img/videojuego-en-pygame.png)
+![](img/videojuego-en-pygame.jpg "Videojuego en PyGame")
 
 El módulo de PyGame para Python viene instalado por defecto en la versión de Raspbian para Raspberry Pi. No obstante si dispones de otro sistema operativo, puedes acceder a la web del proyecto para instalarlo y continuar con el resto de lecciones del curso.
 
@@ -30,7 +30,7 @@ El módulo de PyGame para Python viene instalado por defecto en la versión de R
 
 Siempre que se empieza a programar un videojuego se suele utilizar una plantilla predefinida con las instrucciones básicas o esenciales. La idea es no escribir el código básico cuando se puede reutilizar.
 
-![](img/ciclo-del-videojuego.png)
+![](img/ciclo-del-videojuego.jpg "Ciclo de un videojuego")
 
 Todo videojuego consta de 3 partes principales que se suelen declarar dentro de la función principal main():
 
@@ -96,7 +96,7 @@ def main():
 
 Observa que la carga de la imagen se realiza dentro de la función principal y antes del bucle while. Sin embargo, dentro del bucle while establecemos sobre la pantalla y en las coordenadas (0, 0) la imagen. Recuerda que las coordenadas (0, 0) en PyGame se sitúan en la esquina superior izquierda.
 
-![](img/escenario.png)
+![](img/escenario.jpg "Escenario")
 
 ### Personaje principal
 
@@ -136,4 +136,4 @@ def main():
 
 Una vez programado, observa como al presionar las diferentes teclas de movimiento tu personaje se moverá de una posición a otra. Puedes probar a modificar las coordenadas para crear el videojuego que más te guste.
 
-![](img/personaje-principal.png)
+![](img/personaje-principal.jpg "Personaje principal")

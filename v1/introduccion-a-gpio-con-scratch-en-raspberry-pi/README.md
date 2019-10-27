@@ -5,7 +5,7 @@ En este curso aprenderás qué son y cómo utilizar los pines GPIO de tu Raspber
 En el tutorial no se va a explicar el lenguaje de programación por bloques con Scratch ya que tenemos una categoría de cursos de programación con Scratch en esta misma plataforma.
 Pines GPIO con Scratch
 
-![](img/pines-gpio-con-scratch.png)
+![](img/pines-gpio-con-scratch.jpg "GPIO con Scratch")
 
 
 
@@ -17,7 +17,7 @@ Pines GPIO con Scratch
 
 General Purpose Input Output (GPIO) es un sistema de entrada y salida de propósito general, es decir, consta de una serie de pines o conexiones que se pueden usar como entradas o salidas para múltiples usos. Estos pines están incluidos en todos los modelos de Raspberry Pi aunque con diferencias.
 
-![](img/pines-gpio.png)
+![](img/pines-gpio.jpg "Pines GPIO")
 
 Hay que tener en cuenta que dependiendo del modelo de la Raspberry Pi encontramos una cantidad de pines diferentes, por ejemplo, en la versión 1 de Raspberry Pi se tienen 26 pines GPIO mientras que a partir de la versión 2 de Raspberry Pi el número de pines aumentó a 40. Sin embargo la compatibilidad es total, puesto que los 26 primeros pines mantienen su función original.
 
@@ -36,7 +36,7 @@ Como podéis observar, el número de pines pasó de 26 a 40 para tener más disp
 
 > Todos los pines son de tipo "unbuffered", es decir, no disponen de buffers de protección y puedes dañar la placa con un mal uso.
 
-![](img/pines-gpio-rpi-2.png)
+![](img/pines-gpio-rpi-2.jpg "Pines GPIO Raspberry Pi 2")
 
 Existen 2 formas de numerar los pines de la Raspberry Pi, en modo GPIO o en modo BCM.
 
@@ -45,7 +45,7 @@ Existen 2 formas de numerar los pines de la Raspberry Pi, en modo GPIO o en modo
 
 Por este mismo motivo podéis encontrar 2 nomenclaturas a la hora de realizar las prácticas de electrónica con Raspberry Pi, cuando nos refiramos al modo GPIO o al modo BCM. A continuación mostramos una tabla de equivalencias.
 
-![](img/esquema-pines-gpio.png)
+![](img/esquema-pines-gpio.jpg "Esquema pines GPIO")
 
 De los pines GPIO disponibles, hay una serie de pines con capacidad de PWM (como volveremos más adelante). Sin ambargo no se dispone de ningún convertidor de analógico a digital. Esto quiere decir que para medir valores de sensores analógicos necesitaremos utilizar un convertidor externo o un Arduino en la mayoría de los casos.
 
@@ -71,7 +71,7 @@ Como se explica en los cursos de programación con Scratch de esta misma platafo
 
 > Scratch permite crear fácilmente historias interactivas propias, animaciones, juegos, grabar sonidos y realizar creaciones artísticas e incluso conectarse con los pines GPIO en su versión para Raspberry Pi.
 
-![](img/scratch-para-raspberry-pi.png)
+![](img/scratch-para-raspberry-pi.jpg "Scratch para Raspberry Pi")
 
 ### ¿Cómo conectar Scratch con GPIO en Raspberry Pi?
 
@@ -83,7 +83,7 @@ Lo primero que tienes que hacer es iniciar Scratch (situado en el menú de lengu
 
 Una vez añadida la extensión ya podrás empezar a programar los pines GPIO de tu Raspberry Pi.
 
-![](img/scratch-mas-bloques.png)
+![](img/scratch-mas-bloques.jpg "Más bloques")
 
 
 
@@ -101,7 +101,7 @@ En esta lección se va a programar y construir un led intermitente que parpadea 
 
 A continuación, añadimos el bucle con las instrucciones de encender y apagar el pin GPIO deseado. En esta práctica vamos a utilizar el pin GPIO número 4 (situado en la posición número 7 de la placa).
 
-![](img/scratch-intermitente.png)
+![](img/scratch-intermitente.jpg "Intermitente")
 
 En nuestro caso tenemos un led de color rojo, que según la ficha técnica el fabricante nos asegura que funciona a una tensión o voltaje de 2,1V y admite una corriente máxima de 20mA. También sabemos de la lección anterior que los pines GPIO ofrecen una tensión de 3,3V y una intensidad de entre 3mA (suficiente para encender el led). De estos datos tenemos que:
 
@@ -115,7 +115,7 @@ La Ley de Ohm establece que la caída de voltaje de un elemento del circuito es 
 
 Por último, fijándonos en la tabla de los pines GPIO de nuestra Raspberry Pi, conectamos al cátodo de nuestro led el pin de masa (GND) y al ánodo del led el pin que hemos activado en la programación con Scratch, el pin GPIO 4 (pin número 7 de nuestra placa).
 
-![](img/esquema-electrico-intermitente.png)
+![](img/esquema-electrico-intermitente.jpg "Esquema eléctrico")
 
 ### Advertencias
 
@@ -141,7 +141,7 @@ En este caso vamos a realizar la programación sencilla del semáforo sin utiliz
 
 Además, para visualizar el estado del semáforo en la pantalla de Scratch vamos a crearle 3 disfraces para cada posición del semáforo.
 
-![](img/semaforo-en-scratch.png)
+![](img/semaforo-en-scratch.jpg "Semáforo")
 
 En nuestro caso tenemos un led de color rojo, que según la ficha técnica el fabricante nos asegura que funciona a una tensión o voltaje de 2,1V y admite una corriente máxima de 20mA. También sabemos de la lección anterior que los pines GPIO ofrecen una tensión de 3,3V y una intensidad de entre 3mA (suficiente para encender el led). De estos datos tenemos que:
 
@@ -155,7 +155,7 @@ La Ley de Ohm establece que la caída de voltaje de un elemento del circuito es 
 
 Por último, procedemos a construir el semáforo sobre la placa de prototipado y los conectamos a los pines GPIO de nuestra Raspberry Pi como los hemos programado.
 
-![](img/esquema-electrico-semaforo.png)
+![](img/esquema-electrico-semaforo.jpg "Esquema eléctrico")
 
 ### Advertencias
 
@@ -179,7 +179,7 @@ En esta lección se va a programar y construir un pulsador. Para ello abrimos el
 
 En este caso vamos a realizar la programación similar a la primera lección del intermitente añadiéndole el pulsador. El led lo vamos a conectar en el pin GPIO 4 mientras que la entrada del pulsador se conectará al pin GPIO número 2 de nuestra placa de Raspberry Pi.
 
-![](img/pulsador-en-scratch.png)
+![](img/pulsador-en-scratch.jpg "Pulsador")
 
 En nuestro caso tenemos un led de color rojo, que según la ficha técnica el fabricante nos asegura que funciona a una tensión o voltaje de 2,1V y admite una corriente máxima de 20mA. También sabemos de la lección anterior que los pines GPIO ofrecen una tensión de 3,3V y una intensidad de entre 3mA (suficiente para encender el led). De estos datos tenemos que:
 
@@ -193,7 +193,7 @@ La Ley de Ohm establece que la caída de voltaje de un elemento del circuito es 
 
 Por último, procedemos a construir el pulsador sobre la placa de prototipado y los conectamos a los pines GPIO de nuestra Raspberry Pi como los hemos programado. En este caso vamos a utilizar el pin físico número 3 que equivale al GPIO 2.
 
-![](img/esquema-electrico-pulsador.png)
+![](img/esquema-electrico-pulsador.jpg "Esquema eléctrico")
 
 ### Advertencias
 
@@ -217,23 +217,21 @@ En las siguientes prácticas vamos a necesitar utilizar salidas analógicas. Pue
 
 La modulación por ancho de pulsos o PWM (pulse-width modulation) de una señal es una técnica en la que se modifica el ciclo de trabajo de una señal periódica para controlar la cantidad de energía que se envía, o dicho de otro modo, modificamos el tiempo de la señal para simular una señal analógica.
 
-![](img/pwm.png)
+![](img/pwm.jpg "Salidas PWM")
 
 ### PWM en Scratch 2 para Raspberry Pi
 
 En la versión "ba2f624-dirty" de Scratch en Raspbian para Raspberry Pi solamente se dispone de 2 bloques básicos para interactuar con los pines GPIO (como puedes ver en la siguiente imagen) y no podemos utilizar señales PWM (hasta el momento de grabar este tutorial). Estos bloques son los que se han utilizado en las lecciones anteriores para activar las salidas y entradas digitales.
 
-![](img/scratch-extension-defecto.png)
+![](img/scratch-extension-defecto.jpg "Extensión de Scratch")
 
 Para utilizar los bloques de señales PWM en Scratch, por ejemplo para utilizar servo motores, vamos a necesitar añadir una nueva extensión creada para Scratch 2.0.
 
-![](img/scratch-extension-s2pi.png)
+![](img/scratch-extension-s2pi.jpg "Scratch Extension S2pi")
 
 ### Extensión S2PI a Scratch 2.0
 
 En esta lección te explicamos cómo añadir una extensión a Scratch, en concreto la <a target="_blank" href="https://github.com/MrYsLab/s2-pi">extensión S2PI</a> para disponer de bloques PWM que utilizaremos para interactuar con los pines GPIO de nuestra Raspberry Pi.
-
-![](img/scratch-extension-s2pi.png)
 
 Suponemos que tienes instalado el sistema operativo Raspbian para Raspberry Pi y en la versión de Scratch 2.0 no te aparecen los bloques PWM. En ese caso, lo primero que debemos hacer es instalar la extensión a través del siguiente comando en la terminal.
 
@@ -251,6 +249,18 @@ pi@raspberrypi: ~ $ s2pi
 
 Una vez arrancado Scratch 2.0 tendremos que añadir la extensión situada en la ruta /home/pi/s2_pi.js en modo experimental como puedes ver en la siguiente imagen. Recuerda que para que aparezcan las opciones extendidas de Scratch debes hacer clic al mismo tiempo que pulsas la tecla SHIFT.
 
-![](img/anadir-extension.png)
+![](img/anadir-extension.jpg "Añadir extensión")
 
 ¡Recuerda! Cada vez que necesites utilizar la extensión deberás cargarla realizando los mismos pasos tras la instalación (habilitar e iniciar pigpiod, arrancar s2pi y cargar extensión experimental).
+
+
+
+<br />
+
+
+
+## Materiales
+
+- Intermitente con Scratch para Raspberry Pi `Intermitente.sb2`
+- Semáforo con Scratch para Raspberry Pi `Semáforo.sb2`
+- Pulsador con Scratch para Raspberry Pi `Pulsador.sb2`

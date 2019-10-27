@@ -28,9 +28,9 @@ NOOBS es el acrónimo de *New Out Of Box Software* y consiste en un instalador s
 
 ## Descargar Raspbian con NOOBs
 
-Para descargar la imagen del sistema operativo Raspbian accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/noobs/">descargas</a> desde la web oficial de Raspberry Pi y elegimos la versión que queremos instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
+Para descargar la imagen del sistema operativo Raspbian accederemos al apartado de [descargas](https://www.raspberrypi.org/downloads/noobs/) desde la web oficial de Raspberry Pi y elegimos la versión que queremos instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
 
-![](img/descarga.jpg)
+![](img/descarga.jpg "Descargar Raspbian con NOOBs")
 
 - `NOOBS`: Versión completa con entorno gráfico y programas recomendados.
 - `NOOBS Lite`: Versión reducida sin entorno gráfico (modo consola) para *usuarios experimentados*.
@@ -45,11 +45,11 @@ El archivo descargado vendrá con extensión `.zip` con lo cual deberemos tener 
 
 ## Instalar SD Card Formatter
 
-El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatear para eliminar el posible contenido así como para dejarla preparada con el sistema de archivos que utiliza Raspbian. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar el programa <a target="_blank" href="https://www.sdcard.org/downloads/index.html">SD Card Formatter</a> (recomendado por Raspberry Pi).
+El sistema operativo se instalará sobre una tarjeta SD que tenemos que formatear para eliminar el posible contenido así como para dejarla preparada con el sistema de archivos que utiliza Raspbian. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar el programa [SD Card Formatter](https://www.sdcard.org/downloads/index.html) (recomendado por Raspberry Pi).
 
 Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro lector de tarjetas, la seleccionamos y la formateamos. Este proceso tarda apenas unos segundos.
 
-![](img/sdcard-formatter.jpg)
+![](img/sdcard-formatter.jpg "Instalar SD Card Formatter")
 
 
 
@@ -61,15 +61,15 @@ Una vez descargado e instalado, insertamos la tarjeta SD en la ranura de nuestro
 
 Una vez descargada la imagen de Raspbian, la descomprimimos con un compresor de archivos `.zip` y copiamos todos los archivos de la carpeta descomprimida en el interior de la tarjeta SD formateada en el paso anterior.
 
-![](img/copiar.jpg)
+![](img/copiar.jpg "Copiar contenido")
 
-Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos seleccionando las opciones que nos ofrezca el asistente de instalación. Este proceso **suele tardar unos 20 minutos** aproximadamente.
+Una vez copiados todos los archivos, conectaremos nuestra Raspberry Pi e iremos seleccionando las opciones que nos ofrezca el asistente de instalación. Este proceso suele tardar unos 20 minutos aproximadamente.
 
-![](img/noobs.gif)
+![](img/noobs.gif "Instalación mediante NOOBs")
 
 Una vez finalizada la instalación arrancará el sistema operativo Raspbian como se muestra en la siguiente imagen.
 
-![](img/raspbian.jpg)
+![](img/raspbian.jpg "Sistema Operativo Raspbian")
 
 
 

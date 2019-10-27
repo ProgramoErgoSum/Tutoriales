@@ -11,7 +11,7 @@ Vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python" title="Aprende a programar en Python">Aprender a programar en Python</a>
+- [AprendeProgramando](https://www.aprendeprogramando.es/cursos-online/python) en Python
 
 
 
@@ -21,11 +21,11 @@ Es recomendable acceder a los siguientes tutoriales:
 
 ## Instalar Mu Editor
 
-<a target="_blank" href="https://codewith.mu/">Mu Editor</a> es un editor de Python muy sencillo para principantes de la programación que permite programar en MicroPython. [MicroPython](http://micropython.org/) es una versión reducida de Python 3 diseñada para funcionar en microcontroladores, como es el caso de la placa micro:bit.
+[Mu Editor](https://codewith.mu/) es un editor de Python muy sencillo para principantes de la programación que permite programar en MicroPython. [MicroPython](http://micropython.org/) es una versión reducida de Python 3 diseñada para funcionar en microcontroladores, como es el caso de la placa micro:bit.
 
 En primer lugar tenemos que habilitar el editor Mu desde `Inicio > Programas recomendados` y una vez instalado ya podemos acceder al editor desde el menú `Inicio > Programming > Mu`
 
-![](img/mu.jpg)
+![](img/mu.jpg "Instalar Mu Editor")
 
 
 
@@ -35,9 +35,9 @@ En primer lugar tenemos que habilitar el editor Mu desde `Inicio > Programas rec
 
 ## Micro:bit a Raspberry Pi
 
-<a target="_blank" href="https://microbit.org/es/">BBCs Micro:bit</a> es una pequeña placa de electrónica programable diseñada para aprender a programar de forma sencilla. Cuenta con diferentes sensores y actuadores con los que poder interactuar mediante programación. Y para programarla vamos a utilizar el editor Mu. 
+[BBCs Micro:bit](https://microbit.org/es/) es una pequeña placa de electrónica programable diseñada para aprender a programar de forma sencilla. Cuenta con diferentes sensores y actuadores con los que poder interactuar mediante programación. Y para programarla vamos a utilizar el editor Mu. 
 
-![](img/microbit.jpg)
+![](img/microbit.jpg "Micro:bit a Raspberry Pi")
 
 Para conectar la placa hacemos uso de cualquiera de los USB disponibles en la Raspberry Pi. Al conectarla aparecerá una ventana indicando que se ha introducido un dispositivo nuevo. Simplemente cancelamos la ventana haciendo clic en el botón `Cancelar`.
 
@@ -49,9 +49,9 @@ Para conectar la placa hacemos uso de cualquiera de los USB disponibles en la Ra
 
 ## Software Mu Editor
 
-Para programar nuestra placa Micro:bit, vamos a utilizar el lenguaje de programación MicroPython. <a target="_blank" href="http://micropython.org/">MicroPython</a> es una versión reducida de Python 3 diseñada para funcionar en microcontroladores, como es el caso de la placa micro:bit. Esto se consigue con el Editor Mu. Vamos a ver las partes del editor.
+Para programar nuestra placa Micro:bit, vamos a utilizar el lenguaje de programación MicroPython. [MicroPython](http://micropython.org/) es una versión reducida de Python 3 diseñada para funcionar en microcontroladores, como es el caso de la placa micro:bit. Esto se consigue con el Editor Mu. Vamos a ver las partes del editor.
 
-![](img/botones.jpg)
+![](img/botones.jpg "Software Mu Editor")
 
 - `New` abre un nuevo archivo.
 - `Load` abre un código existente.
@@ -77,7 +77,7 @@ from microbit import *
 display.scroll('Hola Mundo')
 ```
 
-![](img/hola-mundo.gif)
+![](img/hola-mundo.gif "¡Hola Mundo!")
 
 Otra opción consiste en mostrar una a una cada una de las letras de la frase `Hola Mundo` utilizando la función `show()`. Para hacer un retardo entre una letra y la siguiente utilizamos la función `sleep(500)` que hará un retardo de 500 milisegundos.
 

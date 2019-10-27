@@ -10,13 +10,13 @@ Para este tutorial vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- Aprender a programar en Python en <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende Programando</a>
+- Aprender a programar en Python en [AprendeProgramando](https://www.aprendeprogramando.es/cursos-online/python)
 
 ### Servidor Web con Flask
 
 Flask es un microframework creado para facilitar el desarrollo de aplicaciones web en Python. Es utilizado normalmente para construir servicios web como APIs REST o aplicaciones de contenido estático.
 
-![](img/flask.jpg)
+![](img/flask.jpg "Servidor Web con Flask")
 
 
 
@@ -26,7 +26,7 @@ Flask es un microframework creado para facilitar el desarrollo de aplicaciones w
 
 ## Instalar Flask
 
-> Antes de instalar cualquier software es conveniente actualizar la Raspberry Pi como se explica en el tutorial **Raspberry Pi - Raspbian - Update**
+> Antes de instalar cualquier software es conveniente actualizar la Raspberry Pi como se explica en el tutorial Raspberry Pi - Raspbian - Update
 
 Una vez actualizada instalamos el servidor de Flask para Python 3.
 
@@ -67,7 +67,7 @@ Como hemos dicho, Flask se utiliza para servicios o rutas, en este caso, hemos c
 URL: localhost:8000
 ```
 
-![](img/hola-mundo.jpg)
+![](img/hola-mundo.jpg "Hola Mundo")
 
 
 
@@ -113,7 +113,7 @@ if __name__ == '__main__':
 URL: localhost:8000
 ```
 
-![](img/template.jpg)
+![](img/template.jpg "Template")
 
 
 
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 URL: localhost:8000/quien-soy
 ```
 
-![](img/rutas.jpg)
+![](img/rutas.jpg "Rutas")
 
 
 
@@ -215,7 +215,7 @@ if __name__ == '__main__':
 URL: localhost:8000
 ```
 
-![](img/parametros.jpg)
+![](img/parametros.jpg "Paso de parámetros")
 
 
 

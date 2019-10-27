@@ -10,7 +10,6 @@ Para este tutorial vas a necesitar los siguientes componentes:
 
 Es recomendable acceder a los siguientes tutoriales:
 
-- [Aprender a programar en Python](https://www.aprendeprogramando.es/cursos-online/python)
 - Servidor Web en Flask
 
 
@@ -35,7 +34,7 @@ En este caso vamos a utilizar los pines GPIO.
 
 Vamos a realizar el encendido y apagado de un LED conectado al `Pin 11 - GPIO 17` de nuestra Raspberry Pi.
 
-![](img/led-fritzing.jpg)
+![](img/led-fritzing.jpg "Esquema fritzing")
 
 En la programación, añadimos la librería para controlar los pines GPIO así como el modo de pin. A continuación se crean dos entradas de URL o endpoints para encender y apagar dicho LED. Además mostramos un mensaje por la pantalla de la web.
 
@@ -70,7 +69,7 @@ URL: localhost:8000/on
 URL: localhost:8000/off
 ```
 
-![](img/on-off.jpg)
+![](img/on-off.jpg "On Off")
 
 
 
@@ -114,7 +113,7 @@ URL: localhost:8000/18/0
 URL: localhost:8000/18/1
 ```
 
-![](img/varios-leds.jpg)
+![](img/varios-leds.jpg "Varios LEDs")
 
 
 
@@ -210,7 +209,7 @@ if __name__ == '__main__':
 </html>
 ```
 
-![](img/optimizacion.jpg)
+![](img/optimizacion.jpg "Optimización")
 
 
 

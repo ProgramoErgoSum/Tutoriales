@@ -56,7 +56,7 @@ Writing JPEG image to 'image.jpg'.
 pi@raspberrypi:~ $ 
 ```
 
-![](img/fswebcam.jpg)
+![](img/fswebcam.jpg "Fswebcam")
 
 
 

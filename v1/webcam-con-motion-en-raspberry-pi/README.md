@@ -21,7 +21,7 @@ Es recomendable acceder a los siguientes tutoriales:
 
 ## Software Motion
 
-<a target="_blank" href="https://motion-project.github.io">Motion</a> es uno de los programas más populares para utilizar con webcams, cuya utilidad es la de detectar movimientos. De esta forma podemos grabar momentos en los cuales se ha detectado movimiento. 
+[Motion](https://motion-project.github.io) es uno de los programas más populares para utilizar con webcams, cuya utilidad es la de detectar movimientos. De esta forma podemos grabar momentos en los cuales se ha detectado movimiento. 
 
 
 
@@ -66,7 +66,7 @@ pi@raspberrypi:~ $ sudo service motion restart
 
 Para comprobar que se ha instalado correctamente, abrimos un navegador en la misma Raspberry Pi, accedemos a la dirección `localhost:8081` y se debe ver la webcam.
 
-![](img/motion.jpg)
+![](img/motion.jpg "Motion")
 
 
 
@@ -132,7 +132,7 @@ Volvemos a resetear el servicio con el comando `service motion restart` para que
 pi@raspberrypi:~ $ sudo service motion restart
 ```
 
-![](img/remoto.jpg)
+![](img/remoto.jpg "Acceso remoto")
 
 
 
@@ -156,7 +156,7 @@ output_pictures on
 target_dir /var/lib/motion
 ```
 
-![](img/capturas.jpg)
+![](img/capturas.jpg "Detectar movimientos")
 
 Recuerda que al cambiar parámetros del fichero de configuración deberás reiniciar el servicio motion con el comando `sudo service motion restart`.
 

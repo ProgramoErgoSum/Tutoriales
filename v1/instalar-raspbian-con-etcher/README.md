@@ -28,7 +28,7 @@ Una imagen es un archivo que contiene la estructura y los contenidos completos d
 
 ## Descargar imagen de Raspbian
 
-Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">descargas</a> y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
+Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accederemos al apartado de [descargas](https://www.raspberrypi.org/downloads/raspbian/) y elegimos la versión a instalar. El tiempo de descarga suele ser de 10 minutos aproximadamente dependiendo de la conexión a internet.
 
 ![](img/descarga.jpg)
 
@@ -44,9 +44,9 @@ Para descargar la imagen del sistema operativo Raspbian para Raspberry Pi accede
 
 ## Instalar Etcher
 
-La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa <a target="_blank" href="https://etcher.io">Etcher</a> (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
+La imagen del sistema operativo se instalará sobre una tarjeta SD. Por ello, mientras se descarga la imagen de Raspbian, vamos a descargar e instalar el programa [Etcher](https://etcher.io) (recomendado por Raspberry Pi) que utilizaremos para copiar la imagen de Raspbian en la tarjeta SD.
 
-![](img/etcher.jpg)
+![](img/etcher.jpg "Etcher")
 
 
 
@@ -60,7 +60,7 @@ Una vez descargada la imagen de Raspbian e instalado el programa Etcher, lo abri
 
 Una vez finalizado el proceso de copiado conectamos la tarjeta SD a la Raspberry Pi y al encenderla arrancará directamente el sistema operativo Raspbian.
 
-![](img/raspbian.jpg)
+![](img/raspbian.jpg "Clonar imagen Raspbian")
 
 
 

@@ -53,8 +53,6 @@ mc.postToChat("Hola Mundo")
 
 Una vez ejecutado el código anterior en la consola observarás una imagen similar a la siguiente donde aparece el mensaje introducido en el chat de Minecraft. Recuerda que si escribes el código en el fichero, deberás guardar y ejecutar el código para ver los resultados.
 
-![](img/hola-mundo.jpg "Hola Mundo")
-
 
 
 <br />

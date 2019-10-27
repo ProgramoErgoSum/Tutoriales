@@ -2,7 +2,7 @@
 
 Este curso online de introducción a la Terminal o Consola de Linux está destinado a todos aquellos usuarios que quieran adentrarse en el manejo de comandos para administrar un sistema operativo de tipo Unix. A lo largo de las siguientes lecciones aprenderás a utilizar los comandos más utilizados En el sistema operativo Raspbian para Raspberry Pi.
 
-![](img/terminal-raspbian.png)
+![](img/terminal-raspbian.jpg "Terminal de Raspbian")
 
 
 
@@ -16,7 +16,7 @@ Los sistemas operativos basados en Unix disponen de un intérprete de comandos u
 
 > La terminal o consola es una herramienta poderosa copaz de realizar tareas de forma más rápida que mediante la interfaz gráfica del sistema operativo.
 
-![](img/terminal-en-raspberry-pi.png)
+![](img/terminal-en-raspberry-pi.jpg "Terminal de Raspbian")
 
 Fijándonos en la terminal observamos la siguiente información que a continuación explicamos:
 

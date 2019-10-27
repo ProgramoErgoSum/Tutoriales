@@ -22,7 +22,7 @@ SD Card Copier (piclone) es la herramienta que integra el sistema operativo Rasp
 
 Para utilizar la aplicación deberás disponer de un hub USB de tarjetas SD.
 
-![](img/hub.jpg)
+![](img/hub.jpg "Hub USB de tarjetas SD")
 
 
 
@@ -38,13 +38,13 @@ Accedemos a la herramienta desde el entorno gráfico de Raspbian en `Inicio > Ac
 pi@raspberrypi:~ $ piclone
 ```
 
-![](img/sd-card-copier.jpg)
+![](img/sd-card-copier.jpg "SD Card Copier")
 
 Si nos fijamos en la imagen, debemos seleccionar el dispositivo desde donde queremos copiar (seleccionando la actual SD */dev/mmcblk0*) y hacia donde, en nuestro caso, un Hub USB utilizando una tarjeta SM en `/dev/sdd`.
 
-![](img/copy.jpg)
+![](img/copy.jpg "Copiar")
 
-El proceso suele tardar aproximadamente **20 minutos**, tiempo similar a la instalación por defecto de Raspbian, con la diferencia de ahorrarnos instalar los programas y configuraciones realizadas sobre nuestra Raspberry Pi.
+El proceso suele tardar aproximadamente 20 minutos, tiempo similar a la instalación por defecto de Raspbian, con la diferencia de ahorrarnos instalar los programas y configuraciones realizadas sobre nuestra Raspberry Pi.
 
 En resumen, Piclone es una gran herramienta si queremos tener una copia o respaldo de nuestra configuración preferida de Raspbian. De esta forma no tenemos que preocuparnos por hacer un mal uso del sistema operativo cuando estamos probando programas, ya que en caso de error podemos restaurar la copia de la tarjeta SD auxiliar sin necesidad de volver a instalar todos los programas que teníamos.
 

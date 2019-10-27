@@ -2,7 +2,7 @@
 
 El siguiente curso ha sido solicitado por varios de nuestros docentes con el fin de poder emular en un PC un sistema operativo de Raspberry PI, en este caso el Sistema Operativo Pixel. De esta forma podrás utilizar las ventajas educativas que ofrece una raspberry PI sin necesidad de disponer del hardware. Además te vamos a explicar qué es una máquina virtual para que puedas instalar diferentes sistemas operativos sin miedo a borrar información importante de tu ordenador.
 
-![](img/maquina-virtual-pixel.png)
+![](img/maquina-virtual-pixel.jpg "Máquina virtual Pixel")
 
 
 
@@ -22,19 +22,15 @@ Pi Improved Xwindows Environment Lightweight (Pixel) es un sistema operativo par
 
 Este sistema operativo es una versión de la distribución Debian de GNU/Linux diseñada para funcionar en ordenadores PC y Mac sin necesitar físicamente la Raspberry Pi. Incluye la suite ofimática LibreOffice, el navegador Chromium y otro software preinstalado. Puede ser una gran opción para aquellos equipos antiguos que no disponen de la suficiente potencia como para mover sistemas operativos más modernos.
 
-![](img/pixel.png)
+![](img/pixel.jpg "sistema Operativo Pixel")
 
 ### ¿Dónde descargo Pixel?
 
 Pixel se obtiene gratuitamente desde la página web de la Fundación Raspberry Pi y se encuentra en versión experimental, es decir, puedes encontrarte algún error al utilizarlo.
 
-Para continuar con el tutorial, deberás descargar la imagen del sistema operativo desde el siguiente enlace:
+Para continuar con el tutorial, deberás descargar la imagen del sistema operativo desde el [enlace](http://downloads.raspberrypi.org/pixel_x86/images/pixel_x86-2016-12-13/2016-12-13-pixel-x86-jessie.iso).
 
-<a target="_blank" href="http://downloads.raspberrypi.org/pixel_x86/images/pixel_x86-2016-12-13/2016-12-13-pixel-x86-jessie.iso">Descarga Pixel</a>
-
-También puedes descargar Pixel con Jessie, una versión mejorada que incluye Scratch 2.0 y Thonny (entorno de desarrollo para aprendizaje de Python).
-
-<a target="_blank" href="https://www.raspberrypi.org/downloads/raspberry-pi-desktop">Descarga Pixel con Jessie</a>
+También puedes descargar [Pixel con Jessie](https://www.raspberrypi.org/downloads/raspberry-pi-desktop), una versión mejorada que incluye Scratch 2.0 y Thonny (entorno de desarrollo para aprendizaje de Python).
 
 
 
@@ -54,9 +50,7 @@ En este caso vamos a utilizar VirtualBox que es una herramienta de virtualizaci�
 
 ### ¿Dónde descargo VirtualBox?
 
-VirtualBox se obtiene gratuitamente desde su página web. Para continuar con el tutorial deberás descargar e instalar el programa desde el siguiente enlace:
-
-<a target="_blank" href="https://www.virtualbox.org/wiki/Downloads">Descarga VirtualBox</a>
+VirtualBox se obtiene gratuitamente desde su página web. Para continuar con el tutorial deberás descargar e instalar el programa desde el [enlace](https://www.virtualbox.org/wiki/Downloads).
 
 
 

@@ -2,7 +2,7 @@
 
 Este tutorial de introducción a Raspberry Pi está destinado a todos aquellos usuarios que quieran introducirse en el mundo de la informática a través de este mini ordenador. A lo largo de las siguientes lecciones aprenderás a instalar y configurar el sistema operativo Raspian para Raspberry Pi desde cero. Además te mostraremos diferentes usos que puedes darle tanto a nivel particular como educativo.
 
-![](img/pc-con-raspberry-pi.jpg)
+![](img/pc-con-raspberry-pi.jpg "Introducción a Raspberry Pi")
 
 ### Antes de empezar
 
@@ -25,7 +25,7 @@ Vas a necesitar los siguientes componentes:
 
 Raspberry Pi es un mini ordenador de pequeñas dimensiones y precio destinado principalmente al desarrollo de pequeños prototipos y a estimular la enseñanza de las ciencias de la computación en los centros educativos. Desarrollado en hardware libre cuenta con sistemas operativos GNU/Linux como Raspbian aunque podemos encontrar otros sistemas operativos optimizados para el hardware de la Raspberry Pi.
 
-![](img/raspberry-pi.jpg)
+![](img/raspberry-pi.jpg "Raspberry Pi")
 
 ### Hardware de la Raspberry Pi
 
@@ -53,13 +53,13 @@ El software es open source siendo su sistema operativo oficial una versión adap
 
 > La fundación Raspberry Pi recomienda utilizar el sistema operativo Raspbian al estar optimizado para el hardware de la placa.
 
-![](img/software.jpg)
+![](img/software.jpg "Software para Raspberry Pi")
 
 ### ¿Qué Raspberry Pi es mejor?
 
 La respuesta en este caso es depende ya que existen muchos modelos de Raspberry Pi destinados a diferentes usos o proyectos. En vez de realizar la pregunta "cuál es mejor" deberíamos realizar la pregunta "qué necesito".
 
-![](img/comparativa-raspberry-pi.jpg)
+![](img/comparativa-raspberry-pi.jpg "Comparativa Raspberry Pi")
 
 **Raspberry Pi Zero**
 
@@ -81,7 +81,7 @@ Con características similares a la Raspberry Pi 2, en este destacada por su may
 
 Con características similares a la Raspberry Pi 3, la mayor diferencia es el procesador de 1.5GHz y RAM de 1GB a 4GB, así como la capacidad de manejar pantallas 4K a 60Hz.
 
-> Para más información sobre versiones y modelos puedes acceder a este <a target="_blank" href="https://es.wikipedia.org/wiki/Raspberry_Pi">enlace</a>.
+> Para más información sobre versiones y modelos puedes acceder a este [enlace](https://es.wikipedia.org/wiki/Raspberry_Pi).
 
 
 
@@ -98,14 +98,14 @@ Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una 
 - **Raspbian Pixel**: Versión completa con entorno gráfico de Raspbian, es decir, la versión de escritorio con menús, ventanas, iconos, fondos de pantalla, etc. utilizado por la mayoría de los usuarios como ordenador de sobremesa.
 - **Raspbian Lite**: Versión reducida sin entorno gráfico, es decir, la versión en modo consola sin gráficos. Esta opción generalmente es para usuarios avanzados con conocimientos de Linux que utilizan la Raspberry Pi como servidor.
 
-![](img/raspbian.jpg)
+![](img/raspbian.jpg "Sistema Operativo Raspbian")
 
 Para instalar el sistema operativo Raspbian, primero debemos acceder al apartado de descargas desde la web de la Fundación de Raspberry Pi y observaremos que aparecen dos formas diferentes de instalación, una mediante asistente y otra para expertos:
 
 - **Mediante NOOBS**: Instalación mediante asistente de instalación recomendada para usuarios generalmente poco expertos.
 - **Mediante una imagen del SO**: Instalación mediante la imagen del sistema operativo Raspbian para usuarios avanzados.
 
-![](img/descargar-raspbian.jpg)
+![](img/descargar-raspbian.jpg "Descargar raspbian")
 
 
 
@@ -123,7 +123,7 @@ NOOBS es el acrónimo de "New Out Of Box Software" y básicamente consiste en un
 
 NOOBS incluye también un método de edición rápida de configuración del nuevo sistema, un navegador web preinstalado y un modo de recuperación por línea de comandos a partir de una partición de rescate que se crea automáticamente.
 
-![](img/noobs.jpg)
+![](img/noobs.jpg "Raspbian NOOBs")
 
 
 
@@ -141,7 +141,7 @@ Una imagen es un archivo que contiene la estructura y los contenidos completos d
 
 Esto es útil cuando queremos que todos nuestros equipos dispongan de la misma configuración y con los mismos programas instalados, mismas carpetas, etc. Es muy común crear una imagen por defecto con la configuración deseada y guardarla como copia de seguridad, para con el tiempo, resetear nuestra Raspberry Pi ahorrando el tiempo de instalar y configurarla nuevamente.
 
-![](img/etcher.jpg)
+![](img/etcher.jpg "Etcher")
 
 
 

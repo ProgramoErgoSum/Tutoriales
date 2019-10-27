@@ -4,9 +4,9 @@ En este curso aprenderás a programar en Python utilizando la Raspberry Pi para 
 
 En el tutorial se va a explicar la versión de Python 3 (IDLE) que viene instalada por defecto en el sistema operativo de Raspbian para Raspberry Pi. No obstante, también podrás acceder al tutorial en caso de instalar Python en tu sistema operativo Windows, Linux o MAC.
 
-![](img/curso-de-programacion-en-python.png)
+![](img/curso-de-programacion-en-python.jpg "Programación en Python")
 
-> También puedes acceder a la plataforma <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">AprendeProgramando</a> para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.
+> También puedes acceder a la plataforma [AprendeProgramando](https://www.aprendeprogramando.es/cursos-online/python) para aprender a programar en Python a través de lecciones de teoría y ejercicios prácticos.
 
 
 
@@ -14,7 +14,7 @@ En el tutorial se va a explicar la versión de Python 3 (IDLE) que viene instala
 
 
 
-## ¿Qué es PYthon?
+## ¿Qué es Python?
 
 Python es un lenguaje de programación interpretado de tipado dinámico cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma y disponible en varias plataformas.
 
@@ -28,7 +28,7 @@ Dicho de otro modo, Python es:
 
 Al hacer uso de una sintaxis legible, la curva de aprendizaje es muy rápida, siendo de este modo, uno de los mejores lenguajes para iniciarse en la programación en modo texto. Por ejemplo, si comparamos un código escrito en lenguaje de programación por bloques como Blockly y el mismo código lo escribimos utilizando Python, vemos las similitudes en las instrucciones.
 
-![](img/blockly-vs-python.png)
+![](img/blockly-vs-python.jpg "Blockly vs. Python")
 
 Python contiene una gran cantidad de librerías, tipos de datos y funciones incorporadas en el propio lenguaje, que ayudan a realizar muchas tareas comunes sin necesidad de tener que programarlas desde cero. Pero lo que realmente le hace brillante utilizándolo en una Raspberry Pi, es por la capacidad de poder utilizar los pines GPIO para conectar el mundo físico con el mundo digital.
 
@@ -52,13 +52,13 @@ Si tenemos instalado el sistema operativo Raspbian en nuestra Raspberry Pi, enco
 
 Además, en este tutorial se utilizará el programa Thony Python IDE que viene instalado por defecto en la instalación de Raspbian. No obstante, puedes utilizar el IDE que más te gusta ya que no es importante para aprender a programar.
 
-![](img/software-de-python.png)
+![](img/software-de-python.jpg "Python")
 
 Suponiendo que tienes instalado Python 3 (IDLE) y Thonny Python IDE, accede a los programas y escribe tu primer programa. Recuerda que este programa mostrará por la pantalla el texto "Hola Mundo". Puedes probar a cambiar el texto y volver a ejecutar el código para ver que escribe lo que se le espera.
 
-![](img/hola-mundo-idle.png)
+![](img/hola-mundo-idle.jpg "Hola Mundo en idle")
 
-![](img/hola-mundo-thonny.png)
+![](img/hola-mundo-thonny.jpg "Hola Mundo en Thonny Python")
 
 ### ¿Qué es un tipo de dato?
 
@@ -77,7 +77,7 @@ Python es un lenguaje de programación de propósito general y por ello contiene
 - Tuplas: En muchos sentidos una tupla es como una lista, contienen una colección de objetos de distinto tipo. Es decir, son lista de elementos de diferente tipo de dato.
 - Diccionario: Un diccionario se compone de dos partes: una llave (palabra) y un valor (definición). Las llaves siempre deben ser un tipo de dato primitivo. La llave y el valor se separan con : y sus elementos con comas.
 
-![](img/tipos-de-datos.png)
+![](img/tipos-de-datos.jpg "Tipos de datos")
 
 ### ¿Qué es una variable?
 
@@ -87,7 +87,7 @@ Se define como variable al espacio reservado de la memoria que almacena un dato,
 
 Ejecutando el siguiente ejemplo, podemos observar que la variable llamada "variable" va tomando diferentes valores en las diferentes líneas del programa. En la última línea se imprime el valor, que al ser dinámico obtiene el valor de las dos anteriores instrucciones, es decir, 79 + 1.
 
-![](img/variables-en-python.png)
+![](img/variables-en-python.jpg "Variables en Python")
 
 ### ¿Qué es una lista?
 
@@ -97,7 +97,7 @@ En Python también disponemos de listas (colección de elementos), que aunque no
 
 En el siguiente ejemplo vamos a crear una lista llamada "lista" que va a contener los caracteres "a, b, c, d y e". Este mismo ejemplo se podría reutilizar para crear una lista de personas, lista de objetos, e incluso una lista donde aparezcan diferentes tipos de datos (números, palabras, e incluso otras listas).
 
-![](img/listas-en-python.png)
+![](img/listas-en-python.jpg "Listas en Python")
 
 ### ¿Cómo solicitar datos por teclado?
 
@@ -107,7 +107,7 @@ Sabiendo lo que se explicaba en la anterior lección referente al tipo de datos,
 
 Al procedimiento de transformar una variable primitiva a otro tipo se le conoce como casting.
 
-![](img/solicitar-datos.png)
+![](img/solicitar-datos.jpg "Solicitar datos")
 
 ### ¿Cómo imprimir datos por pantalla?
 
@@ -119,7 +119,7 @@ Pero además, podemos llegar más lejos, en el caso de querer mostrar un texto y
 
 > Al procedimiento de transformar una variable primitiva a otro tipo se le conoce como casting.
 
-![](img/imprimir-datos.png)
+![](img/imprimir-datos.jpg "Imprimir datos")
 
 
 
@@ -139,17 +139,17 @@ A diferencia que en otros lenguajes de programación, en Python no existen llave
 
 Otra diferencia de Python sobre el resto de lenguajes de programación, es que en Python no existen los famosos ";" que se sitúan al final de las instrucciones. Sin embargo, en el caso de las condiciones, bucles o funciones debemos añadir ":" para indicarle al interprete que empieza una estructura.
 
-![](img/blockly-vs-python-vs-javascript.png)
+![](img/blockly-vs-python-vs-javascript.jpg "Blockly vs. Python vs. JavaScript")
 
 El ejemplo más sencillo lo podemos ver cuando queremos determinar si un número introducido por el usuario es positivo o negativo. La comparación en este caso consiste en comprobar si el número es mayor o igual que 0 para el caso del positivo, y en caso contrario será negativo.
 
-![](img/condiciones-simples.png)
+![](img/condiciones-simples.jpg "Condiciones simples")
 
 Sin embargo, en ciertas ocasiones queremos comprobar varios casos, como en este ejemplo, donde queremos saber si un número es positivo, negativo o neutro. A este tipo de condición se le conoce como condición anidada ya que aparece una condición en el interior de otra indentadas correctamente.
 
 Es importante no caer en la tentación de anidar condiciones tras condiciones, podríamos caer en lo que se conoce como código espagueti.
 
-![](img/condiciones-anidadas.png)
+![](img/condiciones-anidadas.jpg "Condiciones anidadas")
 
 
 
@@ -171,12 +171,12 @@ Un bucle for es un bucle que repite el bloque de instrucciones un número preder
 
 En los siguientes ejemplos se aprecia como podemos mostrar una determinada cantidad de iteraciones mediante la función range, o por el contrario como podemos recorrer uina lista para mostrar todos los elementos de la misma.
 
-![](img/bucle-for.png)
+![](img/bucle-for.jpg "Bucle for")
 
-![](img/bucle-foreach.png)
+![](img/bucle-foreach.jpg "Bucle foreach")
 
 ### Bucle (while)
 
 Un bucle while permite repetir la ejecución de un grupo de instrucciones mientras se cumpla una condición (es decir, mientras la condición tenga el valor True). En este tipo de bucle hay que llevar cuidado porque es muy común caer en bucles infinitos cuando se empieza a programar. Es decir, fíjate como en el bucle de la siguiente imagen, decrementamos el valor de número en cada iteración.
 
-![](img/bucle-while.png)
+![](img/bucle-while.jpg "Bucle while")

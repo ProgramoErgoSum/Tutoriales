@@ -4,7 +4,7 @@ En este curso aprenderás el concepto de Programación Orientada o Objetos en Py
 
 Para continuar con las lecciones del tutorial te recomendamos utilizar el sistema de Raspbian para Raspberry Pi. No obstante puedes instalar en tu sistema operativo (Linux, PC o MAC) el entorno de programación Python 3 para seguir las lecciones de este curso.
 
-![](img/python-turtle-graphics.png)
+![](img/python-turtle-graphics.jpg "Python Turtle Graphics")
 
 
 
@@ -16,7 +16,7 @@ Para continuar con las lecciones del tutorial te recomendamos utilizar el sistem
 
 Python Turtle Graphics es un módulo de programación gráfica para Python utilizado como método para enseñar programación a través de coordenadas relativas. El objeto a programar recibe el nombre de tortuga, elemento clave en el lenguaje de programación Logo, creado por Seymour Papert a finales de la década de los 60.
 
-![](img/ejemplos-turtle-graphics.png)
+![](img/ejemplos-turtle-graphics.jpg "Ejemplos de Python Turtle Graphics")
 
 A la tortuga es un objeto al cual se le puede dar órdenes de movimiento (avance, retroceso, giro, etc). Moviendo adecuadamente la tortuga se puede conseguir dibujar todo tipo de figuras. La tortuga dispone de 3 atributos esenciales:
 
@@ -28,7 +28,7 @@ A la tortuga es un objeto al cual se le puede dar órdenes de movimiento (avance
 
 El escenario donde se dibujan las figuras tiene un tamaño dinámico, es decir, se puede variar redimensionando la ventana. Sin embargo es importante recordar que el centro de coordenadas lo tenemos en el centro de la imagen. En este caso puedes ver como aparecen 4 cuadrantes y tendremos que calcular las posiciones de los mismos a la hora de dibujar figuras.
 
-![](img/escenario-turtle.png)
+![](img/escenario-turtle.jpg "Escenario")
 
 ### ¿Qué es la Programación Orientada a Objetos?
 
@@ -36,7 +36,7 @@ Como explicamos en el curso de Introducción a Python de esta misma plataforma, 
 
 Dicho de otra forma, supongamos que tenemos una tortuga a la cual le damos diferentes órdenes (avance, retroceso, giro, etc). El objeto sería la tortuga, y los métodos de la tortuga son las órdenes.
 
-![](img/poo-turtle-graphics.png)
+![](img/poo-turtle-graphics.jpg "Programación Orientada a Objetos")
 
 
 
@@ -54,7 +54,7 @@ A continuación creamos la ventana donde se dibujará la figura. Más adelante v
 
 Por último, vamos a crear nuestro primer ejemplo que mostrará un cuadrado.
 
-![](img/cuadrado-turtle-graphics.png)
+![](img/cuadrado-turtle-graphics.jpg "Mi primera figura")
 
 A continuación puedes copiar y pegar el código en tu editor Thonny Python y ejecutar el código para ver como se dibuja un cuadro en la ventana.
 
@@ -75,7 +75,7 @@ Como podrás imaginar el módulo de Turtle tiene decenas de funciones para anima
 
 > Puedes acceder a la API desde la web del proyecto.
 
-![](img/funciones-principales-turtle.png)
+![](img/funciones-principales-turtle.jpg "Funciones")
 
 Las funciones principales para animar nuestro objeto son las siguientes:
 
@@ -101,7 +101,7 @@ Por último, puede que queramos cambiar el color o tamaño del lápiz. En ese ca
 
 Un ejemplo de figuras geométricas podría crearse con las siguientes funciones (triángulo, cuadrado y pentágono) como mostramos en el siguiente código. Fíjate que cada función realiza la función que tiene que realizar y se invoca desde las últimas líneas del ejemplo.
 
-![](img/figuras-geometricas.png)
+![](img/figuras-geometricas.jpg "Figuras geométricas")
 
 ```python
 import turtle
@@ -133,7 +133,7 @@ Sin embargo fíjate el mismo código podría simplificarse quedando mucho más c
 
 El código para dicha función quedaría de la siguiente forma:
 
-![](img/figuras-geometricas.png)
+![](img/figuras-geometricas.jpg "Figuras geométricas")
 
 ```python
 import turtle

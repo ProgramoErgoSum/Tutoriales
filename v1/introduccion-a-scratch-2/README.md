@@ -35,6 +35,8 @@ Un estudio realizado a niños de infantil programando con Logo, demostró que ob
 
 ## Acceder a Scratch
 
+En el siguiente vídeo se enseña cómo registrarse en la web de [scratch.mit.edu](https://scratch.mit.edu/) a través de un navegador cualquiera y la opción de descargar la versión escritorio para programar sin conexión a internet. Además verás lo fácil que es acceder al panel de control para ver los proyectos realizados, estudios, amigos y seguidores, etc.
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/BMU-UlPf_0A" allowfullscreen></iframe>
 </div>

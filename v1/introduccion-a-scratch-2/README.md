@@ -41,22 +41,16 @@ En el siguiente vídeo se enseña cómo registrarse en la web de [scratch.mit.ed
   <iframe src="//www.youtube.com/embed/BMU-UlPf_0A" allowfullscreen></iframe>
 </div>
 
-Para empezar a utilizar Scratch tan sólo tendrás que elegir entre una de las dos modalidades del programa:
+### Scratch online vs. Scratch Desktop
 
-- Ejecutarlo en su versión online a través de un navegador desde la página web oficial. Si eliges la modalidad online es muy recomendable registrarse para poder guardar los proyectos que crees y tenerlos siempre a tu disposición.
-- Descarga e instala Scratch en su versión offline, para ejecutarlo sin necesidad de navegador ni de conexión a Internet.
+Para empezar a utilizar Scratch tendrás que elegir entre la versión online o la versión de escritorio, ambas idénticas en cuanto a diseño y estructura:
 
-Tanto la versión online como la offline son multiplataforma y están pensadas para ejecutarse en sistemas Windows, Mac OS X y Linux. Las diferencias entre una y otra son inexistentes en cuanto a la programación, aunque si que nos gusta destacar como principal característica la opción de compartir proyectos o utilizar la mochila de objetos en la versión online.
+- Versión online. [Accede a Scratch online](https://scratch.mit.edu) a través de un navegador. Es recomendable registrarse para poder guardar los proyectos que crees y tenerlos siempre a tu disposición.
+- Versión de escritorio. [Descarga Scratch Desktop](https://scratch.mit.edu/download/) e instala en tu propio equipo para programar sin conexión a internet. En estos momentos solamente está disponible para usuarios de Windows o MAC.
 
-![](img/scratch-online-vs-offline.jpg "Scratch online vs. offline")
+> Desde la web de Scratch informan que Scratch Desktop no es compatible con Linux y están trabajando para que en un futuro pueda funcionar en sistemas operativos de Linux.
 
-### ¿Qué es un algoritmo?
-
-En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algoritmo es un conjunto prescrito de instrucciones o reglas bien definidas, ordenadas y finitas que permite realizar una actividad mediante pasos sucesivos que no generen dudas a quien deba realizar dicha actividad.
-
-Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.
-
-> El estudio de la complejidad de un algoritmo respecto a sus recursos es conocido como algoritmia, la cual no es tratada en este curso.
+![](img/scratch-online-vs-offline.jpg "Scratch online vs. Scratch Desktop")
 
 
 

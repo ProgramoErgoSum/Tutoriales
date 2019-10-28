@@ -1,4 +1,4 @@
-## <i class="mdi mdi-school-outline"></i> Introducción
+## Introducción
 
 En este tutorial de iniciación a la programación con Scratch 2.0 aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
 

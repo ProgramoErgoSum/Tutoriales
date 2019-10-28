@@ -1,6 +1,8 @@
 ## Introducción
 
-En este tutorial de iniciación a la programación con Scratch 2.0 aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch. 
+En este tutorial de **iniciación a la programación con Scratch 2.0** aprenderás a utilizar la herramienta de Scratch 2.0 para programar diferentes tipos de videojuegos y animaciones mediante el lenguaje de programación por bloques de Scratch.
+
+> ¡IMPORTANTE! En este tutorial se explica la versión de Scratch 2.0
 
 ![](img/preview.gif "Juego de persigue con Scratch 2.0")
 
@@ -45,12 +47,12 @@ En el siguiente vídeo se enseña cómo registrarse en la web de [scratch.mit.ed
 
 Para empezar a utilizar Scratch tendrás que elegir entre la versión online o la versión de escritorio, ambas idénticas en cuanto a diseño y estructura:
 
+![](img/scratch-online-vs-offline.jpg "Scratch 2.0 online vs. Scratch 2.0 Desktop")
+
 - Versión online. [Accede a Scratch online](https://scratch.mit.edu) a través de un navegador. Es recomendable registrarse para poder guardar los proyectos que crees y tenerlos siempre a tu disposición.
 - Versión de escritorio. [Descarga Scratch Desktop](https://scratch.mit.edu/download/) e instala en tu propio equipo para programar sin conexión a internet. En estos momentos solamente está disponible para usuarios de Windows o MAC.
 
 > Desde la web de Scratch informan que Scratch Desktop no es compatible con Linux y están trabajando para que en un futuro pueda funcionar en sistemas operativos de Linux.
-
-![](img/scratch-online-vs-offline.jpg "Scratch online vs. Scratch Desktop")
 
 
 
@@ -60,9 +62,13 @@ Para empezar a utilizar Scratch tendrás que elegir entre la versión online o l
 
 ## Pantalla de Scratch
 
+En el siguiente vídeo se enseña cómo añadir diferentes objetos o sprites al videojuego, así como modificarlos mediante el editor de dibujo en el apartado de disfraces.
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/7P8q1ltd44Y" allowfullscreen></iframe>
 </div>
+
+### Interfaz o pantalla
 
 Sobre la izquierda tenemos el escenario o lugar donde podemos ver el resultado de nuestro programa. En este ejemplo el gato es un objetivo sobre el cual podemos trabajar, se trata en realidad del logo de Scratch que aparece por defecto.
 
@@ -92,11 +98,13 @@ Por último, sobre la derecha veremos el área de trabajo o programación donde 
 
 ## Primeros pasos
 
+En el siguiente vídeo se explica la categorización de bloques de programación, es decir, cómo están organizados por categorías según funcionalidad y colores. 
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/vMVBzr_rh2g" allowfullscreen></iframe>
 </div>
 
-En esta lección aprenderás los principales bloques del lenguaje de programación por bloques de Scratch.
+Los principales bloques del lenguaje de programación por bloques de Scratch, son:
 
 - Bloque de movimiento: grupo de instrucciones caracterizadas por el color azul obscuro. Te permitirá mover al objeto en x-y, girar tanto en sentido de reloj como sentido contrario, cambiar la dirección del objeto derecha-izquierda, arriba, abajo. Posicionar al objeto en el lugar deseado. Rebotar al objeto si se toca algún borde, etc.
 - Bloque de apariencia: grupo de instrucciones caracterizadas por el color morado. Te permitirá cambiar de disfraz al objeto, decir algún comentario, aplicar algún efecto digital a la imagen de disfraz, cambiar tamaño, mostrar, esconder, enviar al frente, enviar hacia atrás n capas.
@@ -115,15 +123,15 @@ En esta lección aprenderás los principales bloques del lenguaje de programaci�
 
 ## Juego de persigue
 
+En el siguiente vídeo se realiza un ejemplo básico del juego de persigue para que el alumno empiece a entender el concepto de la programación por bloques paso a paso
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/XQMv802TZQQ" allowfullscreen></iframe>
 </div>
 
-En esta lección vamos a realizar un ejemplo básico del juego de persigue para que el alumno empiece a entender el concepto de la programación por bloques paso a paso. Este sencillo videojuego es el primero que recomendamos para entender el funcionamiento del lenguaje de programación por bloques de Scratch.
+Este sencillo videojuego es el primero que recomendamos para entender el funcionamiento del lenguaje de programación por bloques de Scratch. Para ello vamos a utilizar los bloques de movimiento para interactuar con el personaje principal del videojuego. Por otro lado, crearemos un algoritmo para que el segundo personaje se mueva siguiendo a nuestro personaje.
 
 ![](img/preview.gif "Videojuego de persigue")
-
-Para ello vamos a utilizar los bloques de movimiento para interactuar con el personaje principal del videojuego. Por otro lado, crearemos un algoritmo para que el segundo personaje se mueva siguiendo a nuestro personaje.
 
 Recuerda que estamos utilizando los bloques de movimiento que permiten mover al objeto en las direcciones "x" e "y" del escenario, girar tanto en sentido de reloj como sentido contrario, cambiar la dirección del objeto derecha, izquierda, arriba y abajo, posicionar al objeto en el lugar deseado, rebotar al objeto si se toca algún borde, etc.
 
@@ -135,12 +143,22 @@ Recuerda que estamos utilizando los bloques de movimiento que permiten mover al 
 
 ## Datos en Scratch
 
+En este último vídeo enseñamos qué son las variables en programación y cómo podemos utilizarlas.
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/anzXUgb6rkU" allowfullscreen></iframe>
 </div>
 
-En esta lección vamos a aprender a utilizar las variables. Las variables son una especie de cajas en las que podemos almacenar cualquier tipo de dato o valor, como pueden ser los puntos de un personaje, el número de vidas, etc.
+Las variables son una especie de cajas en las que podemos almacenar cualquier tipo de dato o valor, como pueden ser los puntos de un personaje, el número de vidas, etc.
 
 En este videojuego vamos a crear la variable "Velocidad" encargada de almacenar la velocidad de uno de nuestros personajes. Sin embargo, podríamos crear varios tipos de variables para almacenar otros datos.
 
-> ¿Te atreves a crear una variable para contar el número de veces que capturamos al pez pequeño?
+
+
+<br />
+
+
+
+## Materiales
+
+- VideoJuego de persigue `Persigue.sb2`

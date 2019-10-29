@@ -19,7 +19,7 @@ Vas a necesitar los siguientes componentes:
 
 La placa Micro:bit consta de 2 botones en la parte frontal situados a la izquierda y a la derecha bajo las serigrafías `A` y `B` respectivamente.
 
-> Puedes acceder a la referencia de los <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/buttons.html">botones</a> desde la documentación oficial de Micro:bit.
+> Puedes acceder a la referencia de los [botones](https://microbit-micropython.readthedocs.io/en/latest/tutorials/buttons.html) desde la documentación oficial de Micro:bit.
 
 
 

@@ -42,7 +42,7 @@ Redondeamos el resultado obtenido a un valor de resistencia por encima de su res
 
 > Mirando en la tabla de resistencias, la resistencia de 220Ω corresponde al color rojo-rojo-marrón.
 
-![](img/esquema-electrico.gif)
+![](img/esquema-electrico.jpg)
 
 
 
@@ -62,7 +62,7 @@ Una vez configurado crearemos un objeto que se moverá a lo largo y ancho del es
 
 Además, como lo que queremos es encender un LED de la placa de Arduino, la programación es muy sencilla, ya que solamente deberemos comprobar si el objeto está tocando el punto de mira para activar la salida digital de arduino, o desactivarla en caso contrario.
 
-![](img/programacion-mblock.gif)
+![](img/programacion-mblock.jpg)
 
 Una vez programado el objeto principal, recuerda que puedes duplicar el mismo objeto para crear cuantos objetos como LEDs quieras encender. Lo único que tendrás que cambiar será el número del pin de Arduino que quieres encender.
 

@@ -21,7 +21,13 @@ En cuando a su programación y control, se puede programar utilizando lenguajes 
 - Comunicación: Bluetooth, Serie inalámbrica 2.4G
 - Dimensiones: 17 x 13 x 9 cm (montado)
 
-### Hardware de mBot
+
+
+<br />
+
+
+
+## Hardware de mBot
 
 El robot mBot utiliza la placa mCore la cual tiene un micro controlador ATmega238 con 4 puertos con conexiones RJ25 para conectar sensores. También integra un interruptor de encendido, un botón, dos LEDs RGB, un buzzer, un sensor de luminosidad y un sensor de infrarrojos.
 
@@ -70,13 +76,13 @@ Una vez hemos instalado mBlock, debemos conectar nuestro robot mBot utilizando e
 - Programar y depurar el código
 - Subir el programa a Arduino
 
-**Conectar el puerto USB**
+### Conectar el puerto USB
 
 En primer lugar debemos elegir el puerto correcto al cual hemos conectado nuestro robot mBot. En caso de dudas puedes acceder a las herramientas administrativas de tu equipo (Windows, Linux o MAC) y comprobar el puerto utilizado.
 
 ![](img/conectar-puerto.jpg "Conectar puerto")
 
-**Elegir la placa y extensiones del robot utilizado**
+### Elegir la placa y extensiones del robot utilizado
 
 mBlock puede ser utilizado con diferentes robots educativos o placas como Arduino. En este caso deberemos seleccionar la placa del robot mBot y la extensión de MakeBlock. A continuación observaremos como aparecen los bloques de programación para este robot en el apartado de robots en la pestaña de programas.
 
@@ -84,19 +90,19 @@ mBlock puede ser utilizado con diferentes robots educativos o placas como Arduin
 
 ![](img/elegir-extension.jpg "Elegir extensión")
 
-**Actualizar firmware**
+### Actualizar firmware
 
 Según se va programando el código a ejecutar en el robot, podemos ir probándolo sin necesidad de desconectarlo del puerto USB. En este caso, deberemos cargar el firmware en el robot para que el código y variables utilizadas en el programa puedan ser mostradas desde el robot hacia la pantalla de mBlock.
 
 ![](img/actualizar-firmware.jpg "Actualizar firmware")
 
-**Hola Mundo**
+### Hola Mundo
 
 Puedes probar a programar el siguiente código y pulsar la bandera verde. Si todo ha salido correcto deberás escuchar un sonido en el robot mBot. De esta forma ya habremos configurado y conectado correctamente nuestro robot mBot con el software mBlock.
 
 ![](img/hola-mundo.jpg "Hola Mundo")
 
-**Subir el código programado al robot**
+### Subir el código programado al robot
 
 Una vez hemos programado nuestro robot y queremos que funcione de forma autónoma sin necesidad de estar conectado a nuestro PC mediante el cable USB, deberemos cargar el código en nuestro robot. Para ello deberemos acceder al apartado de Arduino y subir el código al robot. El proceso suele tardar unos segundos.
 

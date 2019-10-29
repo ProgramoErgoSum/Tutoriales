@@ -1,4 +1,4 @@
-## Videojuego de tocado con mBlock y Arduino
+## Introducción
 
 En este curso aprenderás a programar un sencillo videojuego utilizando el lenguaje de programación por bloques de mBlock (basado en Scratch 2.0) e interactuar con las salidas digitales de una placa de Arduino. El juego consiste en tocar los diferentes objetos de colores y encender los LEDs correspondientes.
 

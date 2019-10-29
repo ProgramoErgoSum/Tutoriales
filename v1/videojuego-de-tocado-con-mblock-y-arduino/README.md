@@ -1,4 +1,4 @@
-## Videojuego de Arkanoid con mBlock y Arduino
+## Introducción
 
 En este curso aprenderás a programar el videojuego de Arkanoid en su versión para Arduino. De esta forma la nave se desplazará con ayuda de un potenciómetro y cada vez que se toque un bloque del escenario se apagará y encenderá el color del LED correspondiente al bloque tocado.
 

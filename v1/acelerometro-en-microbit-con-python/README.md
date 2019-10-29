@@ -23,7 +23,7 @@ Micro:bit dispone de un acelerómetro de 3 ejes:
 - Y: Inclinación hacia adelante y hacia atrás.
 - Z: Movimiento arriba y abajo.
 
-> Puedes acceder a la referencia del <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html">acelerómetro</a> desde la documentación oficial de Micro:bit.
+> Puedes acceder a la referencia del [acelerómetro](https://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html) desde la documentación oficial de Micro:bit.
 
 
 

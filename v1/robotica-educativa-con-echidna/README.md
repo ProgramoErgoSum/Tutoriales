@@ -20,7 +20,7 @@ En la placa Echidna Shield podemos encontrar los siguientes sensores y actuadore
 - 8 entradas y la tierra para crear circuitos tipo Makey Makey
 - 1 salida de sonido a través de jack de audio de 3,5 mm
 
-![](img/esquema-echidna-shield.jpg)
+![](img/esquema-echidna-shield.jpg "Esquema Echidna Shield")
 
 Desde la propia web del proyecto encontrarás una guía abierta, que se irá modificando a la par que se vaya creando materiales de las diferentes actividades y aportaciones de la comunidad.
 

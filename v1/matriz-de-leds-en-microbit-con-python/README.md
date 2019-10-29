@@ -19,7 +19,7 @@ Vas a necesitar los siguientes componentes:
 
 MicroPython viene con muchas imágenes integradas para mostrar en la pantalla aunque probablemente queramos construir las nuestras propias.
 
-> Puedes ver todas las <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html">imágenes predefinidas</a> desde la documentación oficial de Micro:bit.
+> Puedes ver todas las [imágenes predefinidas](https://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html) desde la documentación oficial de Micro:bit.
 
 Como en todos los programas, en primer lugar tenemos que importar la librería microbit mediante la instrucción `from microbit import *`. Esta instrucción nos permite utilizar todas las funciones para programar la placa Micro:bit. La siguiente instrucción será la función `display.show()` que muestra por pantalla lo que aparezca dentro de los paréntesis. En este caso, como queremos mostrar una imagen predefinida, añadimos el objeto imagen seguido del tipo o atributo de imagen que queremos añadir:
 

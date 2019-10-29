@@ -19,7 +19,7 @@ Vas a necesitar los siguientes componentes:
 
 Micro:bit tiene 25 conexiones externas llamadas *pines*. Dispone de cinco pines de conexión conectados con los agujeros en la placa marcados con las serigrafías *0, 1, 2, 3V y GND*, y 20 pequeños pines que se pueden utilizar al conectar micro:bit a un conector de borde.
 
-> Puedes acceder a la referencia de los <a target="_blank" href="https://microbit-micropython.readthedocs.io/en/latest/pin.html">pines</a> desde la documentación oficial de Micro:bit.
+> Puedes acceder a la referencia de los [pines](https://microbit-micropython.readthedocs.io/en/latest/pin.html) desde la documentación oficial de Micro:bit.
 
 ![](img/pines.jpg)
 

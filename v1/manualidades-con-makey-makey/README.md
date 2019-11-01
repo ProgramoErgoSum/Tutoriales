@@ -11,9 +11,18 @@ En este tutorial mostramos algunos ejemplos del uso de la Makey-Makey en el aula
 
 
 
-## MAteriales conductores
+## Materiales conductores
 
 Uno de los principales usos que se le puede dar a las placas Makey-Makey es mediante proyectos de manualidades. Por ejemplo, sabemos que la placa funciona cerrando los circuitos y en otros tutoriales se ha utilizado papel de aluminio u otros componentes conductores.
+
+Ejemplos de materiales conductores:
+
+- Fruta
+- Agua
+- Cobre
+- Pintura de grafito
+- Láminas de aluminio
+- Plastilina conductora
 
 
 

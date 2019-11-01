@@ -53,9 +53,29 @@ El funcionamiento para cualquier aplicación sería el siguiente:
 
 
 
+## Ejemplos
+
+A continuación puedes encontrar unos cuantos ejemplos para utilizar con la placa Makey-Makey.
+
+- El cuerpo humano con Makey-Makey y Scratch. [Tutorial](https://www.programoergosum.es/tutoriales/el-cuerpo-humano-con-makey-makey-y-scratch/)
+- Juego de operación con Makey-Makey y Scratch. [Tutorial](https://www.programoergosum.es/tutoriales/juego-de-operacion-con-makey-makey-y-scratch/)
+- Lunch: O Say Can You See. [YouTube](https://www.youtube.com/watch?v=Uiq0DTCJvy0)
+- J.Views playing Teardrop with vegetables. [YouTube](https://www.youtube.com/watch?v=xvmTav3SYsc)
+- Interactive Dance Floor. [YouTube](https://www.youtube.com/watch?v=JoWNiOQLtpU)
+
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/wkPt9MYqDW0" allowfullscreen></iframe>
+</div>
+
+
+
+<br />
+
+
+
 ## Materiales
 
-A continuación puedes encontrar una gran cantidad de recursos educativos para utilizar con las placas Makey-Makey o compatibles.
+A continuación puedes encontrar una gran cantidad de recursos educativos para utilizar utilizando Makey-Makey.
 
 - Aplicaciones en la web de [Makey-Makey](https://makeymakey.com/blogs/how-to-instructions/apps-for-plug-and-play)
 - Proyectos en [Instructables](https://www.instructables.com/makeymakey)

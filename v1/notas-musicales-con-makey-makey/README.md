@@ -11,7 +11,7 @@ En este tutorial mostramos diferentes recursos educativos utilizando la placa Ma
 
 
 
-## Música con Makey-Makey
+## Aplicaciones de música
 
 Podemos encontrar diferentes herramientas o aplicaciones para conectar nuestra placa Makey-Makey a un piano virtual de nuestro ordenador o portátil. Un ejemplo de ellas son las siguientes aplicaciones:
 

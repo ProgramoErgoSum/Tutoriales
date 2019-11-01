@@ -2,7 +2,7 @@
 
 En este tutorial mostramos diferentes recursos educativos utilizando la placa Makey-Makey con diferentes actividades musicales.
 
-![](img/notas-musicales.jpg "Notas musicales con Makey-Makey")
+![](img/musica.jpg "Música con Makey-Makey")
 
 
 
@@ -54,7 +54,7 @@ Otra opción en la que nos encontramos es la de realizar el piano con diferentes
 En el [tutorial](https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/content/piano.html) del Centro Aragonés de Tecnologías para la Educación (Catedu), han puesto en práctica la placa Makey-Makey para simular un piano humano.
 
 <div class="iframe">
-  <iframe src="//www.youtube.com/embed/fR9pcI-Te5s" allowfullscreen></iframe>
+  <iframe src="//www.youtube.com/embed/M-8-JaDIgY0" allowfullscreen></iframe>
 </div>
 
 

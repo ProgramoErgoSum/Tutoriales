@@ -15,11 +15,9 @@ En este tutorial aprenderás a conectar una placa Makey-Makey con Scratch en su 
 
 Si estás utilizando la versión de Scratch 3.0 podrás comprobar que trae una extensión que permite crear códigos y controles para tus aplicaciones y videojuegos con Scratch e implementarlos con Makey Makey.
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/M-8-JaDIgY0" allowfullscreen></iframe>
-</div>
+![](img/extension.jpg "Extensión para Scratch 3.0")
 
-> En las anteriores versiones de Scratch se podía conseguir el mismo resultado pero con esta nueva extensión utilizamos menos bloques de programación.
+En las anteriores versiones de Scratch se podía conseguir el mismo resultado pero con esta nueva extensión utilizamos menos bloques de programación.
 
 
 

@@ -2,13 +2,19 @@
 
 Makey-Makey es una placa similar al mando de una videoconsola que simula ser un teclado o ratón, lo que permite enviar órdenes al ordenador al que se encuentre conectado. En vez de pulsar los botones lo que hacemos es cerrar el circuito mediante contactos o pinzas de cocodrilo y de esta forma se simula haber pulsado un botón. De esta forma, nos permite convertir cualquier objeto de la vida diaria en un teclado, un mando o un ratón.
 
-![](img/makey-makey.jpg "Makey-Makey")
+![](img/makey-makey.jpg "Kit Makey-Makey")
 
-La idea de Makey-Makey es sencilla y simple. Consiste en una placa de electrónica basada en Arduino con un cable USB que se conecta al ordenador como un periférico más, de manera que da la oportunidad a sus usuarios de buscar y encontrar nuevas maneras de interactuar con sus ordenadores, potenciando la creatividad, la imaginación y el diseño.
+La idea de Makey-Makey es sencilla y simple. Consiste en una placa de electrónica con un cable USB que se conecta al ordenador como un periférico más, de manera que da la oportunidad a sus usuarios de buscar y encontrar nuevas maneras de interactuar con sus ordenadores, potenciando la creatividad, la imaginación y el diseño.
 
-### MaKey MaKey - An Invention Kit for Everyone
 
-Haz un piano con plátanos, juega al Mario, deja que tu gato se haga una foto. Este es un kit de invención simple para principiantes y expertos. En el video podemos ver a Jay y a Eric haciendo algunas muy divertidas demostraciones del uso de este kit, el cual obviamente está limitado por la imaginación del usuario.
+
+<br />
+
+
+
+## An Invention Kit for Everyone
+
+Haz un piano con plátanos, juega al Mario, deja que tu gato se haga una foto. Este es un kit de invención simple para principiantes y expertos. En el video podemos ver a Jay y a Eric, miembros del Media Lab del MIT, haciendo algunas divertidas demostraciones del uso de este kit.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/rfQqh7iCcOU" allowfullscreen></iframe>
@@ -20,41 +26,26 @@ Haz un piano con plátanos, juega al Mario, deja que tu gato se haga una foto. E
 
 
 
-## Notas musicales
+## Primeros pasos
 
-Un ejercicio muy común cuando se utiliza la Makey-Makey en el aula consiste en crear un piano para componer diferentes canciones con los alumnos. Para ello se pueden utilizar diferentes recortes con papel de aluminio para componer las notas musicales. Cada recorte de aluminio se conectará a las diferentes teclas de la placa Makey-Makey (mediante pinzas de cocodrilo y latiguillos en la parte trasera de la placa).
+Si nos fijamos en la placa Makey-MAkey, podemos observar como en la parte delantera podemos conectar los cables cocodrilo con los cursores, el espacio o el botón izquierdo del ratón, mientras que en la parte trasera, utilizaremos los cables jumper para conectarlos con algunas teclas comunes del teclado (A, W, S, D, etc.) y algunos movimientos del ratón. De esta forma, podemos conectar esta placa a casi cualquier material consiguiendo que este se convierta en una especie de teclado o mando para un videojuego.
 
-En cuanto al software del piano tenemos varias opciones; podemos utilizar aplicaciones disponibles en modo online, o programarlas nosotros mismos utilizando el lenguaje de programación por bloques de Scratch.
+![](img/placa-makey-makey.jpg "Parte delantera y parte trasera de Makey-Makey")
 
-![](img/notas-musicales.jpg "Notas musicales")
+Lo único que tenemos que hacer es conectar la placa al USB de nuestro ordenador o portátil y de forma automática debe reconocerse como un periférico más... es decir, no hay que instalar ningún tipo de software.
 
-Otra opción en la que nos encontramos es la de realizar el piano con diferentes objetos conductores de electricidad, como el caso de la fruta o verdura. De esta forma podemos darnos cuenta que existen diferentes objetos conductores y se puede explicar la conductividad en el aula. Por ejemplo, ¿sabías que la piel del Kiwi es menos conductor que la piel del plátano?
+Para comprobar que nuestra placa funciona, simplemente debemos tocar la placa sobre la parte inferior serigrafiada con la palabra `EARTH` y el tecla `space`. Observaremos como se enciende una luz roja junto a la placa.
 
-![](img/frutas-musicales.jpg "Frutas musicales")
+![](img/primeros-pasos.jpg "Primeros pasos con Makey-Makey")
 
-También puedes encontrar muchos vídeos en YouTube que muestran el gran ingenio de personas de todo el mundo. Este es uno de los mejores vídeos musicales que hemos visto.
+El funcionamiento para cualquier aplicación sería el siguiente:
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/fR9pcI-Te5s" allowfullscreen></iframe>
-</div>
+1. Conectar la placa al pc mediante el cable USB
+2. Conectar un cable cocodrilo a la tierra
+3. Conectar un cable cocodrilo o jumper a cualquiera de las conexiones delanteras o traseras
+4. Cerrar el circuito con cualquier material conductor
 
-
-
-<br />
-
-
-
-## Mando de videojuego
-
-Otra de las opciones para utilizar la placa de Makey-Makey, es mediante la construcción de un mando para jugar a diferentes videojuegos ya que utilizaremos las flechas del teclado y otros botones más que pueden ser personalizados en algunos de los videojuegos online.
-
-También está la opción de que los alumnos programen sus propios videojuegos utilizando el lenguaje de programación por bloques de Scratch y se conviertan en creadores y programadores.
-
-![](img/mando-de-videojuego.jpg "Mando de videojuego")
-
-Otras elaboraciones más sofisticadas consisten en utilizar plastilina conductora, lápiz de grafito u otras herramientas y utensilios conductores que encontremos en casa o en el aula, para poder jugar a videojuegos online o programados por nosotros mismos en Scratch u otros lenguajes de programación.
-
-![](img/mando-de-videojuego-makey-makey.jpg "Mando de videojuego")
+![](img/funcionamiento.jpg "Funcionamiento de Makey-Makey")
 
 
 
@@ -62,30 +53,10 @@ Otras elaboraciones más sofisticadas consisten en utilizar plastilina conductor
 
 
 
-## Plastilina conductora
+## Materiales
 
-Uno de los usos que se le puede dar a las placas Makey-Makey es mediante proyectos de manualidades. Por ejemplo, sabemos que la placa funciona cerrando los circuitos y en anteriores lecciones del curso vimos cómo utilizar el papel de aluminio u otros componentes conductores.
+A continuación puedes encontrar una gran cantidad de recursos educativos para utilizar con las placas Makey-Makey o compatibles.
 
-Otra de las opciones consiste en elaborar plastilina conductora (o adquirirla en la tienda) para conectarla a nuestra placa Makey-Makey. Si optas por la primera opción, los niños se convertirán en creadores de sus propios productos de una forma muy divertida.
-
-![](img/plastilina-conductora.jpg "Plastilina conductora")
-
-En el siguiente vídeo de YouTube puedes ver un ejemplo de cómo elaborar plastilina casera tipo Play Doh SIN cocinar. También puedes utilizar otras técnicas o métodos siempre y cuando la plastilina sea conductora.
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/9PUXt-1OSSw" allowfullscreen></iframe>
-</div>
-
-
-
-<br />
-
-
-
-## Juego de Simón
-
-El juego de simón consiste en reproducir una secuencia de colores en el mismo orden que se generan. De esta forma, utilizando junto a la placa Makey-Makey, nuestros alumnos pueden ver el juego más divertido.
-
-En algunos talleres hemos reproducido este juego en modo colaborativo, de tal forma que unidos de las manos cada uno se encargaba de una secuencia o color para que les resulte más sencillo el juego.
-
-![](img/juego-de-simon.jpg "Juego de Simón")
+- Aplicaciones en la web de [Makey-Makey](https://makeymakey.com/blogs/how-to-instructions/apps-for-plug-and-play)
+- Proyectos en [Instructables](https://www.instructables.com/makeymakey)
+- Recursos maker en [Thingiverse](https://www.thingiverse.com/tag:makey)

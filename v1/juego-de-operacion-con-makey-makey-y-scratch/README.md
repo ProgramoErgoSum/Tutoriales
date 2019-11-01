@@ -68,7 +68,7 @@ En este último video te enseñamos un sencillo ejemplo sobre el funcionamiento 
 
 ## Otros proyectos
 
-En el blog [EduTiTac](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric) de nuestro amigo [Daniel Turienzo](https://twitter.com/danielturienzo) han puesto en práctica una aplicación similar siguiendo este tutorial para diseñar y construir un videojuego tecnológico al que llamaron "Peligro eléctrico".
+En el blog [EduTicTac](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric) de nuestro amigo [Daniel Turienzo](https://twitter.com/danielturienzo) han puesto en práctica una aplicación similar siguiendo este tutorial para diseñar y construir un videojuego tecnológico al que llamaron "Peligro eléctrico".
 
 - Centro de estudios: IES Montserrat Roig de Elx.
 - Profesor responsable: Daniel Turienzo.

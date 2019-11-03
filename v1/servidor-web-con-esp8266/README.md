@@ -1,4 +1,4 @@
-# Servidor Web con ESP8266
+## Introducción
 
 En este tutorial vamos a crear un **servidor web para controlar los pines GPIO** de nuestra placa NodeMCU ESP8266 y encender o apagar un LED desde el móvil conectado a la WiFi.
 
@@ -25,7 +25,7 @@ De forma similar que cuando nos conectábamos a una red WiFi, nuestro router nos
 
 En este caso, vamos a conectar nuestra ESP8266 a la IP *192.168.0.200* en la cual nos hemos asegurado que está disponible y fuera de la asignación automática por nuestro router.
 
-![](img/ipfija.png)
+![](img/ipfija.jpg)
 
 Lo que tenemos que añadir a nuestro código, es la asignación de dicha dirección IP, Puerta de Enalce (dirección IP del Router) y Máscara de Red.
 
@@ -76,7 +76,7 @@ Una vez tenemos fija la dirección IP, vamos a añadir la funcionalidad para com
 
 En primer lugar vamos a mostrar un código HTML con el mensaje *Hola Mundo*.
 
-![](img/hola-mundo.png)
+![](img/hola-mundo.jpg)
 
 En primer lugar necesitamos añadir la librería `ESP8266WebServer.h` encargada de controlar el servidor web. Además, le indicamos que el puerto por el cual se va a escuchar es el puerto 80.
 
@@ -135,7 +135,7 @@ void handleRoot() {
 
 Sabiendo que podemos acceder a la raiz del servidor web, podemos imaginar que podríamos acceder a diferentes direcciones, como `/led-1/encender` o `/led-1/apagar`.
 
-![](img/leds.png)
+![](img/leds.jpg)
 
 En este caso hemos creado 2 endpoints o urls más `/14/on` y `/14/off` y cada una de ellas está asignada a una función `encender()` y `apagar()` respectivamente. En ambas funciones hemos añadido el pin GPIO 14 con la función de encender o apagar dicho pin.
 

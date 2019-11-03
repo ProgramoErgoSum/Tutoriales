@@ -20,7 +20,7 @@ Lo primero que tenemos que hacer antes de empezar a programar la aplicación es 
 
 Además hemos incluído una imagen adaptada al tamaño del dispositivo utilizando el componente de imágenes.
 
-![](img/diseno.png)
+![](img/diseno.jpg)
 
 
 
@@ -40,7 +40,7 @@ En este vídeo se explica el funcionamiento del componente que se va a utilizar 
 
 En esta lección solamente se va a programar el contador del reloj y en la siguiente lección se crearán los eventos de los botones para iniciar, borrar o reiniciar el contador.
 
-![](img/programacion.png)
+![](img/programacion.jpg)
 
 
 
@@ -56,14 +56,4 @@ En esta lección solamente se va a programar el contador del reloj y en la sigui
 
 En esta última lección programamos los botones del cronómetro utilizando buenas prácticas de programación, es decir, reutilizaremos el código programado en la lección anterior para programar las nuevas funcionalidades. Estas funcionalidades corresponden a los botones de iniciar, parar y reiniciar.
 
-![](img/aplicacion.png)
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo
+![](img/aplicacion.jpg)

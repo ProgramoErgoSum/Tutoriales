@@ -22,7 +22,7 @@ En este video aprenderás las técnicas básicas de configuración inicial y cua
 
 En la siguiente imagen se puede observar la jerarquía que se ha seguido para representar sobre la cuadrícula los diferentes componentes.
 
-![](img/diseno.png)
+![](img/diseno.jpg)
 
 
 
@@ -40,7 +40,7 @@ En este video programamos mediante bloques las condiciones necesarias para saber
 
 La programación es sencilla y consiste en añadir un evento al botón que calcula si el número introducido en el campo de texto es mayor o menor que el número a adivinar. Lógicamente, el número adivinar deberá almacenarse en una variable que se inicializará al comenzar la aplicación.
 
-![](img/programacion.png)
+![](img/programacion.jpg)
 
 
 
@@ -56,7 +56,7 @@ La programación es sencilla y consiste en añadir un evento al botón que calcu
 
 Para resolver la propuesta que se proponía en el video anterior consiste en añadir una condición anidada en el bucle. De esta forma estamos comprobando los 3 casos, es decir, cuando el número es maoyr, es menor o por el contrario es igual que el número que tenemos que adivinar.
 
-![](img/propuesta.png)
+![](img/propuesta.jpg)
 
 
 
@@ -72,14 +72,4 @@ Para resolver la propuesta que se proponía en el video anterior consiste en añ
 
 En el vídeo anterior se propone añadir un botón a la aplicación para que se pueda iniciar la partida siempre que queramos. Para ello debemos añadir en primer lugar el nuevo botón en la sección de diseño de la aplicación, y a continuación añadir la programación que se encargará de inicializar los datos a sus valores iniciales.
 
-![](img/mejoras.png)
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo
+![](img/mejoras.jpg)

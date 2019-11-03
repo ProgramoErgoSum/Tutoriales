@@ -16,7 +16,7 @@ En este curso de programación de dispositivos móviles con AppInventor aprender
   <iframe src="//www.youtube.com/embed/44lWL-3d4dY" allowfullscreen></iframe>
 </div>
 
-En este primer videotutorial te enseñamos a maquetar la primera parte de la aplicación que corresponde a la parte visual denominada Designer..
+En este primer videotutorial te enseñamos a maquetar la primera parte de la aplicación que corresponde a la parte visual denominada Designer.
 
 En el video aparece el enlace que hay que añadir en la URL para buscar en google imágenes, noticias, etc.
 
@@ -35,13 +35,3 @@ En el video aparece el enlace que hay que añadir en la URL para buscar en googl
 En este video programamos los eventos del buscador.
 
 Por último, te explicamos como optimizar el código mediante funciones para simplificar el código.
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

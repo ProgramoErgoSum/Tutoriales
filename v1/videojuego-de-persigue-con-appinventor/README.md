@@ -74,13 +74,3 @@ Por último, añadimos las mejoras y funcionalidad principal del juego.
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/F269WsPhtJE" allowfullscreen></iframe>
 </div>
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

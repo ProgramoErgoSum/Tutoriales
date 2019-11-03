@@ -16,7 +16,7 @@ AppInventor es un entorno de desarrollo de software creado por Google para la el
 
 Con AppInventor, se espera un incremento importante en el número de aplicaciones para Android debido a dos grandes factores: la simplicidad de uso, que facilitará la aparición de un gran número de nuevas aplicaciones; y Google Play, el centro de distribución de aplicaciones para Android donde cualquier usuario puede distribuir sus creaciones libremente.
 
-![](img/appinventor.png)
+![](img/appinventor.jpg)
 
 ### Ventajas e inconvenientes de AppInventor
 
@@ -57,7 +57,7 @@ A modo de ejemplo, como puedes ver en el video, vamos a añadir una pelota a nue
 
 A continuación animamos la pelota mediante programación. Para ello, nos desplazamos a la pestaña de bloques y le vamos a indicar que cuando se haga click sobre la pelota cambie el fondo de color.
 
-![](img/programacion.png)
+![](img/programacion.jpg)
 
 
 
@@ -79,7 +79,7 @@ En video te explicamos las 3 formas que tienes para probar tus aplicaciones ante
 
 > El entorno de desarrollo de App Inventor es compatible con Mac OS X, GNU/Linux, con Windows y con la mayoría de teléfonos Android.
 
-![](img/configuracion.png)
+![](img/configuracion.jpg)
 
 
 
@@ -98,13 +98,3 @@ En esta última sesión aprenderás a instalar la aplicación creada en tu móvi
 Otra opción para instalar la aplicación en nuestro terminal consiste en pasar el archivo compilado a través de nuestro cable USB, o mediante enlace de dropbox, etc.
 
 En tutoriales más avanzados explicaremos como crear subir nuestras aplicaciones a Google Play Store.
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

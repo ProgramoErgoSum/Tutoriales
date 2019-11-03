@@ -1,4 +1,4 @@
-# Conectar a la WiFi con ESP8266
+## Introducción
 
 En este tutorial vamos a explicar cómo **buscar señales WiFi con la ESP8266** para conectarnos en modo cliente o estación a una red conociendo el SSID y la contraseña.
 
@@ -25,7 +25,7 @@ La idea es obtener a través del monitor del IDE de Arduino el listado de todas 
 
 > Cuanto mayor sea el RSSI mejor será la señal encontrada.
 
-![](img/buscar.png)
+![](img/buscar.jpg)
 
 En primer lugar cargamos la librería `ESP8266WiFi.h` para poder utilizar las funciones sobre la WiFi. 
 
@@ -70,7 +70,7 @@ void loop() {
 
 Una vez tenemos el listado de redes WiFi disponibles, vamos a conectarnos a una mediante SSID y password conocido.
 
-![](img/conectar.png)
+![](img/conectar.jpg)
 
 Además de importar la librería, vamos a establecer las constantes SSID y PASSWORD que utilizaremos en la función `setup()` para establecer la conexión.
 

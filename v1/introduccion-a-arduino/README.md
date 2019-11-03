@@ -156,8 +156,6 @@ Unos errores detectados a la hora de cargar el firmware de S4A en la placa de Ar
 
 ## Snap 4 Arduino
 
-### ¿Qué es Snap 4 Arduino?
-
 Snap 4 Arduino es una modificación del software libre de Snap que nos permite crear programas para Arduino, pero tenemos que tener en cuenta que los proyectos siempre serán dependientes y deberán estar conectados a Snap.
 
 Está basado en el lenguaje de programación por bloques y sus instrucciones han sido diseñadas con un lenguaje natural, eliminando términos técnicos y empleando una terminología más natural. Así se facilita el acceso a la programación en niveles educativos básicos.

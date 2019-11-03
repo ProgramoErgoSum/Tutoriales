@@ -59,13 +59,3 @@ Por último, sobreescribimos la función para comparar textos.
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/WFVIx8bvois" allowfullscreen></iframe>
 </div>
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

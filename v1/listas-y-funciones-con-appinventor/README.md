@@ -12,7 +12,7 @@ En este curso de programación de aplicaciones móviles con AppInventor aprender
 
 ## Diseño de la aplicación
 
-En este primer videotutorial te enseñamos a maquetar la primera parte de la aplicación que corresponde a la parte visual denominada Designer..
+En este primer videotutorial te enseñamos a maquetar la primera parte de la aplicación que corresponde a la parte visual denominada Designer.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/6Ia5XfTjQKk" allowfullscreen></iframe>
@@ -45,13 +45,3 @@ Por último, te explicamos como optimizar el código mediante funciones para opt
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/uh8J-xkajtg" allowfullscreen></iframe>
 </div>
-
-
-
-<br />
-
-
-
-## Materiales
-
-ToDo

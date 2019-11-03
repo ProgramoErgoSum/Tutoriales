@@ -1,4 +1,4 @@
-#Introducción a la placa de desarrollo NodeMCU ESP8266
+## Introducción
 
 En este tutorial vamos a explicar las **principales características de la placa de desarrollo NodeMCU** para posteriormente utilizarla en proyectos educativos a través de dispositivos conectados.
 
@@ -25,22 +25,19 @@ La NodeMCU está basada en el módulo ESP12E, el cual contiene un chip SoC ESP82
 
 Al ser hardware abierto podemos encontrar diferentes modelos de fabricantes, aunque todos ellos incluyen el mismo módulo y SoC.
 
-### NodeMCU Lolin / Wemos Versión 3
+
+
+<br />
+
+
+
+## NodeMCU Lolin Wemos
 
 Son varias las versiones existentes y en este tutorial vamos a hablar de la última versión v3 sin entrar en detalles sobre las anteriores. 
 
 Veamos la placa de desarrollo `NodeMCU Lolin / Wemos v3`.
 
-![](img/nodemcu-lolin-v3.png)
-
-### Pinout de NodeMCU
-
-Una vez vista la placa NodeMCU vamos a ver una visión general de la distribución de los pines. Recuerda que hay una variedad de fabricantes así que puede haber pequeñas diferencias en la placa de desarrollo que tengas, sobre todo en la serigrafía, sin embargo, todas se basan en el mismo módulo ESP8266.
-
-- El pin A0 es el destinado a entrada analógica. Rango de tensión de 0V-3.3V (valor 0-1023).
-- Los pines GPIO (General Purpose Input/Output) son los destinados a entradas y salidas digitales.
-
-![](img/nodemcu-v3.png)
+![](img/nodemcu-lolin-v3.jpg)
 
 
 
@@ -48,6 +45,11 @@ Una vez vista la placa NodeMCU vamos a ver una visión general de la distribuci�
 
 
 
-## Ejercicios propuestos
+## Pinout de NodeMCU
 
-1.- Piensa varios proyectos que se podría realizar con esta placa.
+Una vez vista la placa NodeMCU vamos a ver una visión general de la distribución de los pines. Recuerda que hay una variedad de fabricantes así que puede haber pequeñas diferencias en la placa de desarrollo que tengas, sobre todo en la serigrafía, sin embargo, todas se basan en el mismo módulo ESP8266.
+
+- El pin A0 es el destinado a entrada analógica. Rango de tensión de 0V-3.3V (valor 0-1023).
+- Los pines GPIO (General Purpose Input/Output) son los destinados a entradas y salidas digitales.
+
+![](img/nodemcu-v3.jpg)

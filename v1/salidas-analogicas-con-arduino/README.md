@@ -1,6 +1,6 @@
-# Salidas analógicas con Arduino
+## Introducción
 
-En este curso aprenderás a programar diferentes prácticas utilizando las salidas analógicas de la placa de arduino. Para cada una se explica la parte de electrónica que deberás conocer antes de programarlas. Observarás además que puedes programarlas utilizando los lenguajes de programación por bloques o textual de Arduino.
+En este tutorial aprenderás a programar diferentes prácticas utilizando las salidas analógicas de la placa de arduino. Para cada una se explica la parte de electrónica que deberás conocer antes de programarlas. Observarás además que puedes programarlas utilizando los lenguajes de programación por bloques o textual de Arduino.
 
 - Práctica 1: Luces aleatorias
 - Práctica 2: LED RGB de ánodo común
@@ -30,7 +30,7 @@ Antes de continuar con las lecciones del curso asegúrate que dispones de todos 
 
 Una señal analógica es aquella que puede tomar diferentes valores. Su forma característica es conocida como señal de onda senoidal y las representaciones se realizan en el dominio del tiempo. La función principal de las salidas analógicas es entregar una señal de control que le dará funcionalidad a un circuito electrónico que será el encargado de cumplir con las funciones que el usuario requiera.
 
-![](img/senal-analogica.png)
+![](img/senal-analogica.jpg)
 
 ### Salidas digitales en Arduino
 
@@ -40,13 +40,13 @@ En electrónica se suele utilizar un convertidor de digital a analógico (DAC) p
 
 PWM (modulación por ancho o de pulso) es un tipo de señal de voltaje utilizada para enviar información o para modificar la cantidad de energía que se envía a una carga. Este tipo de señales es muy utilizada en circuitos digitales que necesitan emular una señal analógica, en las cuales se les cambia el ancho relativo respecto al período de la misma, el resultado de este cambio es llamado ciclo de trabajo y sus unidades están representadas en términos de porcentaje.
 
-![](img/senal-pwm.png)
+![](img/senal-pwm.jpg)
 
 En arduino disponemos de 6 pines analógicos PWM serigrafiados con el símbolo de alterna (~) con los números 11, 10, 9, 6, 5, 3.
 
 > La salida analógica PWM toma los valores comprendidos entre 0 y 255.
 
-![](img/salidas-analogicas.png)
+![](img/salidas-analogicas.jpg)
 
 Los pines de salida han sido diseñados para entregar señales de voltaje, no para suplir corriente a un circuito. El máximo de corriente que puede entregar un pin de salida es de aproximadamente 40mA (suficiente para encender un LED). Las cargas que vamos a manejar no deben superar los 5V ni consumir más de 40mA.
 
@@ -60,7 +60,7 @@ También disponemos de un bloque encargado de hacer girar un servomotor entre 0�
 
 > Los pines para las salidas analógicas PWM corresponden a los pines 11, 10, 9, 6, 5 y 3 y pueden tomar valores comprendidos entre 0 y 255, o entre 0 y 180 para el caso de los servomotores.
 
-![](img/salidas-analogicas-mblock.png)
+![](img/salidas-analogicas-mblock.jpg)
 
 ### Instrucciones de programación
 
@@ -169,13 +169,13 @@ V = I x R ; R = V / I
 R = 1.7V / 0.02A = 85Ω -> 100Ω (por aproximación)
 ```
 
-![](img/luces-aleatorias-esquema.gif)
+![](img/luces-aleatorias-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se establecerá un valor aleatorio entre 0 y 255 en cada uno de los pines analógicos PWM. Además esperaremos medio segundo para poder visualizar el efecto.
 
-![](img/luces-aleatorias-mblock.gif)
+![](img/luces-aleatorias-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -245,13 +245,13 @@ V = I x R ; R = V / I
 R = 1.7V / 0.02A = 85Ω -> 100Ω (por aproximación)
 ```
 
-![](img/led-rgb-esquema.gif)
+![](img/led-rgb-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se activará cada uno de los pines encargados de encender el LED RGB. En este caso, al estar utilizando un LED RGB de ánodo común para encender el color rojo tendremos que polarizar inversamente el color que queremos visualizar, dicho de otro modo, tendremos que establecer a un valor bajo el pin conectado a la patilla del color rojo y un valor alto a las patillas del color verde y azul.
 
-![](img/led-rgb-mblock.gif)
+![](img/led-rgb-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -304,13 +304,13 @@ El objetivo de esta práctica consiste en mover un servomotor desde su posición
 
 Conectamos el cable rojo (positivo del servomotor) al pin 5V de la placa de arduino, el cable negro (negativo del servomotor) al pin GND de la placa de arduino y el color amarillo al pin analógico PWM 9 de la placa de arduino.
 
-![](img/servomotor-esquema.gif)
+![](img/servomotor-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se crea una variable encargada de almacenar el ángulo del servomotor, que por defecto empezará en su posición de 0º. A continuación se repite 18 veces el cambio de ángulo por 10º esperando una décima de segundo. De esta forma el servomotor se desplazará hasta la posición 180º. Y como tiene que regresar se vuelve a crear un bucle pero en este caso la variable irá decrementando de 10º en 10º.
 
-![](img/servomotor-mblock.gif)
+![](img/servomotor-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -362,13 +362,13 @@ El objetivo de esta práctica consiste en reproducir con ayuda de un zumbador la
 
 Se conecta el cable negro (negativo) del zumbador al pin GND de la placa de arduino y el cable rojo (positivo) al pin analógico PWM 9 de la placa de arduino.
 
-![](img/bso-esquema.gif)
+![](img/bso-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código utilizamos los bloques de sonido siguiendo la partitura de la banda sonora de La Guerra de las Galaxias.
 
-![](img/bso-mblock.gif)
+![](img/bso-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -420,3 +420,27 @@ void loop() {
   delay(1000);
 }
 ```
+
+
+
+<br />
+
+
+
+## Materiales 
+
+- Luces aleatorrias - Esquema eléctrico `fritzing.fzz`
+- Luces aleatorrias en mBlock `mblock.sb2`
+- Luces aleatorrias en Arduino IDE `arduino.ide`
+- Led RGB (ánodo común) - Esquema eléctrico `fritzing.fzz`
+- Led RGB (ánodo común) en mBlock `mblock.sb2`
+- Led RGB (ánodo común) en Arduino IDE `arduino.ide`
+- Led RGB (cátodo común) - Esquema eléctrico `fritzing.fzz`
+- Led RGB (cátodo común) en mBlock `mblock.sb2`
+- Led RGB (cátodo común) en Arduino IDE `arduino.ide`
+- Servomotor - Esquema eléctrico `fritzing.fzz`
+- Servomotor en mBlock `mblock.sb2`
+- Servomotor en Arduino IDE `arduino.ide`
+- La Guerra de las Galaxias - Esquema eléctrico `fritzing.fzz`
+- La Guerra de las Galaxias en mBlock `mblock.sb2`
+- La Guerra de las Galaxias en Arduino IDE `arduino.ide`

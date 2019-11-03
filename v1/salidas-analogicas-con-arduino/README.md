@@ -245,13 +245,13 @@ V = I x R ; R = V / I
 R = 1.7V / 0.02A = 85Ω -> 100Ω (por aproximación)
 ```
 
-![](img/led-rgb-esquema.jpg)
+![](img/led-rgb-anodo-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se activará cada uno de los pines encargados de encender el LED RGB. En este caso, al estar utilizando un LED RGB de ánodo común para encender el color rojo tendremos que polarizar inversamente el color que queremos visualizar, dicho de otro modo, tendremos que establecer a un valor bajo el pin conectado a la patilla del color rojo y un valor alto a las patillas del color verde y azul.
 
-![](img/led-rgb-mblock.jpg)
+![](img/led-rgb-anodo-mblock.jpg)
 
 ### Programación en Arduino IDE
 

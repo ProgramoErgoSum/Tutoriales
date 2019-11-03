@@ -1,6 +1,6 @@
-#Configuración de ESP8266 con el IDE de Arduino
+## Introducción
 
-En este tutorial vamos a explicar cómo **configurar el IDE de Arduino** para programar con módulos NodeMCU como ESP8266.
+En este tutorial vamos a explicar cómo configurar el IDE de Arduino para programar con módulos NodeMCU como ESP8266.
 
 ### Antes de empezar
 
@@ -22,7 +22,13 @@ Lo primero que tenemos que hacer es descargar el *IDE de Arduino* desde la web o
 URL: https://www.arduino.cc/en/Main/Software
 ```
 
-### Drivers de la ESP8266
+
+
+<br />
+
+
+
+## Drivers de la ESP8266
 
 Para sistemas operativos Linux o MAC la placa es reconocida sin problemas. Sin embargo, para Windows 7 o inferior nos pedirá instalar los drivers buscando de forma automática en `Search for updated driver software`.
 
@@ -34,17 +40,17 @@ Agregar la ESP8266 sobre el IDE de Arduino es muy sencillo gracias al soporte de
 URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-![](img/preferencias.png)
+![](img/preferencias.jpg)
 
 Una vez añadido el paquete, instalamos la placa accediendo al menú `Herramientas > Placas > Gestor de placas`. A continuación buscamos la placa `esp8266` y la instalamos. Este proceso tardará unos minutos.
 
-![](img/gestor.png)
+![](img/gestor.jpg)
 
 Al finalizar el proceso de instalación ya podemos seleccionar la placa `NodeMCU 1.0 (ESP 12E Module)` y el puerto al cual tengamos conectada nuestra ESP.
 
 Para probar que funciona, añadimos el siguiente código encargado de encender un LED situado en el pin digital 5 de nuestra ESP8266 (conectado internamente al pin GPIO14).
 
-![](img/fritzing.png)
+![](img/fritzing.jpg)
 
 ```arduino
 void setup() {
@@ -59,7 +65,7 @@ void loop() {
 }
 ```
 
-![](img/blink.png)
+![](img/blink.jpg)
 
 
 

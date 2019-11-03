@@ -160,13 +160,13 @@ V = I x R ; R = V / I
 R = 2.9V / 0.02A = 145Ω -> 220Ω (por aproximación)
 ```
 
-![](img/luz-intermitente-esquema.gif)
+![](img/luz-intermitente-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se deberá establecer en el pin digital 13 un valor alto, esperar 1 segundo, establecerse un valor bajo y volver a esperar. Este procedimiento se deberá repetir indefinidamente.
 
-![](img/luz-intermitente-mblock.gif)
+![](img/luz-intermitente-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -220,13 +220,13 @@ V = I x R ; R = V / I
 R = 2.9V / 0.02A = 145Ω -> 220Ω (por aproximación)
 ```
 
-![](img/luz-alterna-esquema.gif)
+![](img/luz-alterna-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se deberá establecer en el pin digital 13 un valor alto y en el pin digital 12 un valor bajo, esperar 1 segundo, establecerse los valores de forma alterna y volver a esperar. Este procedimiento se deberá repetir indefinidamente.
 
-![](img/luz-alterna-mblock.gif)
+![](img/luz-alterna-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -283,13 +283,13 @@ V = I x R ; R = V / I
 R = 2.9V / 0.02A = 145Ω -> 220Ω (por aproximación)
 ```
 
-![](img/semaforo-simple-esquema.gif)
+![](img/semaforo-simple-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se deberán establecer los pines digitales a un valor bajo para inicializar así los LEDs. A continuación se procede a activar y desactivar los diferentes pines simulando el funcionamiento del semáforo.
 
-![](img/semaforo-simple-mblock.gif)
+![](img/semaforo-simple-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -354,13 +354,13 @@ V = I x R ; R = V / I
 R = 2.9V / 0.02A = 145Ω -> 220Ω (por aproximación)
 ```
 
-![](img/semaforo-peatones-esquema.gif)
+![](img/semaforo-peatones-esquema.jpg)
 
 ### Programación en mBlock
 
 Al ejecutar el código se deberán establecer los pines digitales a valores bajos, lo que se conoce como inicialización. A continuación, en el bucle principal del programa se programa la activación del pin 13 en valor a alto de manera que espere 5 segundos. Una vez transcurrido el tiempo de espera se desactiva el pin 13 y se llama a un evento encargado de hacer la programación del paso de peatones. En este evento puedes observar que se reproducirá el sonido de encendido y apagado 10 veces al estar conectado al pin digital 11.
 
-![](img/semaforo-peatones-mblock.gif)
+![](img/semaforo-peatones-mblock.jpg)
 
 ### Programación en Arduino IDE
 
@@ -402,4 +402,15 @@ void loop() {
 
 ## Materiales 
 
-ToDo
+- Luz intermitente - Esquema eléctrico `fritzing.fzz`
+- Luz intermitente en mBlock `mblock.sb2`
+- Luz intermitente en Arduino IDE `arduino.ide`
+- Luz alterna - Esquema eléctrico `fritzing.fzz`
+- Luz alterna en mBlock `mblock.sb2`
+- Luz alterna en Arduino IDE `arduino.ide`
+- Semáforo peatones - Esquema eléctrico `fritzing.fzz`
+- Semáforo peatones en mBlock `mblock.sb2`
+- Semáforo peatones en Arduino IDE `arduino.ide`
+- Semáforo - Esquema eléctrico `fritzing.fzz`
+- Semáforo en mBlock `mblock.sb2`
+- Semáforo en Arduino IDE `arduino.ide`

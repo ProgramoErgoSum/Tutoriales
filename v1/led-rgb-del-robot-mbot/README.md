@@ -54,19 +54,19 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 En este reto de programación con mBot deberás programar un código encargado de mostrar un color aleatorio utilizando los LEDs RGB del robot, además, cada uno de los dos LEDs deberá mostrar un color diferente.
 
-![](img/reto-1.jpg)
+![](img/reto-1.gif)
 
 ### Reto 2: Detecta el sonido
 
 En este reto de programación con mBot deberás detectar el sonido del micrófono de tu ordenador (utilizando realidad aumentada), para cambiar los LEDs RGB del robot mBot. Esta programación solamente podrá funcionar conectado a mBlock.
 
-![](img/reto-2.jpg)
+![](img/reto-2.gif)
 
 ### Reto 3: Tonalidades RGB
 
 En este reto de programación con mBot deberás mostrar las distintas tonalidades de los LED RGB pasando por los colores rojo, verde y azul de los LEDs RGB del robot mBot.
 
-![](img/reto-3.jpg)
+![](img/reto-3.gif)
 
 
 

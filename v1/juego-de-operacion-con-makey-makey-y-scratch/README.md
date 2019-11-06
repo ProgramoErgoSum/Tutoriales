@@ -66,9 +66,23 @@ En este último video te enseñamos un sencillo ejemplo sobre el funcionamiento 
 
 
 
-## Otros proyectos
+## Instrumentos africanos
 
-En el blog [EduTicTac](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric) de nuestro amigo [Daniel Turienzo](https://twitter.com/danielturienzo) han puesto en práctica una aplicación similar siguiendo este tutorial para diseñar y construir un videojuego tecnológico al que llamaron "Peligro eléctrico".
+En el blog [Los peques de mi cole](http://lospequesdemicole.blogspot.com/2018/04/juego-operacion-de-makey-makey-con.html) de nuestra amiga [Cati Navarro](https://twitter.com/catinagui) puedes ver un ejemplo del juego de operación utilizando instrumentos africanos para el aula de infantil.
+
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/9gWxP3yyxI4" allowfullscreen></iframe>
+</div>
+
+
+
+<br />
+
+
+
+## Peligro eléctrico
+
+En el blog [EduTicTac](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric) de nuestro amigo [Daniel Turienzo](https://twitter.com/danielturienzo) han puesto en práctica una aplicación similar siguiendo este tutorial para diseñar y construir un videojuego tecnológico.
 
 - Centro de estudios: IES Montserrat Roig de Elx.
 - Profesor responsable: Daniel Turienzo.
@@ -80,8 +94,18 @@ Las maquetas de este proyecto las presentaron en la convocatoria PROYECTA TÚ de
   <iframe src="https://player.vimeo.com/video/166987286" allowfullscreen></iframe>
 </div>
 
-Las maquetas de este proyecto las presentaron en la convocatoria PROYECTA TÚ de la Feria de la Ciencia y la Tecnología en Elche (FeCiTElx2016), donde los asistentes pudieron jugar a varias versiones del videojuego al mismo tiempo que aprendieron como funciona la electricidad.
 
+
+<br />
+
+
+
+## Otros proyectos
+
+- [Minion operation game](https://www.instructables.com/id/Makey-Makey-and-Scratch-Operation-Game/)
+- [Yoda operation game](https://iamclaudius.com/makey-makey-operation-game/)
+- [Instrumentos africanos](http://lospequesdemicole.blogspot.com/2018/04/juego-operacion-de-makey-makey-con.html)
+- [Peligro eléctrico](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric)
 
 
 <br />

@@ -104,8 +104,7 @@ Las maquetas de este proyecto las presentaron en la convocatoria PROYECTA TÚ de
 
 - [Minion operation game](https://www.instructables.com/id/Makey-Makey-and-Scratch-Operation-Game/)
 - [Yoda operation game](https://iamclaudius.com/makey-makey-operation-game/)
-- [Instrumentos africanos](http://lospequesdemicole.blogspot.com/2018/04/juego-operacion-de-makey-makey-con.html)
-- [Peligro eléctrico](https://wikimanuals.edutictac.es/index.php?title=Es:Videojoc_Tecnol%C3%B2gic:_Perill_El%C3%A8ctric)
+
 
 
 <br />

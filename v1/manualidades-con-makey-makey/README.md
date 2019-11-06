@@ -59,13 +59,39 @@ El proceso es muy sencillo. Simplemente tenemos que mezclar en un recipiente la 
 
 
 
-## Otros proyectos
+## Explorando en infantil
+
+En el blog [Los peques de mi cole](http://lospequesdemicole.blogspot.com/2018/02/experimentamos-con-makey-makey_10.html) de nuestra amiga [Cati Navarro](https://twitter.com/catinagui), experimentan el uso de la plastilina y la plastilina conductora en su aula de infantil.
+
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/B3bBeaytCns" allowfullscreen></iframe>
+</div>
+
+
+
+<br />
+
+
+
+## Piano con plastilina
 
 En el siguiente vídeo, [Frank Sabaté](https://twitter.com/franksabate) nos muestra cómo crear un sencillo videojuego con Scratch 2.0 utilizando plastilina conductora.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/iar9oJJj4Lc" allowfullscreen></iframe>
 </div>
+
+
+
+<br />
+
+
+
+## Otros proyectos
+
+- [Batería con plastilina conductora](https://www.instructables.com/id/Haz-Una-Bater%C3%ADa-Con-Makey-Makey-Scratch-Y-Crea-Tu-/)
+- [Car with Electric Circuit](http://saletadecreacio.com/en/conductive-plastiline-and-car-with-electric-circuit/)
+- [Conductive Play Dough](https://www.instructables.com/id/How-to-make-conductive-play-dough/)
 
 
 

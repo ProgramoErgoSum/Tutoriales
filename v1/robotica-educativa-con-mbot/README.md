@@ -1,14 +1,14 @@
-## Robótica educativa con mBot
+## Introducción
 
-mBot es un robot educativo ideal para iniciarse en la programación y robótica desde educación primaria. Está basado en Arduino Uno considerándose sencillo de utilizar ya que no necesita cableado ni soldaduras gracias a sus conectores RJ25 (típicas conexiones de teléfono).
+[mBot de MakeBlock](https://www.makeblock.com/steam-kits/mbot) es un robot educativo ideal para iniciarse en la programación y robótica desde educación primaria. Está basado en Arduino UNO considerándose sencillo de utilizar ya que no necesita cableado ni soldaduras gracias a sus conectores RJ25 (típicas conexiones de teléfono).
 
 ![](img/mbot.jpg "Robot mBot")
 
-En cuando a su programación y control, se puede programar utilizando lenguajes de programación por bloques y otras opciones como las siguientes:
+En cuanto a la programación, se puede programar utilizando lenguajes de programación por bloques o en modo textual:
 
-- Utilizando mBlock. mBlock es el software de programación propio de Makeblock, basado en Scratch 2.0, que nos permite programar el robot sin necesidad de aprender un lenguaje complejo de programación.
-- Utilizando Arduino. Esta opción es para usuarios de nivel intermedio. En este caso se utiliza un lenguaje de programación de Arduino y necesitamos instalar las librerías de Makeblock en el software de Arduino.
-- Utilizando la app de mBot. ​Otra opción es usar la app mBot disponible para iOS y Android. La podemos utilizar sin necesidad de instalarle un código previo al robot.
+- Utilizando mBlock, el software de programación propio de Makeblock, basado en Scratch, que nos permite programar el robot sin necesidad de aprender un lenguaje complejo de programación.
+- Utilizando Arduino para usuarios de nivel intermedio. En este caso se utiliza un lenguaje de programación de Arduino y necesitamos instalar las librerías de Makeblock en el software de Arduino IDE.
+- Utilizando la app de mBot disponible para iOS y Android. La podemos utilizar sin necesidad de instalarle un código previo al robot.
 
 ### Especificaciones técnicas
 
@@ -29,7 +29,7 @@ En cuando a su programación y control, se puede programar utilizando lenguajes 
 
 ## Hardware de mBot
 
-El robot mBot utiliza la placa mCore la cual tiene un micro controlador ATmega238 con 4 puertos con conexiones RJ25 para conectar sensores. También integra un interruptor de encendido, un botón, dos LEDs RGB, un buzzer, un sensor de luminosidad y un sensor de infrarrojos.
+El robot educativo mBot utiliza la placa mCore la cual tiene un micro controlador ATmega238 con 4 puertos con conexiones RJ25 para conectar sensores. También integra un interruptor de encendido, un botón, dos LEDs RGB, un buzzer, un sensor de luminosidad y un sensor de infrarrojos.
 
 ![](img/placa-mcore.jpg "Placa mCore")
 
@@ -47,11 +47,11 @@ Los colores que podemos encontrarnos en los puertos de las diferentes placas de 
 
 ## Construcción del Robot
 
+En el video de esta lección se muestra como montar el robot de mBot paso a paso siguiendo el manual del fabricante. El manual es muy sencillo y didáctico y viene expresado con un lenguaje para que los alumnos de último ciclo de educación primaria o secundaria sean capaces de montarlo sin ningún problema.
+
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/dsOqO8fmqpk" allowfullscreen></iframe>
 </div>
-
-En el video de esta lección se muestra como montar el robot de mBot paso a paso siguiendo el manual del fabricante. El manual es muy sencillo y didáctico y viene expresado con un lenguaje para que los alumnos de último ciclo de educación primaria o secundaria sean capaces de montarlo sin ningún problema.
 
 > Cuando adquieres el robot de mBot por primera vez suele venir preparado para que sea montado en el aula por los alumnos.
 
@@ -65,9 +65,15 @@ Por otro lado, recordar que dependiendo de las extensiones o robots de mBot adqu
 
 
 
-## ¡Hola Mundo!
+## mBlock 3
 
-Una vez hemos instalado mBlock, debemos conectar nuestro robot mBot utilizando el cable USB y encender el interruptor que viene en la carcasa. A continuación, deberemos seguir los siguientes pasos para configurarlo y conectarlo a mBlock.
+mBlock 3 es un entorno gráfico de programación basado en el editor Scratch 2.0 para que escuelas y centros de formación pueda introducir la robótica educativa de una forma sencilla y enseñar a programar robots basados en Arduino.
+
+### Instalar mBlock 3
+
+En primer lugar deberás descargar el software de mBlock desde la [web del fabricante](https://www.mblock.cc/en-us/download/) para instalarlo en tu equipo.
+
+Una vez instalado, conectamos nuestro robot mBot utilizando el cable USB y encendemos el interruptor que viene en la carcasa y seguiremos los siguientes pasos para configurarlo y conectarlo a nuestro software de mBlock.
 
 - Conectar el puerto USB
 - Elegir placa
@@ -114,4 +120,43 @@ Una vez hemos programado nuestro robot y queremos que funcione de forma autónom
 
 
 
-## Materiales
+## mBlock 5
+
+Por otro lado, mBlock 5 es el entorno gráfico de programación basado en el editor Scratch 2.0 y 3.0 según diferentes partes de la aplicación.
+
+### Instalar mBlock 5
+
+En primer lugar deberás descargar el software de mBlock desde la [web del fabricante](https://www.mblock.cc/en-us/download/) para instalarlo en tu equipo.
+
+Una vez instalado, conectamos nuestro robot mBot utilizando el cable USB y encendemos el interruptor que viene en la carcasa y seguiremos los siguientes pasos para configurarlo y conectarlo a nuestro software de mBlock.
+
+- Añadir dispositivo
+- Conectar
+- Elegir extensión
+- Modo en vivo
+- Modo cargar
+
+### Añadir dispositivo
+
+En primer lugar deberemos añadir el robot mBot o el que estemos utilizando de forma similar a cuando en Scratch se añade un nuevo personaje. Una vez seleccionado el robot nos aparecerá como aparece en la siguiente imagen.
+
+![](img/anadir-dispositivo.jpg "Añadir dispositivo")
+
+### Conectar
+
+Para poder trabajar con el robot mBot deberemos conectarlo al puerto USB y seleccionar el puerto al cual se encuentre conectado. Una vez conectado nos deberá aparecer un mensaje indicando que se ha conectado correctamente.
+
+![](img/conectar-puerto-5.jpg "Conectar puerto")
+
+### Hola Mundo
+
+Puedes probar a programar el siguiente código y pulsar la bandera verde. Si todo ha salido correcto deberás escuchar un sonido en el robot mBot. De esta forma ya habremos configurado y conectado correctamente nuestro robot mBot con el software mBlock.
+
+![](img/hola-mundo-5.jpg "Hola Mundo")
+
+### Modo en vivo vs cargar
+
+A diferencia de la versión anterior de mBlock, en esta versión tenemos dos modos de trabajar con el robot:
+
+- Modo de carga: Permite carcar el código en un dispositivo, para que siga las instrucciones programadas después de desconectarlo del ordenador.
+- Modo en vivo: Este modo es ideal para probar el código en tiempo real. Usando mensajes y variables, puedes hacer que tu dispositivo interactúe con el escenario.

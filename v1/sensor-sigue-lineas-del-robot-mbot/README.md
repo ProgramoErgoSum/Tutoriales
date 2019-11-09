@@ -1,8 +1,8 @@
-## Sensor sigue-líneas del robot mBot con mBlock
+## Introducción
 
-En este curso aprenderás a programar el robot mBot de MakeBlock y utilizar el sensor de infrarrojos (IR) o sigue-líneas. Para ello se programará sobre el lenguaje de programación por bloques de Scratch la simulación del algoritmo y a continuación se programará sobre mBlock el código que se le pasará al robot mBot.
+En este tutorial aprenderás a programar el sensor sigue líneas o de infrarojos del robot mBot. Para ello se programará sobre el lenguaje de programación por bloques de mBlock.
 
-![](img/preview.gif)
+![](img/preview.gif "Sensor sigue líneas en mBot")
 
 
 
@@ -10,15 +10,15 @@ En este curso aprenderás a programar el robot mBot de MakeBlock y utilizar el s
 
 
 
-## ¿Qué es un sensor de infrarrojos (IR) o sigue-líneas?
+## Sensor sigue-líneas
 
 El sigue-líneas o sensor de infrarrojos (IR) es un sensor de medición de distancia que se basa en un sistema de emisión y recepción de radiación lumínica en el espectro de los infrarrojos. Dicho de otro modo, es un sensor con una fuente de luz (diodo emisor) y detector (fototransistor) integrados en un mismo encapsulado. La detección del objeto se consigue por la reflexión (o no) del haz infrarrojo sobre la superficie del objeto. Este sensor se utiliza habitualmente para detectar el color de un objeto, en nuestro caso, distinguir blanco y negro en aplicaciones para el seguimiento de línea.
 
-![](img/sigue-lineas.jpg)
+![](img/sigue-lineas.jpg "Sensor de infrarojos")
 
 El funcionamiento del sensor es el siguiente; si el sensor del robot mBot está sobre la línea negra, los reflejos del sensor son absorbidos por la misma con lo cual el receptor del sensor no recibe ningún valor, o lo que es lo mismo, dando el valor 0. Del mismo modo, si uno de los dos sensores del robot queda fuera de la línea, se producirá el reflejo indicando los valores 1 o 2 respectivamente. Por último, si ambos sensores quedan fuera de la línea se mostrará el valor 3.
 
-![](img/sensor-ir.jpg)
+![](img/sensor-ir.jpg "Valores posibles")
 
 - Valor 0: mBot tiene los dos detectores IR sobre la línea.
 - Valor 1: mBot tiene el detector IR de la derecha fuera de la línea.
@@ -31,44 +31,31 @@ El funcionamiento del sensor es el siguiente; si el sensor del robot mBot está 
 
 
 
-## Sigue-líneas sobre Scratch
+## Ejemplo en Scratch
+
+En el siguiente vídeo se simula sobre Scratch el funcionamiento de un sigue-líneas (antes de programarlo sobre el propio robot). De esta forma entenderemos el concepto y funcionamiento del sensor sigue-líneas.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/6RPOuI9MhvE" allowfullscreen></iframe>
 </div>
 
-En esta lección se simula sobre Scratch el funcionamiento de un sigue-líneas (antes de programarlo sobre el propio robot). De esta forma entenderemos el concepto y funcionamiento del sensor sigue-líneas.
-
-Antes de programar el objeto que se moverá sobre la línea negra, le añadimos sobre el disfraz los sensores de IR (de forma simulada). En este caso los diferenciamos con 2 colores sólidos que no utilicemos en el circuito, rojo para el sensor izquierdo y verde para el sensor derecho.
-
-En cuanto a la programación simplemente debemos indicarle que dado el cambio de color (simulando que sale del circuito) el objeto deberá girar hacia un lado u otro. Además, en caso de que ambos sensores estén dentro del circuito, nuestro objeto avanzará sobre el circuito.
-
-![](img/con-scratch.jpg)
-
 
 
 <br />
 
 
 
-## Sigue-líneas sobre mBlock
+## mBlock 3
+
+En el siguiente vídeo se programa sobre mBlock el funcionamiento de nuestro sigue-líneas. Como puedes observar el funcionamiento del sensor es muy parecido al programado con Scratch en la lección anterior. La diferencia es que en este caso tenemos que tener en cuenta los valores que devuelve el sensor IR.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/NBkQY4pj7mA" allowfullscreen></iframe>
 </div>
 
-En esta lección se programa sobre mBlock el funcionamiento de nuestro sigue-líneas. Como puedes observar en el vídeo el funcionamiento del sensor es muy parecido al programado con Scratch en la lección anterior. La diferencia es que en este caso tenemos que tener en cuenta los valores que devuelve el sensor IR, como se explicaba en la primera lección del curso.
-
-![](img/sensor-ir.jpg)
-
-- Valor 0: mBot tiene los dos detectores IR sobre la línea.
-- Valor 1: mBot tiene el detector IR de la derecha fuera de la línea.
-- Valor 2: mBot tiene el detector IR de la izquierda fuera de la línea.
-- Valor 3: mBot tiene ambos detectores IR fuera de la línea.
-
 Es muy importante conocer las conexiones donde hemos conectado nuestro robot para que no realice movimientos inesperados. En nuestro caso hemos seguido las conexiones que vienen por defecto en el manual de construcción del robot.
 
-![](img/con-mblock.jpg)
+![](img/mblock-3-codigo-siguelineas.jpg "Programación en mBlock 3")
 
 
 
@@ -76,13 +63,11 @@ Es muy importante conocer las conexiones donde hemos conectado nuestro robot par
 
 
 
-## Resultado de nuestro robot sobre la línea
+## mBlock 5 (versión actual)
 
-En este último video puedes observar como siguiendo la plantilla que viene en el kit de mBot nuestro robot sigue la línea sin salirse en ningún momento.
+La programación del sigue líneas es muy sencilla siempre y cuando tengamos en cuenta los valores que devuelve el bloque de sensores. Nuestro robot variará la velocidad hacia la derecha o izquierda dependiendo de dicho valor, y parará en caso de salirse del circuito.
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/hI4YWv3ZrhM" allowfullscreen></iframe>
-</div>
+![](img/mblock-5-codigo-siguelineas.jpg "Programación en mBlock 5")
 
 
 

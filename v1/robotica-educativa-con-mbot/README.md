@@ -91,13 +91,13 @@ En primer lugar deberemos añadir el robot mBot o el que estemos utilizando de f
 
 Para poder trabajar con el robot mBot deberemos conectarlo al puerto USB y seleccionar el puerto al cual se encuentre conectado. Una vez conectado nos deberá aparecer un mensaje indicando que se ha conectado correctamente.
 
-![](img/mblock-5-conectar-puerto-5.jpg "Conectar puerto")
+![](img/mblock-5-conectar-puerto.jpg "Conectar puerto")
 
 ### Hola Mundo
 
 Puedes probar a programar el siguiente código y pulsar la bandera verde. Si todo ha salido correcto deberás escuchar un sonido en el robot mBot. De esta forma ya habremos configurado y conectado correctamente nuestro robot mBot con el software mBlock.
 
-![](img/mblock-5-hola-mundo-5.jpg "Hola Mundo")
+![](img/mblock-5-hola-mundo.jpg "Hola Mundo")
 
 ### Modo en vivo vs cargar
 

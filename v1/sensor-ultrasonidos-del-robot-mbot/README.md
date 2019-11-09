@@ -24,15 +24,23 @@ El funcionamiento del sensor es muy sencillo; se utiliza un emisor para emitir u
 
 
 
-## Programación con mBlock 3
+## mBlock 3
 
-En este apartado se va a programar un sencillo código encargado de detectar un obstáculo y detenerse ante él. Para ello, utilizaremos una condición encargada de comparar el valor obtenido del sensor de ultrasonidos, y en caso de ser mayor que 5 centímetros, parará los motores (izquierdo - M1 y derecho - M2). En caso contrario, los motores funcionarán al máximo permitod en mBlock, que es el valor de 255.
+En este apartado se va a programar un sencillo código encargado de detectar un obstáculo y detenerse ante él. Para ello, utilizaremos una condición encargada de comparar el valor obtenido del sensor de ultrasonidos, y en caso de ser mayor que 5 centímetros, parará los motores (izquierdo - M1 y derecho - M2). En caso contrario, los motores funcionarán al máximo permitido en mBlock, que es el valor de 255.
 
-![](img/detectar-obstaculos.jpg "Código de programación")
+![](img/mblock-3-codigo-ultrasonidos.jpg "Programación en mBlock 3")
 
-Por último, para probar nuestro robot desconectado del cable USB y utilizando baterías, deberemos cargar el código del programa en el mCore del robot. Para ello deberemos acceder al editor de arduino haciendo clic en Editar > Modo Arduino y veremos una pantalla similar a la siguiente. Por último, subiremos el código a Arduino y ya podremos probar nuestro robot mBot en un circuito real.
 
-![](img/subiendo-arduino.jpg)
+
+<br />
+
+
+
+## mBlock 5 (versión actual)
+
+Para programar el código encargado de detener el robot si estamos a menos de 5 centímetros de un objeto utilizaremos los bloques del apartado de acción de mBlock. Para ello, utilizaremos una condición encargada de comparar el valor obtenido del sensor de ultrasonidos, y en caso de ser mayor que 5 centímetros, parará los motores (izquierdo - M1 y derecho - M2). En caso contrario, los motores funcionarán al 100% de la velocidad máxima de los motores.
+
+![](img/mblock-5-codigo-ultrasonidos.jpg "Programación en mBlock 5")
 
 
 
@@ -48,13 +56,13 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 En este reto de programación con mBot deberás calcular el número de pelotas de tenis que caben en tu habitación utilizando el sensor de ultrasonidos de mBot. Para ello deberás realizar operaciones matemáticas sobre el papel.
 
-![](img/reto-1.jpg)
+![](img/reto-1.jpg "Reto 1: Pelotas de tenis")
 
 ### Reto 2: Disminuyendo la velocidad
 
 En este reto de programación con mBot deberás programar el código que haga que el robot mBot se vaya deteniendo a medida que se va acercando a un obstáculo.
 
-![](img/reto-2.jpg)
+![](img/reto-2.jpg "Reto 2: Disminuyendo la velocidad")
 
 
 

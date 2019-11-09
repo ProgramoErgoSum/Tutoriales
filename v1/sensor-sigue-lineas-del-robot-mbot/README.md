@@ -83,7 +83,7 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 
 En este reto te proponemos que realices los cambios que creas necesarios para que el Robot siga la línea a una mayor velocidad que la propuesta en el tutorial. Para ello recuerda que tras cada cambio que realices en el robot deberás cargar el código.
 
-![](img/reto-1.jpg)
+![](img/reto-1.jpg "Reto 1: Aumentando la velocidad")
 
 
 

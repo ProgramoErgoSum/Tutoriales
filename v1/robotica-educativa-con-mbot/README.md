@@ -65,53 +65,6 @@ Por otro lado, recordar que dependiendo de las extensiones o robots de mBot adqu
 
 
 
-## mBlock 5 (versión actual)
-
-mBlock 5 es un entorno gráfico de programación basado en el editor Scratch 3.0 para que escuelas y centros de formación pueda introducir la robótica educativa de una forma sencilla y enseñar a programar robots basados en Arduino.
-
-### Instalar mBlock 5
-
-En primer lugar deberás descargar el software de mBlock desde la [web del fabricante](https://www.mblock.cc/en-us/download/) para instalarlo en tu equipo.
-
-Una vez instalado, conectamos nuestro robot mBot utilizando el cable USB y encendemos el interruptor que viene en la carcasa y seguiremos los siguientes pasos para configurarlo y conectarlo a nuestro software de mBlock.
-
-- Añadir dispositivo
-- Conectar
-- Elegir extensión
-- Modo en vivo
-- Modo cargar
-
-### Añadir dispositivo
-
-En primer lugar deberemos añadir el robot mBot o el que estemos utilizando de forma similar a cuando en Scratch se añade un nuevo personaje. Una vez seleccionado el robot nos aparecerá como aparece en la siguiente imagen.
-
-![](img/mblock-5-anadir-dispositivo.jpg "Añadir dispositivo")
-
-### Conectar
-
-Para poder trabajar con el robot mBot deberemos conectarlo al puerto USB y seleccionar el puerto al cual se encuentre conectado. Una vez conectado nos deberá aparecer un mensaje indicando que se ha conectado correctamente.
-
-![](img/mblock-5-conectar-puerto.jpg "Conectar puerto")
-
-### Hola Mundo
-
-Puedes probar a programar el siguiente código y pulsar la bandera verde. Si todo ha salido correcto deberás escuchar un sonido en el robot mBot. De esta forma ya habremos configurado y conectado correctamente nuestro robot mBot con el software mBlock.
-
-![](img/mblock-5-hola-mundo.jpg "Hola Mundo")
-
-### Modo en vivo vs cargar
-
-A diferencia de la versión anterior de mBlock, en esta versión tenemos dos modos de trabajar con el robot:
-
-- Modo de carga: Permite carcar el código en un dispositivo, para que siga las instrucciones programadas después de desconectarlo del ordenador.
-- Modo en vivo: Este modo es ideal para probar el código en tiempo real. Usando mensajes y variables, puedes hacer que tu dispositivo interactúe con el escenario.
-
-
-
-<br />
-
-
-
 ## mBlock 3 (versión anterior)
 
 mBlock 3 es un entorno gráfico de programación basado en el editor Scratch 2.0 para que escuelas y centros de formación pueda introducir la robótica educativa de una forma sencilla y enseñar a programar robots basados en Arduino.
@@ -162,3 +115,50 @@ Puedes probar a programar el siguiente código y pulsar la bandera verde. Si tod
 Una vez hemos programado nuestro robot y queremos que funcione de forma autónoma sin necesidad de estar conectado a nuestro PC mediante el cable USB, deberemos cargar el código en nuestro robot. Para ello deberemos acceder al apartado de Arduino y subir el código al robot. El proceso suele tardar unos segundos.
 
 ![](img/mblock-3-subir-arduino.jpg "Subir código a Arduino")
+
+
+
+<br />
+
+
+
+## mBlock 5 (versión actual)
+
+mBlock 5 es un entorno gráfico de programación basado en el editor Scratch 3.0 para que escuelas y centros de formación pueda introducir la robótica educativa de una forma sencilla y enseñar a programar robots basados en Arduino.
+
+### Instalar mBlock 5
+
+En primer lugar deberás descargar el software de mBlock desde la [web del fabricante](https://www.mblock.cc/en-us/download/) para instalarlo en tu equipo.
+
+Una vez instalado, conectamos nuestro robot mBot utilizando el cable USB y encendemos el interruptor que viene en la carcasa y seguiremos los siguientes pasos para configurarlo y conectarlo a nuestro software de mBlock.
+
+- Añadir dispositivo
+- Conectar
+- Elegir extensión
+- Modo en vivo
+- Modo cargar
+
+### Añadir dispositivo
+
+En primer lugar deberemos añadir el robot mBot o el que estemos utilizando de forma similar a cuando en Scratch se añade un nuevo personaje. Una vez seleccionado el robot nos aparecerá como aparece en la siguiente imagen.
+
+![](img/mblock-5-anadir-dispositivo.jpg "Añadir dispositivo")
+
+### Conectar
+
+Para poder trabajar con el robot mBot deberemos conectarlo al puerto USB y seleccionar el puerto al cual se encuentre conectado. Una vez conectado nos deberá aparecer un mensaje indicando que se ha conectado correctamente.
+
+![](img/mblock-5-conectar-puerto.jpg "Conectar puerto")
+
+### Hola Mundo
+
+Puedes probar a programar el siguiente código y pulsar la bandera verde. Si todo ha salido correcto deberás escuchar un sonido en el robot mBot. De esta forma ya habremos configurado y conectado correctamente nuestro robot mBot con el software mBlock.
+
+![](img/mblock-5-hola-mundo.jpg "Hola Mundo")
+
+### Modo en vivo vs cargar
+
+A diferencia de la versión anterior de mBlock, en esta versión tenemos dos modos de trabajar con el robot:
+
+- Modo de carga: Permite carcar el código en un dispositivo, para que siga las instrucciones programadas después de desconectarlo del ordenador.
+- Modo en vivo: Este modo es ideal para probar el código en tiempo real. Usando mensajes y variables, puedes hacer que tu dispositivo interactúe con el escenario.

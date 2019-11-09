@@ -65,7 +65,7 @@ Por otro lado, recordar que dependiendo de las extensiones o robots de mBot adqu
 
 
 
-## mBlock 3 (versión anterior)
+## mBlock 3
 
 mBlock 3 es un entorno gráfico de programación basado en el editor Scratch 2.0 para que escuelas y centros de formación pueda introducir la robótica educativa de una forma sencilla y enseñar a programar robots basados en Arduino.
 

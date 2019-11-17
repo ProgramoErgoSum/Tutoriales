@@ -67,7 +67,7 @@ En esta modalidad se barajan todas las cartas y se reparten 5 cartas a cada juga
 
 
 
-## Snake (serpiente)
+## Snake (Serpiente)
 
 > Consigue pasar por el mayor número de casillas.
 
@@ -83,7 +83,7 @@ En esta modalidad se barajan todas las cartas y los jugadores deben conseguir pa
 
 
 
-## Full-Fill
+## Full-Fill (Relleno completo)
 
 > Consigue pasar por el mayor número de casillas sin repetir.
 

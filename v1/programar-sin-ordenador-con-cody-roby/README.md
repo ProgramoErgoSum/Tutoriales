@@ -20,7 +20,7 @@ El kit que puedes descargar desde la [web del creador](http://codeweek.it/codyro
 
 Las instrucciones son sencillas. Se utilizan las tres instrucciones antes mencionadas, representadas por cartas de colores, de forma que Roby se moverá por el tablero siguiéndolas. Los jugadores estarán ejecutando en realidad secuencias de instrucciones y por tanto trabajando su pensamiento computacional.
 
-![](img/codyroby.jpg "Cody & Roby")
+![](img/ejemplo.jpg "Cody & Roby")
 
 Desde la propia web del proyecto nos enseñan 4 modalidades de juego:
 

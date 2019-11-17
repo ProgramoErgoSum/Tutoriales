@@ -41,7 +41,7 @@ Una vez los programadores han realizado la estructura, los robots deberán segui
 
 ## Añadir dificultad
 
-Para usuarios más avanzados se suelen proponer estructuras más complejas utilizando además otro tipo de instrucciones. Este tipo de sintrucciones engloban una serie de repeticiones en instrucciones, por ejemplo, en vez de utilizar las instrucciones `-> -> ->` se podría sustituir por `(3)->` indicando que la instrucción `->` se repite 3 veces seguidas.
+Para usuarios más avanzados se suelen proponer estructuras más complejas utilizando además otro tipo de instrucciones. Este tipo de instrucciones engloban una serie de repeticiones en instrucciones, por ejemplo, en vez de utilizar las instrucciones `-> -> ->` se podría sustituir por `(3)->` indicando que la instrucción `->` se repite 3 veces seguidas.
 
 
 

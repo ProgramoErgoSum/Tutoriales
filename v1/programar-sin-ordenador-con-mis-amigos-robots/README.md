@@ -1,14 +1,23 @@
 ## Introducción
 
-La actividad *Mis amigos robots* consiste en utilizar movimientos como si de un brazo robótico se tratase para formar una escultura utilizando vasos de plástico.
+Esta actividad permite introducirnos al mundo de la programación y robótica sin utilizar ni ordenadores ni robots. La actividad consiste en utilizar movimientos como si de un brazo robótico se tratase para formar una estructura utilizando vasos de plástico.
 
-![](img/vasos.jpg "Mis amigos robots")
+![](img/preview.gif "Mis amigos robots")
 
-Para esta actividad necesitamos definir los roles de programador y robot, ya que los programadores se encargarán de realizar la secuencia de instrucciones y los robots deberán reconstruir la estructura siguiendo dichas instrucciones para obtener el mismo resultado.
+> My Robotic Friends fue publicada en la Computer Science Education Week de 2013 por por Thinkersmith.
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/yT_TNTXnGUE" allowfullscreen></iframe>
-</div>
+
+
+<br />
+
+
+
+## Consideraciones previas
+
+En esta actividad pueden participar los estudiantes en parejas o formando grupos de 3 o 4 alumnos para competir y colaborar entre ellos mismos. Para ello deberemos definir los roles `programador` y `robot` dentro de las parejas o grupos de alumnos.
+
+- Los programadores se encargarán de realizar la secuencia de instrucciones.
+- Los robots deberán reconstruir la estructura siguiendo las instrucciones de los programadores para obtener el mismo resultado.
 
 
 
@@ -18,47 +27,53 @@ Para esta actividad necesitamos definir los roles de programador y robot, ya que
 
 ## Instrucciones del juego
 
-Las instrucciones son muy sencillas; coger y soltar vaso, avanzar o retroceder brazo y girar 90º hacia la derecha o izquierda. En la siguiente imagen puedes ver que cada desplazamiento corresponde a una flecha.
+Una vez definidos los roles dentro del grupo, el equipo de los robots deberán abandonar la sala mientras los programadores crean y programan el algoritmo mediante las instrucciones necesarias para construir una estructura de vasos. Las instrucciones de programación son las siguientes:
 
-1. Elegir un robot por equipo
-2. Los robots salen del aula mientras los programadores programan
-3. Los programadores crean una estructura de vasos y la programan sobre el papel
-4. Cuando los programadores hayan terminado, pueden llamar al equipo de robots
-5. Los robots siguiendo el programa construyen la estructura de vasos
+- Coger o soltar vaso
+- Avanzar o retroceder brazo (1/2 posición)
+- Girar 90º sentido horario o antihorario
+
+![](img/ejemplo.jpg "Ejemplo de estructura e instrucciones")
+
+Una vez terminado el algoritmo por parte de los programadores, los robots volverán a la sala y deberán seguir las instrucciones de los programadores para crear la estructura de vasos.
+
+Si los programadores han realizado bien su trabajo y los robots han seguido las instrucciones de forma correcta, el resultado de la estructura debe ser idéntica a la que programaron los programadores.
+
+
+
+<br />
+
+
+
+## En educación primaria
+
+En caso de utilizar esta actividad con estudiantes más pequeños de primeros cursos de educación primaria, puedes ayudarte de una plantilla similar a la siguiente para explicar los movimientos de avanzar y retroceder.
 
 ![](img/plantilla.jpg "Plantilla")
 
-La actividad que se suele proponer es en grupos de cuatro personas, donde una pareja actúa como programador y la otra pareja como robot. Mientras los programadores están realizando la estructura e instrucciones de programación mediante flechas, la otra pareja sale de la clase para no ver el resultado final.
-
-Una vez los programadores han realizado la estructura, los robots deberán seguir las instrucciones programadas para crear la estructura. Si los programadores han realizado bien el trabajo, y los robots han seguido las instrucciones de forma correcta, el resultado de la escultura debe ser la que programaron los robots.
-
-![](img/ejemplo.jpg "Equipo robots")
+De esta forma, la pila de vasos estarán sobre el círculo de color gris y se moverán 1/2 de la posición del vaso.
 
 
 
 <br />
 
 
-## Añadir dificultad
+## En educación secundaria
 
-Para usuarios más avanzados se suelen proponer estructuras más complejas utilizando además otro tipo de instrucciones. Este tipo de instrucciones engloban una serie de repeticiones en instrucciones, por ejemplo, en vez de utilizar las instrucciones `-> -> ->` se podría sustituir por `(3)->` indicando que la instrucción `->` se repite 3 veces seguidas.
+Para usuarios más avanzados se suelen proponer estructuras más complejas utilizando además otro tipo de instrucciones de repeticiones o funciones.
 
-
-
-<br />
-
-
-
-## Más información
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/xaW3PAzHxCU" allowfullscreen></iframe>
-</div>
+Este tipo de instrucciones engloban una serie de repeticiones en instrucciones, por ejemplo, en vez de utilizar las instrucciones `-> -> ->` se podría sustituir por `(3)->` indicando que la instrucción `->` se repite 3 veces seguidas.
 
 
 
 <br />
 
+
+
+## Enlaces de interés
+
+- [Computer Science Education Week - Robotics Spanish](https://csedweek.org/files/CSEDrobotics_spanish.pdf)
+- [My Robotics Friends - Code.org](https://www.youtube.com/watch?v=xaW3PAzHxCU)
 
 
 ## Materiales

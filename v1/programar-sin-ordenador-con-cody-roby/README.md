@@ -99,10 +99,7 @@ En esta modalidad de juego se barajan todas las cartas y solamente juega un juga
 
 
 
-## Materiales
+## Enlaces de interés
 
-- Tablero `Board.pdf`
-- Caja `box-CodeMOOC.pdf`
-- Tarjetas avanzar `move-forward-page.pdf`
-- Tarjetas girar a la izquierda `move-left-page.pdf`
-- Tarjetas girar a la derecha `move-right-page.pdf`
+- [Cody & Roby](http://codeweek.it/cody-roby-en/)
+- [DIY Starter Kit](http://codeweek.it/cody-roby-en/diy-starter-kit/)

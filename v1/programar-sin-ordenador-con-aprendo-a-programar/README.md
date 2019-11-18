@@ -8,7 +8,6 @@ Con este juego se pueden aprender las bases y la lógica de la programación uti
 
 
 
-
 <br />
 
 

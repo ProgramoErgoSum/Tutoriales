@@ -58,6 +58,7 @@ De esta forma, la pila de vasos estarán sobre el círculo de color gris y se mo
 <br />
 
 
+
 ## En educación secundaria
 
 Para usuarios más avanzados se suelen proponer estructuras más complejas utilizando además otro tipo de instrucciones de repeticiones o funciones.
@@ -74,6 +75,11 @@ Este tipo de instrucciones engloban una serie de repeticiones en instrucciones, 
 
 - [Computer Science Education Week - Robotics Spanish](https://csedweek.org/files/CSEDrobotics_spanish.pdf)
 - [My Robotics Friends - Code.org](https://www.youtube.com/watch?v=xaW3PAzHxCU)
+
+
+
+<br />
+
 
 
 ## Materiales

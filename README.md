@@ -12,4 +12,4 @@
 
 # Programo Ergo Sum
 
-> 🚧 Tutoriales para aprender informática, programación, electrónica y robótica educativa.
+> Tutoriales para aprender informática, programación, electrónica y robótica educativa.

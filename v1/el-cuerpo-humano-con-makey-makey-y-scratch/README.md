@@ -72,13 +72,3 @@ En el blog [La Meva Escola](https://lamevaescola.com/el-cuerpo-humano-con-makey-
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/epeL4rxz68A" allowfullscreen></iframe>
 </div>
-
-
-
-<br />
-
-
-
-## Materiales
-
-- El Cuerpo Humano con Scratch `El-cuerpo-humano.sb2`

@@ -77,24 +77,10 @@ En este reto te proponemos que modifiques la programación para que aumente la a
 ![](img/reto-1.jpg "Aumenta la altura de la gráfica")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Gráficas de audio `Graficas.sb2`
-- Reto 1: Aumenta la altura de la gráfica `Reto-1.sb2`

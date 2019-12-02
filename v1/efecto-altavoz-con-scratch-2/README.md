@@ -71,23 +71,10 @@ Un efecto que programamos en el video es el efecto de cambiar colores a través 
 ![](img/efectos.jpg "Escenario al son de la voz")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Efecto altavoz `Altavoz.sb2`

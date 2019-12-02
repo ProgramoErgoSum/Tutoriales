@@ -74,25 +74,10 @@ En este reto te proponemos que añadas un nuevo punto de corte para que se muest
 
 ![](img/reto-1.jpg "Añade nuevos puntos de corte")
 
-
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Control de volumen `Volumen.sb2`
-- Reto 1: Añade nuevos puntos de corte `Reto-1.sb2`

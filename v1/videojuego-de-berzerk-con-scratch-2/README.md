@@ -150,24 +150,10 @@ En este reto te proponemos crear los movimientos del robot para que parezca que 
 ![](img/reto-1.jpg "Crea diferentes tipos de enemigos")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Berzerk `Berzerk.sb2`
-- Reto 1: Crea diferentes tipos de enemigos `Reto-1.sb2`

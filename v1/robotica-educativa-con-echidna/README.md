@@ -141,11 +141,3 @@ A continuación, con el programa de Snap4Arduino, en el apartado de Arduino cone
 Por último, podemos probar el ejemplo de prueba para encender un led de forma intermitente y veremos que funciona perfectamente.
 
 ![](img/snap-paso-4.jpg "Paso 4")
-
-
-
-<br />
-
-
-
-## Materiales

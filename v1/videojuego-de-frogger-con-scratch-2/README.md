@@ -162,14 +162,3 @@ En este reto te proponemos implementar una nueva funcionalidad al videojuego par
 ![](img/proyecto-jguerenabarrena.gif "jguerenabarrena")
 
 ![](img/proyecto-juanpacrack.gif "juanpacrack")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Frogger `Frogger.sb2`
-- Reto 1: Consigue puntos al tocar la hoja de lirio `Reto-1.sb2`

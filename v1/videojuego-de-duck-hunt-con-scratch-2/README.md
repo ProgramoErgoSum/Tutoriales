@@ -105,15 +105,3 @@ En este reto te proponemos cambiar la programación para que el punto de mira te
 ## Mejores proyectos
 
 ![](img/proyecto-pablorubma.gif "pablorubma")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Duck Hunt `Duck-hunt.sb2`
-- Reto 1: Dispara pulsando la tecla espacio `Reto-1.sb2`
-

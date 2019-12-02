@@ -41,7 +41,7 @@ Todas las piezas de este juego se han realizado y están públicos en nuestra [p
 
 
 
-## Materiales
+## Piezas en 3D
 
 - [Piezas en 3D desde Tinkercad](https://www.tinkercad.com/things/jymUyJb4dug)
 - [Piezas en 3D desde Thingiverse](https://www.thingiverse.com/thing:3911302)

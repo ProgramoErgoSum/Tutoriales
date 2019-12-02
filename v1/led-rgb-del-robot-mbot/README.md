@@ -87,16 +87,3 @@ En este reto de programación con mBot deberás detectar el sonido del micrófon
 En este reto de programación con mBot deberás mostrar las distintas tonalidades de los LED RGB pasando por los colores rojo, verde y azul de los LEDs RGB del robot mBot.
 
 ![](img/reto-3.gif "Reto 3: Tonalidades RGB")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Led RGB en mBot `Led-rgb.sb2`
-- Reto 1: Luces aleatorias `Reto-1.sb2`
-- Reto 2: Detecta el sonido `Reto-2.sb2`
-- Reto 3: Tonalidades RGB `Reto-3.sb2`

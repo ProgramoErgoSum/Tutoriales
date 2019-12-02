@@ -120,25 +120,10 @@ Cuando empieza la partida, verás que aparece la comida. En este reto tendrás q
 
 ![](img/reto-1.gif "Crea diferentes tipos de comida")
 
-
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Pac-Man `Pac-man.sb2`
-- Reto 1: Crea diferentes tipos de comida `Reto-1.sb2`

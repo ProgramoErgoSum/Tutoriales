@@ -132,24 +132,10 @@ En este reto te proponemos que modifiques la programación del videojuego para q
 ![](img/reto-1.jpg "Aumentar la subida de Flappy según el nivel")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Flappy Bird `Flappy-bird.sb2`
-- Reto 1: Aumentar la subida de Flappy según el nivel `Reto-1.sb2`

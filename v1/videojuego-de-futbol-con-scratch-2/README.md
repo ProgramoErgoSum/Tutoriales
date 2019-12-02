@@ -101,24 +101,10 @@ En muchos videojuegos existe el llamado "handicap". En este reto tienes que modi
 ![](img/reto-1.jpg "El Jugador 1 mueve más rápido el balón")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Fútbol `Futbol.sb2`
-- Reto 1: El Jugador 1 mueve más rápido el balón `Reto-1.sb2`

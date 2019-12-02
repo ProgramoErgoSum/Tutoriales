@@ -160,14 +160,3 @@ En este reto te proponemos que añadas una nueva funcionalidad al videojuego par
 ## Mejores proyectos
 
 ![](img/proyecto-juanpacrack.gif "juanpacrack")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Space Invaders `Space-invaders.sb2`
-- Reto 1: Disparo metralleta `Reto-1.sb2`

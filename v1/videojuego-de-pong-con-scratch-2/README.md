@@ -153,14 +153,3 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 Si juegas durante mucho tiempo te derás cuenta que el videojuego no termina nunca. En este reto te propongo añadir a la programación una condición que muestre un mensaje por pantalla cuando un jugador llegue a 10 puntos. Esta programación deberás realizarla en el escenario.
 
 ![](img/reto-1.jpg "El primero en llegar a 10 puntos gana")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Pong `Pong.sb2`
-- Reto 1: Evitar atravesar las paredes `Reto-1.sb2`

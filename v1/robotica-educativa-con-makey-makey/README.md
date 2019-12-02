@@ -73,7 +73,7 @@ A continuación puedes encontrar unos cuantos ejemplos para utilizar con la plac
 
 
 
-## Materiales
+## Enlaces de interés
 
 A continuación puedes encontrar una gran cantidad de recursos educativos para utilizar utilizando Makey-Makey.
 

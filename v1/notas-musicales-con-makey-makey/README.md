@@ -84,13 +84,3 @@ En el blog [La Meva Escola](https://lamevaescola.com/las-flores-con-makey-makey/
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/exrKKlNPuuw" allowfullscreen></iframe>
 </div>
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Frutas musicales con Scratch `Frutas-musicales.sb2`

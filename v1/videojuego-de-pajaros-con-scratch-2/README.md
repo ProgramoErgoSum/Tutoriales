@@ -100,14 +100,3 @@ Seguro que te gustaría que llegue un momento en el cual la partida termina. En 
 ## Mejores proyectos
 
 ![](img/proyecto-pablorubma.gif "pablorubma")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Pájaros `Pajaros.sb2`
-- Reto 1: Consigue 10 puntos y gana la partida `Reto-1.sb2`

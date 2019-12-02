@@ -148,24 +148,10 @@ En este reto tendrás que averiguar porque no desaparecen los tanques al finaliz
 ![](img/reto-1.jpg "Haz desaparecer los tanques al finalizar la partida")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Battle City `Battle-city.sb2`
-- Reto 1: Haz desaparecer los tanques al finalizar la partida `Reto-1.sb2`

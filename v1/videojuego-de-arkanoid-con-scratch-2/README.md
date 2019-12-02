@@ -151,16 +151,3 @@ Siempre que la pelota toca un bloque de programación este se borra, sin embargo
 ![](img/proyecto-sinnombre_1.gif "sinnombre_1")
 
 ![](img/proyecto-pablorubma.gif "pablorubma")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Arkanoid `Arkanoid.sb2`
-- Reto 1: Movimiento de la nave mediante teclado `Reto-1.sb2`
-- Reto 2: Cambio de disfraces `Reto-2.sb2`
-- Reto 3: Efecto de bloque al desaparecer `Reto-3.sb2`

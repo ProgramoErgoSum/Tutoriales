@@ -59,14 +59,3 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te propongo que modifiques la programación para que el robot aumente la velocidad. Es decir, en vez de cambiar la velocidad de 10 en 10 en sus respectivas condiciones, te propongo que crees una variable llamada "Velocidad" encargada de almacenar el valor de la velocidad, 25 por ejemplo.
 
 ![](img/reto-1.jpg "Reto 1: Aumenta la velocidad")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Mando IR en mBot `Mando.sb2`
-- Reto 1: Aumentando la velocidad `Reto-1.sb2`

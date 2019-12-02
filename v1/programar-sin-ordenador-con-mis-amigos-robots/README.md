@@ -75,13 +75,3 @@ Este tipo de instrucciones engloban una serie de repeticiones en instrucciones, 
 
 - [Computer Science Education Week - Robotics Spanish](https://csedweek.org/files/CSEDrobotics_spanish.pdf)
 - [My Robotics Friends - Code.org](https://www.youtube.com/watch?v=xaW3PAzHxCU)
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Plantilla `Plantilla.pdf`

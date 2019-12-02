@@ -63,15 +63,3 @@ En este reto de programación con mBot deberás calcular el número de pelotas d
 En este reto de programación con mBot deberás programar el código que haga que el robot mBot se vaya deteniendo a medida que se va acercando a un obstáculo.
 
 ![](img/reto-2.jpg "Reto 2: Disminuyendo la velocidad")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Ultrasonidos en mBot `Ultrasonidos.sb2`
-- Reto 1: Pelotas de tenis `Reto-1.sb2`
-- Reto 2: Disminuyendo la velocidad `Reto-2.sb2`

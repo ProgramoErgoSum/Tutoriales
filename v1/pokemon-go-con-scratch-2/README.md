@@ -83,13 +83,3 @@ En esta última parte del tutorial añadimos unas cuantas mejoras al videojuego.
 ## Mejores proyectos
 
 ![](img/proyecto-inedu.gif "inedu")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Pokemon Go `Pokemon.sb2`

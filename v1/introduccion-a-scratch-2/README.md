@@ -148,13 +148,3 @@ En este último vídeo enseñamos qué son las variables en programación y cóm
 </div>
 
 Las variables son una especie de cajas en las que podemos almacenar cualquier tipo de dato o valor, como pueden ser los puntos de un personaje, el número de vidas, etc. En este videojuego se crea una variable encargada de almacenar la velocidad de uno de nuestros personajes, aunque podríamos crear varios tipos de variables para almacenar otros datos.
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de persigue `Persigue.sb2`

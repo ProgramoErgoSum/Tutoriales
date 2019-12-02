@@ -104,13 +104,3 @@ Las maquetas de este proyecto las presentaron en la convocatoria PROYECTA TÚ de
 
 - [Minion operation game](https://www.instructables.com/id/Makey-Makey-and-Scratch-Operation-Game/)
 - [Yoda operation game](https://iamclaudius.com/makey-makey-operation-game/)
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Juego de operación `Juego-de-operacion.sb2`

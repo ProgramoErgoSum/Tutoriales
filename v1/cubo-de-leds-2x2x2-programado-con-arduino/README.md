@@ -112,15 +112,3 @@ void parpadeo(int rojo, int azul){
 	}
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Cubo de LEDs - Esquema eléctrico `fritzing.fzz`
-- Cubo de LEDs en mBlock `mBlock.sb`
-- Cubo de LEDs en Arduino IDE `arduino.ino`

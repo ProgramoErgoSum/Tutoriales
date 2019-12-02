@@ -127,15 +127,3 @@ void loop() {
 Siguiendo el esquema eléctrico y explicaciones proporcionadas en la lección anterior, conectamos los led y resistencias sobre la placa de prototipado y Arduino.
 
 Para reutilizar cables, conectamos todas las resistencias a la guía serigrafiada con el polo negativo de nuestra placa de prototipado. A continuación, conectamos los led a la resistencia. Para esta conexión se ha conectado la patilla más corta del led (cátodo o negativo) a la resistencia, y la patilla más larga (ánodo o positivo) al pin digital programado en nuestro programa. Por último, se conecta el cable de USB al equipo.
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Semáforo - Esquema eléctrico `fritzing.fzz`
-- Semáforo en s4a `s4a.sb`
-- Semáforo en Arduino IDE `arduino.ino`

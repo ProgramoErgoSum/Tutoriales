@@ -65,13 +65,3 @@ Además, como lo que queremos es encender un LED de la placa de Arduino, la prog
 ![](img/programacion-mblock.jpg)
 
 Una vez programado el objeto principal, recuerda que puedes duplicar el mismo objeto para crear cuantos objetos como LEDs quieras encender. Lo único que tendrás que cambiar será el número del pin de Arduino que quieres encender.
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de Arkanoid `Arkanoid.sb2`

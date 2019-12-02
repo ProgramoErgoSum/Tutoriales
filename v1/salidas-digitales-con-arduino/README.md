@@ -393,24 +393,3 @@ void loop() {
   digitalWrite(12, LOW);
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Luz intermitente - Esquema eléctrico `fritzing.fzz`
-- Luz intermitente en mBlock `mblock.sb2`
-- Luz intermitente en Arduino IDE `arduino.ide`
-- Luz alterna - Esquema eléctrico `fritzing.fzz`
-- Luz alterna en mBlock `mblock.sb2`
-- Luz alterna en Arduino IDE `arduino.ide`
-- Semáforo peatones - Esquema eléctrico `fritzing.fzz`
-- Semáforo peatones en mBlock `mblock.sb2`
-- Semáforo peatones en Arduino IDE `arduino.ide`
-- Semáforo - Esquema eléctrico `fritzing.fzz`
-- Semáforo en mBlock `mblock.sb2`
-- Semáforo en Arduino IDE `arduino.ide`

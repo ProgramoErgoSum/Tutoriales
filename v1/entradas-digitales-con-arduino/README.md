@@ -347,21 +347,3 @@ void loop() {
   }
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Pulsador - Esquema eléctrico `fritzing.fzz`
-- Pulsador en mBlock `mblock.sb2`
-- Pulsador en Arduino `arduino.ide`
-- Distancias - Esquema eléctrico `fritzing.fzz`
-- Distancias en mBlock `mblock.sb2`
-- Distancias en Arduino `arduino.ide`
-- Detector de aparcamiento - Esquema eléctrico `fritzing.fzz`
-- Detector de aparcamiento en mBlock `mblock.sb2`
-- Detector de aparcamiento en Arduino `arduino.ide`

@@ -141,9 +141,3 @@ En este reto te proponemos que programes en Python un algoritmo encargado de bor
 En este reto te proponemos que programes en Python un algoritmo que añada bloques debajo del personaje Steve, de tal forma que si te situas en lo alto de una colina, parecerá que estás caminando entre las nubes. Para el correcto funcionamiento deberás colocar los bloques contiguos al personaje conociendo el sistema de corrdenadas
 
 ![](img/reto-3.gif "El camino del Rey")
-
-## Materiales
-
-- Reto 1: ¿Qué bloque está pisando Steve? `Reto-1.py`
-- Reto 2: Hazte paso a través de los bloques `Reto-2.py`
-- Reto 3: El camino del Rey `Reto-3.py`

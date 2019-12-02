@@ -359,27 +359,3 @@ void loop() {
   delay(15);
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Encendido nocturno - Esquema eléctrico `fritzing.fzz`
-- Encendido nocturno en mBlock `mblock.sb2`
-- Encendido nocturno en Arduino IDE `arduino.ino`
-- RGB crepuscular - Esquema eléctrico `fritzing.fzz`
-- RGB crepuscular en mBlock `mblock.sb2`
-- RGB crepuscular en Arduino IDE `arduino.ino`
-- Regulador de luz - Esquema eléctrico `fritzing.fzz`
-- Regulador de luz en mBlock `mblock.sb2`
-- Regulador de luz en Arduino IDE `arduino.ino`
-- Servomotor manual - Esquema eléctrico `fritzing.fzz`
-- Servomotor manual en mBlock `mblock.sb2`
-- Servomotor manual en Arduino IDE `arduino.ino`
-- Sensor de temperatura - Esquema eléctrico `fritzing.fzz`
-- Sensor de temperatura en mBlock `mblock.sb2`
-- Sensor de temperatura en Arduino IDE `arduino.ino`

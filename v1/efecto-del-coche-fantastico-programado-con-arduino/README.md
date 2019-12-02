@@ -97,15 +97,3 @@ En este caso observa la reducción a la mitad del código fuente. Además de que
 </div>
 
 Siguiendo el esquema eléctrico de la lección anterior, conectamos los led y resistencias sobre la placa de prototipado y Arduino. Para reutilizar cables, conectamos todas las resistencias a la guía serigrafiada con el polo negativo de nuestra placa de prototipado. A continuación, conectamos los led a la resistencia. Para esta conexión se ha conectado la patilla más corta del led (cátodo o negativo) a la resistencia, y la patilla más larga (ánodo o positivo) al pin digital programado en nuestro programa S4A.
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Coche fantástico - Esquema eléctrico `fritzing.fzz`
-- Coche fantástico en s4a `s4a.sb`
-- Coche fantástico en Arduino IDE `arduino.ino`

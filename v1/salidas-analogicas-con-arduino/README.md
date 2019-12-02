@@ -420,27 +420,3 @@ void loop() {
   delay(1000);
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales 
-
-- Luces aleatorrias - Esquema eléctrico `fritzing.fzz`
-- Luces aleatorrias en mBlock `mblock.sb2`
-- Luces aleatorrias en Arduino IDE `arduino.ide`
-- Led RGB (ánodo común) - Esquema eléctrico `fritzing.fzz`
-- Led RGB (ánodo común) en mBlock `mblock.sb2`
-- Led RGB (ánodo común) en Arduino IDE `arduino.ide`
-- Led RGB (cátodo común) - Esquema eléctrico `fritzing.fzz`
-- Led RGB (cátodo común) en mBlock `mblock.sb2`
-- Led RGB (cátodo común) en Arduino IDE `arduino.ide`
-- Servomotor - Esquema eléctrico `fritzing.fzz`
-- Servomotor en mBlock `mblock.sb2`
-- Servomotor en Arduino IDE `arduino.ide`
-- La Guerra de las Galaxias - Esquema eléctrico `fritzing.fzz`
-- La Guerra de las Galaxias en mBlock `mblock.sb2`
-- La Guerra de las Galaxias en Arduino IDE `arduino.ide`

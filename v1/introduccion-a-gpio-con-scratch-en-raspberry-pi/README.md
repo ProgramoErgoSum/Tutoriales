@@ -252,15 +252,3 @@ Una vez arrancado Scratch 2.0 tendremos que añadir la extensión situada en la 
 ![](img/anadir-extension.jpg "Añadir extensión")
 
 ¡Recuerda! Cada vez que necesites utilizar la extensión deberás cargarla realizando los mismos pasos tras la instalación (habilitar e iniciar pigpiod, arrancar s2pi y cargar extensión experimental).
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Intermitente con Scratch para Raspberry Pi `Intermitente.sb2`
-- Semáforo con Scratch para Raspberry Pi `Semáforo.sb2`
-- Pulsador con Scratch para Raspberry Pi `Pulsador.sb2`

@@ -318,16 +318,3 @@ void loop() {
   delay(1000);
 }
 ```
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Esquema eléctrico `fritzing.fzz`
-- Hola Mundo en S4A `s4a.sb2`
-- Hola Mundo en mBlock `mblock.sb2`
-- Hola Mundo en Arduino IDE `arduino.ino`

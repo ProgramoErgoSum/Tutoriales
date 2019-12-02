@@ -78,14 +78,3 @@ Si ya has completado todas las lecciones del tutorial te proponemos resolver los
 En este reto te propongo que añadas una variable al videojuego para mostrar el tiempo máximo de permanencia tocando los colores. En caso de no estar tocando ningún color el cronómetro deberá empezar de cero nuevamente.
 
 ![](img/reto-1.jpg "Añade una variable de tiempo")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- VideoJuego de tocado `Tocado.sb2`
-- Reto 1: Añade una variable de tiempo `Reto-1.sb2`

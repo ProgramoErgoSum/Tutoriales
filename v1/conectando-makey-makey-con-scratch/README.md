@@ -65,12 +65,3 @@ Para realizar este videojuego de descifrar códigos secretos, se ha incluido un 
   <iframe src="//www.youtube.com/embed/NvzFx_2Duw4" allowfullscreen></iframe>
 </div>
 
-
-
-<br />
-
-
-
-## Materiales
-
-- Código secreto con Scratch `Codigo-secreto.sb2`

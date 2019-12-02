@@ -91,24 +91,11 @@ En este reto te proponemos que cambies el sonido que aparece cuando se acierta l
 ![](img/reto-1.jpg "Utiliza tu propia voz")
 
 
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
 
-
-
-<br />
-
-
-
-## Materiales
-
-- Aprende las vocales `Vocales.sb2`
-- Reto 1: Utiliza tu propia voz `Reto-1.sb2`

@@ -94,24 +94,10 @@ En ingeniería del software, el término refactorización se usa a menudo para d
 
 Probablemente hayas visto códigos de programación con Scratch que ocupan muchísimos bloques y has intentado modificar algo y lo has visto casi imposible. Sin embargo, si tenemos el código mejor programado utilizando buenas prácticas de programación, los cambios o mejoras futuras son más fáciles de programar. Por eso, en todos nuestros tutoriales de programación con Scratch y otros lenguajes de programación explicamos siempre estas buenas prácticas.
 
-
-
+<!--
 <br />
-
-
 
 ## Mejores proyectos
 
-<!--
 ![](img/proyecto-usuario.gif "usuario")
 -->
-
-
-
-<br />
-
-
-
-## Materiales
-
-- Efecto nieve `Nieve.sb2`

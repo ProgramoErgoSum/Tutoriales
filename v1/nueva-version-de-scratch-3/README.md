@@ -108,7 +108,7 @@ Para activar estas categorías debemos incluir las extensiones en la parte infer
 
 
 
-### Activar WebGL en Scratch 3
+## Activar WebGL
 
 Si eres usuario de Linux, probablemente te haya aparecido un error al acceder a Scratch 3.0 (Your Browser Does Not Support WebGL), que indica que tu navegador debe soportar WebGL para poder acceder.
 

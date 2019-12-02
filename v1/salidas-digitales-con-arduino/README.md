@@ -7,7 +7,7 @@ En este tutorial aprenderás a programar diferentes prácticas utilizando las sa
 - Práctica 3: Semáforo simple
 - Práctica 4: Semáforo de peatones
 
-### ¿Qué materiales voy a necesitar?
+### Materiales
 
 Antes de continuar con las lecciones del curso asegúrate que dispones de todos los componentes que se van a necesitar. Los componentes utilizados en este tutorial son:
 

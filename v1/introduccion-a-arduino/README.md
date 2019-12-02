@@ -7,7 +7,7 @@ En este tutorial se explica cómo configurar la placa de arduino en nuestro orde
 - Snap 4 Arduino (basado en Snap)
 - mBlock (basado en Scratch 2.0)
 
-### ¿Qué materiales voy a necesitar?
+### Materiales
 
 Antes de continuar con las lecciones del curso asegúrate que dispones de todos los componentes que se van a necesitar. Los componentes utilizados en este tutorial son:
 

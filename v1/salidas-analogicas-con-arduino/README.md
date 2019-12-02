@@ -7,7 +7,7 @@ En este tutorial aprenderás a programar diferentes prácticas utilizando las sa
 - Práctica 3: Servomotor 0-180
 - Práctica 4: La Guerra de las Galaxias
 
-### ¿Qué materiales voy a necesitar?
+### Materiales
 
 Antes de continuar con las lecciones del curso asegúrate que dispones de todos los componentes que se van a necesitar. Los componentes utilizados en este tutorial son:
 

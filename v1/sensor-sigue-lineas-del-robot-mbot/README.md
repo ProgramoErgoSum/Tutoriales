@@ -1,8 +1,8 @@
 ## Introducción
 
-En este tutorial aprenderás a programar el sensor sigue líneas o de infrarojos del robot mBot. Para ello se programará sobre el lenguaje de programación por bloques de mBlock.
+En este tutorial aprenderás a programar el sensor sigue-líneas o de infrarrojos del robot mBot. Para ello se programará sobre el lenguaje de programación por bloques de mBlock.
 
-![](img/preview.gif "Sensor sigue líneas en mBot")
+![](img/preview.gif "Sensor sigue-líneas en mBot")
 
 
 
@@ -14,7 +14,7 @@ En este tutorial aprenderás a programar el sensor sigue líneas o de infrarojos
 
 El sigue-líneas o sensor de infrarrojos (IR) es un sensor de medición de distancia que se basa en un sistema de emisión y recepción de radiación lumínica en el espectro de los infrarrojos. Dicho de otro modo, es un sensor con una fuente de luz (diodo emisor) y detector (fototransistor) integrados en un mismo encapsulado. La detección del objeto se consigue por la reflexión (o no) del haz infrarrojo sobre la superficie del objeto. Este sensor se utiliza habitualmente para detectar el color de un objeto, en nuestro caso, distinguir blanco y negro en aplicaciones para el seguimiento de línea.
 
-![](img/sigue-lineas.jpg "Sensor de infrarojos")
+![](img/sigue-lineas.jpg "Sensor de infrarrojos")
 
 El funcionamiento del sensor es el siguiente; si el sensor del robot mBot está sobre la línea negra, los reflejos del sensor son absorbidos por la misma con lo cual el receptor del sensor no recibe ningún valor, o lo que es lo mismo, dando el valor 0. Del mismo modo, si uno de los dos sensores del robot queda fuera de la línea, se producirá el reflejo indicando los valores 1 o 2 respectivamente. Por último, si ambos sensores quedan fuera de la línea se mostrará el valor 3.
 
@@ -65,7 +65,7 @@ Es muy importante conocer las conexiones donde hemos conectado nuestro robot par
 
 ## mBlock 5 (versión actual)
 
-La programación del sigue líneas es muy sencilla siempre y cuando tengamos en cuenta los valores que devuelve el bloque de sensores. Nuestro robot variará la velocidad hacia la derecha o izquierda dependiendo de dicho valor, y parará en caso de salirse del circuito.
+La programación del sigue-líneas es muy sencilla siempre y cuando tengamos en cuenta los valores que devuelve el bloque de sensores. Nuestro robot variará la velocidad hacia la derecha o izquierda dependiendo de dicho valor, y parará en caso de salirse del circuito.
 
 ![](img/mblock-5-codigo-siguelineas.jpg "Programación en mBlock 5")
 

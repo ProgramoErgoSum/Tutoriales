@@ -99,31 +99,46 @@ En el siguiente [repositorio](https://github.com/adam-p/markdown-here/wiki/Markd
 
 <br />
 
+
+
 ## Repositorios privados y públicos
-Supongamos que quieres crear un, hmmm... Código para [Arduino](https://www.programoergosum.es/tutoriales/tags/arduino), lo escribes en el IDE y decides publicarlo. Cuando vas a GitHub y cuando creas un repositorio piensas que sería mejor primero trabajar un poco en él sin que nadie pueda interactuar con el repositorio y después hacerlo público. Ésto es muy válido y tiene una solución: repositorios privados. Puedes configurar un repositorio como privado desde que lo creas:
+
+Supongamos que quieres crear un, hmmm... Código para [Arduino](https://www.programoergosum.es/tutoriales/tags/arduino), lo escribes en el IDE y decides publicarlo. Cuando vas a GitHub y cuando creas un repositorio piensas que sería mejor primero trabajar un poco en él sin que nadie pueda interactuar con el repositorio y después hacerlo público.
+
+Ésto es muy válido y tiene una solución: repositorios privados. Puedes configurar un repositorio como privado desde que lo creas:
+
 ![](img/repo_privado.png "Repositorio Privado")
 
-También puedes volver privados tus repositorios públicos y viceversa.
+> También puedes volver privados tus repositorios públicos y viceversa.
 
 ### De público a privado
-Entra a tu repositorio, haz click en :gear: Settings, baja hasta el apartaado que dice "Danger zone" y haz click en el botón "Make Private". Saldrá una ventana que te pedirá que escribas tu nombre de usuario seguido de un diagonal "/" y el nombre de tu repositorio.
+
+Entra a tu repositorio, haz click en `Settings`, baja hasta el apartaado que dice `Danger zone` y haz click en el botón `Make Private`. Saldrá una ventana que te pedirá que escribas tu nombre de usuario seguido de un diagonal `/` y el nombre de tu repositorio.
+
 ![](img/make_private.png "Hacer privado")
 
 ### De privado a público
+
 El proceso es el mismo sólo que cambiand el botón de "Make private" a "Make public"
 
-## Licencia
+### Licencia
+
 La licencia es un documento que indica cómo las personas pueden usar los archivos de tu proyecto, puedes elegir una aquí:
 [Choose a license](https://choosealicense.com/)
 
-## README.md
+### README.md
+
 Un archivo README.md es un archivo Markdown que provee datos, información e instrucciones sobre tu repositorio.
 
-## [GitHub Pages](https://pages.github.com)
-¿Tienes los archivos de una página web que quieras hacer pública? Lo puedes hacer con GitHub Pages, sólo necesitas crear un repositorio con los archivos. Ve a :gear: Settings, baja hasta encontrar el apartado GitHub Pages y selecciona "Master Branch". Listo, puedes acceder a tu página desde `https://tu_nombre_de_usuario.github.io/tu_repositorio`
+### GitHub Pages
 
-## [GitHub Gists](https://gists.github.com)
-Puedes crear Gists, que son como repositorios pero con ún sólo archivo, que puede ser una nota, código, instrucciones o lo que quieras. Sólo haz click en el símbolo `+` situado en la parte superior derecha de la pantalla y `New Gist`. 
+¿Tienes los archivos de una página web que quieras hacer pública? Lo puedes hacer con [GitHub Pages](https://pages.github.com), sólo necesitas crear un repositorio con los archivos. Ve a `Settings`, baja hasta encontrar el apartado GitHub Pages y selecciona `Master Branch`.
+
+Listo, puedes acceder a tu página desde `https://tu_nombre_de_usuario.github.io/tu_repositorio`
+
+### GitHub Gists
+
+Puedes crear [GitHub Gists](https://gists.github.com), que son como repositorios pero con ún sólo archivo, que puede ser una nota, código, instrucciones o lo que quieras. Sólo haz click en el símbolo `+` situado en la parte superior derecha de la pantalla y `New Gist`. 
 
 
 ## Ejercicios propuestos

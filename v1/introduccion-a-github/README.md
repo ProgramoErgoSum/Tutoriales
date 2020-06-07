@@ -141,6 +141,11 @@ Listo, puedes acceder a tu página desde `https://tu_nombre_de_usuario.github.io
 Puedes crear [GitHub Gists](https://gists.github.com), que son como repositorios pero con ún sólo archivo, que puede ser una nota, código, instrucciones o lo que quieras. Sólo haz click en el símbolo `+` situado en la parte superior derecha de la pantalla y `New Gist`. 
 
 
+
+<br />
+
+
+
 ## Ejercicios propuestos
 
 1.- Entra a tu perfil de GitHub para añadir una foto y una descripción a tu perfil.

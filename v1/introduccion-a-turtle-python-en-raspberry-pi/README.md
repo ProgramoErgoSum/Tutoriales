@@ -88,8 +88,8 @@ Por otro lado, puede que en ocasiones queramos desplazarnos de un punto a otro s
 
 - home(distance): Desplazarse al origen de coordenadas.
 - goto((x, y)): Desplazarse a una coordenada en concreto.
-- pendown(): Subir el lápiz para no mostrar el rastro.
-- penup(): Bajar el lápiz para mostrar el rastro.
+- penup(): Subir el lápiz para mostrar el rastro.
+- pendown(): Bajar el lápiz para no mostrar el rastro.
 
 Por último, puede que queramos cambiar el color o tamaño del lápiz. En ese caso utilizaremos las siguientes funciones gráficas:
 

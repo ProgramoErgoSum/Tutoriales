@@ -94,9 +94,6 @@ migueabellan@Ubuntu:~ $ git flow hotfix finish bug_1
 
 Una vez solucionado el bug y cerrada la rama de hotfix, observaremos que los cambios se han fusionado sobre las ramas master y develop para que podamos seguir trabajando con normalidad.
 
-
 <br />
-
-## Conclusiones
 
 Como veis GitFlow automatiza la forma de trabajar con git, aplicando un flujo de trabajo adaptándose perfectamente a la mayoría de los proyectos de desarrollo de software.

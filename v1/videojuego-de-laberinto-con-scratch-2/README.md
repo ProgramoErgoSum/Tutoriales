@@ -112,6 +112,10 @@ De forma muy parecida como se realizó en el primer apartado, en este caso detec
 
 ## Retos de Scratch
 
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/Tdvnv3LKmGE" allowfullscreen></iframe>
+</div>
+
 Si ya has completado todas las lecciones del tutorial te proponemos resolver los siguientes retos de programación con Scratch.
 
 ### Reto 1: Evita atravesar las paredes
